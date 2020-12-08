@@ -1,0 +1,7 @@
+retrieval_model: /common/home/fh199/CookGAN/retrieval_model/wandb/run-20201204_174135-6w1fft7l/files/00000000.ckpt
+ckpt_path: /common/home/fh199/CookGAN/cookgan/wandb/run-20201208_132237-179ysfpv/files/000000.ckpt
+ckpt_dir: /common/home/fh199/CookGAN/cookgan/wandb/run-20201208_132237-179ysfpv/files/
+batch_size: 64
+n_sample: 5000
+inception: inception_Recipe1M_salad.pkl
+device: cuda
