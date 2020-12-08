@@ -1,0 +1,5 @@
+__pycache__/
+metrics/
+wandb/
+UPMC-Food-101
+models/
