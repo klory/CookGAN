@@ -9,6 +9,8 @@ import os
 import json
 from gensim.models.keyedvectors import KeyedVectors
 from PIL import Image
+from tqdm import tqdm
+import matplotlib.pyplot as plt
 
 import sys
 sys.path.append('../')
@@ -103,7 +105,8 @@ class FoodDataset(data.Dataset):
 
     def __getitem__(self, index):
         rcp = self.recipes[index]
-
+        id_=rcp['id']
+        '''
         title, n_words_in_title = get_title_wordvec(rcp, self.w2i) # np.int [max_len]
         ingredients, n_ingrs, _ = get_ingredients_wordvec_withClasses(rcp, self.w2i, self.ingr2i) # np.int [max_len]
         instructions, n_insts, n_words_each_inst = get_instructions_wordvec(rcp, self.w2i) # np.int [max_len, max_len]
@@ -119,7 +122,10 @@ class FoodDataset(data.Dataset):
         wrong_img_name = choose_one_image_path(self.recipes[wrong_idx], self.img_dir)
         wrong_imgs = get_imgs(wrong_img_name, self.imsize, transform=self.transform, normalize=self.norm, levels=self.levels)
 
-        return txt, imgs, wrong_imgs, rcp['title']
+        return txt, imgs, wrong_imgs, rcp['title'],id_
+        '''
+        return id_
+        
 
     def __len__(self):
         return len(self.recipes)
@@ -152,19 +158,64 @@ if __name__ == '__main__':
         train_set, batch_size=args.batch_size,
         drop_last=False, shuffle=False, num_workers=int(args.workers))
 
-    for txt, imgs, w_imgs, title in train_loader:
-        print(len(txt))
-        for one_txt in txt:
-            print(one_txt.shape)
-        
-        print(len(imgs))
-        for img in imgs:
-            print(img.shape)
-        
-        print(len(w_imgs))
-        for img in w_imgs:
-            print(img.shape)
+    l=list()
+    #for txt, imgs, w_imgs, title,id_ in tqdm(train_loader):
+    for id_ in tqdm(train_loader):
+        l=l+list(id_)
+    print(len(l))
 
-        print(len(title))
-        print(title[0])
-        input()
+    train_set = FoodDataset(
+        recipe_file=args.recipe_file,
+        img_dir=args.img_dir,
+        levels=args.levels,
+        part='train', 
+        food_type='cookie',
+        base_size=args.base_size, 
+        transform=train_transform)
+    train_loader = torch.utils.data.DataLoader(
+        train_set, batch_size=args.batch_size,
+        drop_last=False, shuffle=False, num_workers=int(args.workers))
+    #for txt, imgs, w_imgs, title,id_ in tqdm(train_loader):
+    for id_ in tqdm(train_loader):
+        l=l+list(id_)
+    print(len(l))
+    train_set = FoodDataset(
+        recipe_file=args.recipe_file,
+        img_dir=args.img_dir,
+        levels=args.levels,
+        part='train', 
+        food_type='muffin',
+        base_size=args.base_size, 
+        transform=train_transform)
+    train_loader = torch.utils.data.DataLoader(
+        train_set, batch_size=args.batch_size,
+        drop_last=False, shuffle=False, num_workers=int(args.workers))
+    #for txt, imgs, w_imgs, title,id_ in tqdm(train_loader):
+    for id_ in tqdm(train_loader):
+        l=l+list(id_)
+    print(len(l))
+    D=pickle.load(open('recipe_vector1.pkl','rb'))
+    D1=pickle.load(open('id_vector.pkl','rb'))
+    counter=0
+    cvg=list()
+    idt=np.zeros(1362)
+    N=0
+    for id_ in l:
+        if id_ in D:
+            counter=counter+1
+            idn=np.sum(D1[id_]>0)
+            an=np.sum(D[id_]['number']>0)
+            cvg.append(an/idn)
+            idt=idt+(D1[id_]>0)
+            N=N+idn
+    '''
+    cvg=np.array(cvg)
+    print(np.sum(cvg==1))
+    print(np.mean(cvg))
+    plt.hist(cvg)
+    plt.show()
+    '''
+    print(np.sum(idt>0))
+    print(N/counter)
+    #print(counter)
+    #print(counter/len(l))
