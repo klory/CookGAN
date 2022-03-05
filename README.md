@@ -95,6 +95,11 @@ go to `CookGAN/metrics/`,
 * Run `python fid.py` to compute the FIDs under a certain checkpoint directory.
 * Run `python medR.py` to compute the median ranks under a certain checkpoint directory.
 
+### Genearte an image from the trained model
+
+1. Download the trained model from the [Google drive folder](https://drive.google.com/drive/folders/1URwnLMVKx3avmUI0ITjxzgjFkpvmiS3Q?usp=sharing).
+2. Run the notebook test_model.ipynb to generate an image.
+
 <!-- # Experiemnts
 ## Generate fake images
 >assume you have `models/salad.ckpt` and `models/salad.json`
