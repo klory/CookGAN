@@ -1,0 +1,1326 @@
+[
+  {
+    "ingredients": [
+      "lettuce",
+      "mandarin_oranges",
+      "red_onions",
+      "mayonnaise",
+      "sugar",
+      "milk",
+      "white_vinegar",
+      "poppy_seeds"
+    ],
+    "url": "http://www.food.com/recipe/mandarin-salad-with-poppy-seed-dressing-445763",
+    "partition": "val",
+    "title": "Mandarin Salad With Poppy Seed Dressing",
+    "id": "07425716db",
+    "instructions": [
+      "Cut or tear lettuce into bite size pieces .",
+      "Thinly slice the red onion .",
+      "Drain liquid from mandarin_oranges and pat dry with a paper towel .",
+      "Gently toss together in a large bowl .",
+      "Wisk together all dressing ingredients until sugar is dissolved and texture is smooth .",
+      "Pour dressing ( amount to taste ) over salad and serve .",
+      "Note : Dressing can be made a day ahead and refrigerated ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "lettuce",
+      "orange",
+      "red_onions",
+      "mayonnaise",
+      "sugar",
+      "milk",
+      "white_vinegar",
+      "poppy_seeds"
+    ]
+  },
+  {
+    "ingredients": [
+      "cranberries",
+      "sugar",
+      "orange",
+      "apples",
+      "coconut",
+      "marshmallows",
+      "nuts"
+    ],
+    "url": "http://www.food.com/recipe/cranberry-salad-314349",
+    "partition": "val",
+    "title": "Cranberry Salad",
+    "id": "10f5f05a0b",
+    "instructions": [
+      "Add the cranberries and the sugar together in the food processor and grind well , add the orange and apple grind until well combined .",
+      "Add the coconut , marshmallows and nuts , stir to incorporate .",
+      "If you let the mixture set for a few days in the refrigerator , it gets much better .",
+      "Serve in a glass jar to show how pretty it is ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cranberries",
+      "sugar",
+      "orange",
+      "apples",
+      "coconut",
+      "marshmallows",
+      "nuts"
+    ]
+  },
+  {
+    "ingredients": [
+      "garlic",
+      "lemon_juice",
+      "orange_juice",
+      "salt",
+      "black_pepper",
+      "olive_oil",
+      "chipotle_peppers",
+      "parsley",
+      "mint"
+    ],
+    "url": "http://www.foodnetwork.com/recipes/parsley-and-mint-salad-with-chipotle-vinaigrette-recipe.html",
+    "partition": "val",
+    "title": "Parsley and Mint Salad with Chipotle Vinaigrette",
+    "id": "112d3b527e",
+    "instructions": [
+      "Bring a small pan of lightly salted water to a boil .",
+      "Blanch the sliced garlic for about 3 minutes , and drain .",
+      "Set aside .",
+      "In a small bowl , whisk together the lemon_juice , orange_juice , salt , and pepper .",
+      "Drizzle in the olive_oil in a slow , thin stream , whisking all the time , until emulsified .",
+      "Stir in the minced chiles .",
+      "Place washed and dried greens in a bowl , add the slivered garlic and the dressing , and toss to coat evenly .",
+      "Place a mound of greens on each plate .",
+      "Note : To pickle chipotle_peppers , combine 6 peppers that have been stemmed and , if desired , seeded with 2 cups of red wine vinegar in a small non reactive saucepan .",
+      "Bring to a boil , then reduce the heat so the vinegar is simmering .",
+      "Cook , covered , for 5 minutes .",
+      "Set aside to cool , then store in a glass jar in the refrigerator for up to 3 months ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "garlic",
+      "lemon_juice",
+      "orange",
+      "salt",
+      "black_pepper",
+      "olive_oil",
+      "chipotle_peppers",
+      "parsley",
+      "mint"
+    ]
+  },
+  {
+    "ingredients": [
+      "marshmallows",
+      "mandarin_oranges",
+      "pineapple",
+      "sour_cream"
+    ],
+    "url": "http://www.food.com/recipe/ambrosia-salad-18287",
+    "partition": "val",
+    "title": "Ambrosia Salad",
+    "id": "1271427a61",
+    "instructions": [
+      "Mix all of the above well .",
+      "Refrigerate 4 to 6 hours before eating ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "new_ingrs": [
+      "marshmallows",
+      "orange",
+      "pineapple",
+      "sour_cream"
+    ]
+  },
+  {
+    "ingredients": [
+      "cranberries",
+      "orange",
+      "water",
+      "orange_Jell_-_O",
+      "gelatin",
+      "sugar",
+      "orange",
+      "apples",
+      "pecans"
+    ],
+    "url": "http://tastykitchen.com/recipes/salads/cranberry-salad-8/",
+    "partition": "val",
+    "title": "Cranberry Salad",
+    "id": "1e30825bf1",
+    "instructions": [
+      "Grind/chop cranberries and orange peel ( cut inner white portion of peel off and discard ) .",
+      "Set aside .",
+      "Boil water , add jello and stir until dissolved ; add sugar and stir until dissolved .",
+      "Add cranberry mixture and stir until evenly distributed in jello .",
+      "Cut orange slices and apples into small bite sized pieces ; add pecans .",
+      "Stir fruits and nuts into jello mixture and stir until evenly distributed .",
+      "Chill ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cranberries",
+      "orange",
+      "water",
+      "orange",
+      "gelatin",
+      "sugar",
+      "orange",
+      "apples",
+      "pecans"
+    ]
+  },
+  {
+    "ingredients": [
+      "orange",
+      "red_onions",
+      "spring_onions",
+      "lettuce"
+    ],
+    "url": "http://www.kraftrecipes.com/recipes/italian-orange-salad-50504.aspx",
+    "partition": "val",
+    "title": "Italian Orange Salad",
+    "id": "1ff5edb6b2",
+    "instructions": [
+      "Toss oranges and onions in large salad bowl .",
+      "Add dressing ; mix lightly .",
+      "Spoon lettuce mixture evenly onto 4 salad plates ; top with the orange mixture ."
+    ],
+    "images": [
+      {
+        "id": "958be1cb20.jpg",
+        "url": "http://assets.kraftfoods.com/recipe_images/Italian_Orange_Salad.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "new_ingrs": [
+      "orange",
+      "red_onions",
+      "spring_onions",
+      "lettuce"
+    ]
+  },
+  {
+    "ingredients": [
+      "chicken",
+      "sliced_almonds",
+      "celery",
+      "onion",
+      "salt",
+      "mandarin_oranges",
+      "grapes",
+      "mayonnaise"
+    ],
+    "url": "http://www.food.com/recipe/bow-tie-chicken-salad-290746",
+    "partition": "val",
+    "title": "Bow Tie Chicken Salad",
+    "id": "2498932f37",
+    "instructions": [
+      "Combine the chicken , pasta , almonds , celery , onion and salt in a large bowl and mix well .",
+      "Carefully fold in the mandarin_oranges and grapes .",
+      "Stir in enough mayonnaise to make of the desired consistency .",
+      "Store in the refrigerator , covered , until serving time ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "chicken",
+      "sliced_almonds",
+      "celery",
+      "onion",
+      "salt",
+      "orange",
+      "grapes",
+      "mayonnaise"
+    ]
+  },
+  {
+    "ingredients": [
+      "water",
+      "orange",
+      "cranberries",
+      "apples",
+      "sugar",
+      "celery",
+      "walnuts"
+    ],
+    "url": "http://allrecipes.com/recipe/cranberry-salad-vii/",
+    "partition": "val",
+    "title": "Cranberry Salad VII",
+    "id": "2ecc8812c6",
+    "instructions": [
+      "Dissolve gelatin in water .",
+      "Refrigerate 1/2 hour , or until it begins to gel .",
+      "Mix together orange , cranberries , apples and sugar .",
+      "In a 9x13 inch dish , mix the gelatin , fruit mixture , celery and walnuts",
+      "Chill in the refrigerator 3 to 4 hours , until firm ."
+    ],
+    "images": [
+      {
+        "id": "be656b6624.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/513000.jpg"
+      }
+    ],
+    "valid": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "water",
+      "orange",
+      "cranberries",
+      "apples",
+      "sugar",
+      "celery",
+      "walnuts"
+    ]
+  },
+  {
+    "ingredients": [
+      "gelatin",
+      "pineapple",
+      "cranberry_sauce",
+      "mandarin_oranges",
+      "sugar",
+      "pecans",
+      "water"
+    ],
+    "url": "http://www.food.com/recipe/sunshines-cranberry-salad-379131",
+    "partition": "val",
+    "title": "Sunshine's Cranberry Salad",
+    "id": "3350f3a99a",
+    "instructions": [
+      "Combine gelatin and sugar in a mixing bowl .",
+      "Melt cranberry_sauce in a small saucepan over low heat .",
+      "Boil water and pour over the gelatin and sugar , stirring until dissolved .",
+      "Add the cranberry_sauce , pineapple , mandarin_oranges and nuts to gelatin and sugar mixture and stir well .",
+      "Pour in a shallow casserole dish or mold .",
+      "Refrigerate until firm ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "gelatin",
+      "pineapple",
+      "cranberry_sauce",
+      "orange",
+      "sugar",
+      "pecans",
+      "water"
+    ]
+  },
+  {
+    "ingredients": [
+      "orange_juice",
+      "rice_vinegar",
+      "sesame",
+      "sugar",
+      "salt",
+      "garlic",
+      "vegetable_oil",
+      "sesame_oil"
+    ],
+    "url": "http://www.myrecipes.com/recipe/orange-sesame-salad-dressing",
+    "partition": "val",
+    "title": "Orange-Sesame Salad Dressing",
+    "id": "357f27ab9b",
+    "instructions": [
+      "Combine first 7 ingredients in a medium bowl .",
+      "Slowly drizzle oils into juice mixture , stirring constantly with a whisk ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "orange",
+      "rice_vinegar",
+      "sesame",
+      "sugar",
+      "salt",
+      "garlic",
+      "vegetable_oil",
+      "sesame_oil"
+    ]
+  },
+  {
+    "ingredients": [
+      "mayonnaise",
+      "orange_juice",
+      "apples",
+      "turkey",
+      "prunes",
+      "celery",
+      "walnuts",
+      "lettuce"
+    ],
+    "url": "http://www.food.com/recipe/dried-plum-waldorf-salad-288140",
+    "partition": "val",
+    "title": "Dried Plum Waldorf Salad",
+    "id": "41b03915d5",
+    "instructions": [
+      "In medium bowl , combine mayonnaise and orange_juice .",
+      "Add apples , turkey , prunes , celery and walnuts , tossing to coat .",
+      "chill in refrigerator and then serve on lettuce , if you desire ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "mayonnaise",
+      "orange",
+      "apples",
+      "turkey",
+      "prunes",
+      "celery",
+      "walnuts",
+      "lettuce"
+    ]
+  },
+  {
+    "ingredients": [
+      "orange",
+      "red_onions",
+      "spring_onions",
+      "lettuce"
+    ],
+    "url": "http://www.kraftrecipes.com/recipes/-12198.aspx",
+    "partition": "val",
+    "title": "Italian Orange Salad",
+    "id": "4df2daa5c8",
+    "instructions": [
+      "Toss oranges and onions in large salad bowl .",
+      "Add dressing ; mix lightly .",
+      "Spoon lettuce mixture evenly onto 4 salad plates ; top with the orange mixture ."
+    ],
+    "images": [
+      {
+        "id": "a4412e69c9.jpg",
+        "url": "http://assets.kraftfoods.com/recipe_images/Italian_Orange_Salad.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "new_ingrs": [
+      "orange",
+      "red_onions",
+      "spring_onions",
+      "lettuce"
+    ]
+  },
+  {
+    "ingredients": [
+      "red_onions",
+      "orange",
+      "olive_oil",
+      "lemon_juice",
+      "orange_juice",
+      "mint",
+      "salt",
+      "black_olives"
+    ],
+    "url": "http://www.food.com/recipe/orange-salad-with-olives-mint-33028",
+    "partition": "val",
+    "title": "Orange Salad With Olives & Mint",
+    "id": "50ced683d9",
+    "instructions": [
+      "Soak onions in ice water for 30 minutes , drain .",
+      "Meanwhile , peel oranges as directed above , making sure as much of the white pith as possible is removed .",
+      "Slice , crosswise as thinly as possible and save any juice that accumulates from the slicing .",
+      "Lay the oranges in a spiral on a platter .",
+      "Combine the oil , lemon and orange_juice with salt , mint and any of the accumulated orange_juice .",
+      "Toss the onion slices over the oranges .",
+      "Spread the dressing over both evenly .",
+      "Then sprinkle with olives ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "red_onions",
+      "orange",
+      "olive_oil",
+      "lemon_juice",
+      "orange",
+      "mint",
+      "salt",
+      "black_olives"
+    ]
+  },
+  {
+    "ingredients": [
+      "water",
+      "orange",
+      "cranberries",
+      "apples",
+      "sugar",
+      "celery",
+      "walnuts"
+    ],
+    "url": "http://www.food.com/recipe/linneas-cranberry-salad-236852",
+    "partition": "val",
+    "title": "Linnea's Cranberry Salad",
+    "id": "589b3455b8",
+    "instructions": [
+      "Dissolve gelatin in water .",
+      "Refrigerate 1/2 hour or until it begins to gel .",
+      "In a large bowl , mix together orange , cranberries , apples and sugar .",
+      "Add the gelatin , celery and walnuts .",
+      "Chill in the refrigerator 3 to 4 hours , until firm .",
+      "Transfer to a pretty serving bowl and serve chilled ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "water",
+      "orange",
+      "cranberries",
+      "apples",
+      "sugar",
+      "celery",
+      "walnuts"
+    ]
+  },
+  {
+    "ingredients": [
+      "pineapple",
+      "pie_filling",
+      "condensed_milk",
+      "whipped_topping",
+      "walnuts",
+      "cream_cheese",
+      "mandarin_oranges"
+    ],
+    "url": "http://www.food.com/recipe/sweetheart-salad-pink-salad-319897",
+    "partition": "val",
+    "title": "Sweetheart Salad ( Pink Salad )",
+    "id": "5a17d58243",
+    "instructions": [
+      "Mix all ingredients together .",
+      "Chill .",
+      "Enjoy ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "pineapple",
+      "pie_filling",
+      "condensed_milk",
+      "whipped_topping",
+      "walnuts",
+      "cream_cheese",
+      "orange"
+    ]
+  },
+  {
+    "ingredients": [
+      "salt",
+      "pepper",
+      "sugar",
+      "vinegar",
+      "vegetable_oil",
+      "chili_sauce",
+      "parsley",
+      "sliced_almonds",
+      "sugar",
+      "sugar",
+      "lettuce",
+      "lettuce",
+      "celery",
+      "spring_onions",
+      "mandarin_oranges"
+    ],
+    "url": "http://www.food.com/recipe/knock-your-socks-off-mandarin-salad-336241",
+    "partition": "val",
+    "title": "Knock Your Socks off Mandarin Salad",
+    "id": "5a59779ef7",
+    "instructions": [
+      "Shake dressing ingredients in tightly covered jar , refrigerate .",
+      "Cook almonds and 1 tablespoon plus 1 teaspoon sugar over low heat , stirring constantly until sugar is melted and almonds are coated .",
+      "Cool , break apart .",
+      "Store at room temperature .",
+      "Tear lettuce and romaine into bite-size pieces ( about 4 cups ) .",
+      "Place greens in a large salad bowl with cover , add celery and onion .",
+      "Cover and refrigerate .",
+      "5 minutes before serving , pour dressing into bowl , add 1 can ( 11 ounces ) mandarin orange segments , drained .",
+      "Toss until greens and oranges are well coated .",
+      "Add almonds and toss .",
+      "To serve immediately : Do not refrigerate dressing or salad .",
+      "NOTE : As above , cooked white chicken ( one pound ) can be added to make a main meal , good for a lunchen dish ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "salt",
+      "pepper",
+      "sugar",
+      "vinegar",
+      "vegetable_oil",
+      "chili_sauce",
+      "parsley",
+      "sliced_almonds",
+      "sugar",
+      "sugar",
+      "lettuce",
+      "lettuce",
+      "celery",
+      "spring_onions",
+      "orange"
+    ]
+  },
+  {
+    "ingredients": [
+      "orange_Jell_-_O",
+      "cream_cheese"
+    ],
+    "url": "http://cookeatshare.com/recipes/pineapple-cheese-jello-salad-48906",
+    "partition": "val",
+    "title": "Pineapple Cheese Jello Salad Recipe",
+    "id": "5b05ec0280",
+    "instructions": [
+      "Mix cheese and Jello .",
+      "Then add in 4 c . boiling water .",
+      "Stir till well dissolved .",
+      "When begins to thicken add in crushed pineapple .",
+      "Chill ."
+    ],
+    "valid": [
+      true,
+      true,
+      false
+    ],
+    "new_ingrs": [
+      "orange",
+      "cream_cheese"
+    ]
+  },
+  {
+    "ingredients": [
+      "salad_greens",
+      "mandarin_oranges",
+      "red_onions",
+      "pecans",
+      "Italian_dressing"
+    ],
+    "url": "http://www.kraftrecipes.com/recipes/citrus-toasted-pecan-salad-53653.aspx",
+    "partition": "val",
+    "title": "Citrus & Toasted Pecan Salad",
+    "id": "5d6032b00c",
+    "instructions": [
+      "Mix salad_greens , oranges , bacon , onion and pecans in large bowl .",
+      "Add dressing ; toss lightly ."
+    ],
+    "images": [
+      {
+        "id": "da077f8284.jpg",
+        "url": "http://assets.kraftfoods.com/recipe_images/Citrus-Toasted_Pecan_Salad.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "salad_greens",
+      "orange",
+      "red_onions",
+      "pecans",
+      "Italian_dressing"
+    ]
+  },
+  {
+    "ingredients": [
+      "pineapple",
+      "mandarin_oranges",
+      "marshmallows",
+      "sour_cream",
+      "coconut",
+      "pecans",
+      "maraschino_cherries"
+    ],
+    "url": "http://tastykitchen.com/recipes/salads/5-cup-ambrosia-salad-2/",
+    "partition": "val",
+    "title": "5-Cup Ambrosia Salad",
+    "id": "5f3a87e34c",
+    "instructions": [
+      "Drain the fruit well .",
+      "Mix all ingredients together , put into a pretty bowl , and top with cherries .",
+      "Keep refrigerated until ready to serve .",
+      "Note : if you make it several hours ahead of time , its best to add the marshmallows just before serving to keep them from breaking down too much .",
+      "Then top with cherries .",
+      "( Recipe courtesy of The Stuffed Cougar )"
+    ],
+    "images": [
+      {
+        "id": "d3f0bb5f19.jpg",
+        "url": "http://tastykitchen.com/recipes/wp-content/uploads/sites/2/2010/03/Fruit-Salad1.JPG"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "pineapple",
+      "orange",
+      "marshmallows",
+      "sour_cream",
+      "coconut",
+      "pecans",
+      "maraschino_cherries"
+    ]
+  },
+  {
+    "ingredients": [
+      "spinach",
+      "red_onions",
+      "mandarin_oranges",
+      "craisins",
+      "sliced_almonds",
+      "feta",
+      "Italian_dressing"
+    ],
+    "url": "http://www.food.com/recipe/beautiful-salad-448796",
+    "partition": "val",
+    "title": "Beautiful Salad",
+    "id": "5f440d6aaa",
+    "instructions": [
+      "Place servings of spinach onto salad plates .",
+      "Top with red onion , mandarin_oranges , cranberries , sliced_almonds and feta in that order .",
+      "Drizzle dressing over each salad ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "spinach",
+      "red_onions",
+      "orange",
+      "craisins",
+      "sliced_almonds",
+      "feta",
+      "Italian_dressing"
+    ]
+  },
+  {
+    "ingredients": [
+      "orange_juice",
+      "vinegar",
+      "olive_oil"
+    ],
+    "url": "http://cookeatshare.com/recipes/mango-chicken-salad-with-dressing-39731",
+    "partition": "val",
+    "title": "Mango Chicken Salad With Dressing Recipe",
+    "id": "76e1a98d5e",
+    "instructions": [
+      "1 .",
+      "In a small bowl mix juice and vinegar .",
+      "Slowly whisk in oil .",
+      "2 .",
+      "Add in remaining ingredients and toss .",
+      "Serves 4 to 6 ."
+    ],
+    "valid": [
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "orange",
+      "vinegar",
+      "olive_oil"
+    ]
+  },
+  {
+    "ingredients": [
+      "sour_cream",
+      "mayonnaise",
+      "orange",
+      "bananas",
+      "pineapple",
+      "marshmallows",
+      "lettuce",
+      "coconut"
+    ],
+    "url": "http://www.kraftrecipes.com/recipes/-17274.aspx",
+    "partition": "val",
+    "title": "Heavenly Fruit Salad",
+    "id": "952171e26b",
+    "instructions": [
+      "Mix sour_cream and mayo in large bowl .",
+      "Stir in fruit and marshmallows ; cover .",
+      "Refrigerate several hours or overnight .",
+      "Serve on lettuce-covered salad plates .",
+      "Sprinkle with coconut ."
+    ],
+    "images": [
+      {
+        "id": "99a0e756d7.jpg",
+        "url": "http://assets.kraftfoods.com/recipe_images/opendeploy/51608_640x428.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "sour_cream",
+      "mayonnaise",
+      "orange",
+      "bananas",
+      "pineapple",
+      "marshmallows",
+      "lettuce",
+      "coconut"
+    ]
+  },
+  {
+    "ingredients": [
+      "chicken",
+      "onion",
+      "salt",
+      "lemon_juice",
+      "celery",
+      "grapes",
+      "mayonnaise",
+      "mandarin_oranges",
+      "sliced_almonds"
+    ],
+    "url": "http://www.food.com/recipe/mandarin-chicken-salad-70106",
+    "partition": "val",
+    "title": "Mandarin Chicken Salad",
+    "id": "a49418f7f5",
+    "instructions": [
+      "Combine chicken , onion , salt , lemon and celery and refrigerate for several hours .",
+      "At serving time , toss chicken carefully with grapes , oranges , almonds and mayonnaise ."
+    ],
+    "images": [
+      {
+        "id": "7acccbf680.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/70/10/6/picL5uxjA.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "chicken",
+      "onion",
+      "salt",
+      "lemon_juice",
+      "celery",
+      "grapes",
+      "mayonnaise",
+      "orange",
+      "sliced_almonds"
+    ]
+  },
+  {
+    "ingredients": [
+      "shallots",
+      "olive_oil",
+      "lemon_juice",
+      "orange",
+      "arugula",
+      "fennel",
+      "red_onions"
+    ],
+    "url": "http://www.epicurious.com/recipes/food/views/arugula-fennel-and-orange-salad-100529",
+    "partition": "val",
+    "title": "Arugula , Fennel and Orange Salad",
+    "id": "aa57afa36f",
+    "instructions": [
+      "Whisk minced shallots , olive_oil and lemon_juice in medium bowl to blend .",
+      "Season dressing to taste with salt and pepper .",
+      "Cut all peel and white pith from orange .",
+      "Using small sharp knife , cut between membranes to release segments .",
+      "Combine arugula , fennel and onion in large bowl .",
+      "Toss with enough dressing to coat .",
+      "Add orange segments ; toss to combine .",
+      "Season salad to taste with salt and pepper and serve ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "shallots",
+      "olive_oil",
+      "lemon_juice",
+      "orange",
+      "arugula",
+      "fennel",
+      "red_onions"
+    ]
+  },
+  {
+    "ingredients": [
+      "mandarin_oranges",
+      "pineapple",
+      "coconut",
+      "marshmallows",
+      "sour_cream"
+    ],
+    "url": "http://cookeatshare.com/recipes/easy-5-cup-fruit-salad-50002",
+    "partition": "val",
+    "title": "Easy 5 Cup Fruit Salad Recipe",
+    "id": "b53fe48744",
+    "instructions": [
+      "Combine ingredients .",
+      "Refrigerateand serve ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "orange",
+      "pineapple",
+      "coconut",
+      "marshmallows",
+      "sour_cream"
+    ]
+  },
+  {
+    "ingredients": [
+      "gelatin",
+      "water",
+      "Orange_sherbet",
+      "mandarin_oranges",
+      "pineapple"
+    ],
+    "url": "http://www.food.com/recipe/mandarin-orange-salad-234505",
+    "partition": "val",
+    "title": "Mandarin Orange Salad",
+    "id": "cd2ac44696",
+    "instructions": [
+      "Dissolve the gelatin in the water .",
+      "Add the remaining ingredients and pour the mixture into an 8-cup mold .",
+      "Refrigerate until firm ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "gelatin",
+      "water",
+      "Orange_sherbet",
+      "orange",
+      "pineapple"
+    ]
+  },
+  {
+    "ingredients": [
+      "sour_cream",
+      "coconut",
+      "marshmallows",
+      "mandarin_oranges",
+      "pineapple"
+    ],
+    "url": "http://www.food.com/recipe/5-cup-fruit-salad-308638",
+    "partition": "val",
+    "title": "5 Cup Fruit Salad",
+    "id": "cd2d6ec7fe",
+    "instructions": [
+      "Place all ingredients in a bowl and mix thoroughly .",
+      "Place in refrigerator at least 12 hours prior to serving to allow setup ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "sour_cream",
+      "coconut",
+      "marshmallows",
+      "orange",
+      "pineapple"
+    ]
+  },
+  {
+    "ingredients": [
+      "pineapple",
+      "mandarin_oranges",
+      "sour_cream",
+      "marshmallows",
+      "coconut"
+    ],
+    "url": "http://allrecipes.com/recipe/sarahs-ambrosia-fruit-salad/",
+    "partition": "val",
+    "title": "Sarah's Ambrosia Fruit Salad",
+    "id": "ce432bb018",
+    "instructions": [
+      "Mix pineapple , oranges , sour_cream , marshmallows , and coconut together in a bowl .",
+      "Cover bowl with plastic wrap and refrigerate until flavors blend , 2 hours to overnight ."
+    ],
+    "images": [
+      {
+        "id": "4420f13aee.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/1861505.jpg"
+      },
+      {
+        "id": "6a6b2fe77e.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/1085529.jpg"
+      },
+      {
+        "id": "f8bf2e02ef.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/2106750.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "pineapple",
+      "orange",
+      "sour_cream",
+      "marshmallows",
+      "coconut"
+    ]
+  },
+  {
+    "ingredients": [
+      "pineapple",
+      "coconut",
+      "mandarin_oranges",
+      "marshmallows",
+      "sour_cream",
+      "pecans"
+    ],
+    "url": "http://www.foodgeeks.com/recipes/660",
+    "partition": "val",
+    "title": "Pineapple-Orange Fruit Salad",
+    "id": "d4e2b0d744",
+    "instructions": [
+      "Mix ingredients together .",
+      "Chill and serve ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "pineapple",
+      "coconut",
+      "orange",
+      "marshmallows",
+      "sour_cream",
+      "pecans"
+    ]
+  },
+  {
+    "ingredients": [
+      "pineapple",
+      "fruit_cocktail",
+      "mandarin_oranges",
+      "marshmallows"
+    ],
+    "url": "http://www.food.com/recipe/fruit-salad-124059",
+    "partition": "val",
+    "title": "Fruit Salad",
+    "id": "e1671354d1",
+    "instructions": [
+      "Mix all ingredients together .",
+      "Refrigerate ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "pineapple",
+      "fruit_cocktail",
+      "orange",
+      "marshmallows"
+    ]
+  },
+  {
+    "ingredients": [
+      "orange_juice",
+      "balsamic_vinegar",
+      "olive_oil",
+      "salt_and_pepper"
+    ],
+    "url": "http://www.food.com/recipe/citrus-salad-dressing-by-dr-andrew-weil-217117",
+    "partition": "val",
+    "title": "Citrus Salad Dressing by Dr Andrew Weil",
+    "id": "ee52a47890",
+    "instructions": [
+      "Whisk all the ingredients together or combine in a small jar and shake well .",
+      "Keeps in the refrigerator for 2 days ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "orange",
+      "balsamic_vinegar",
+      "olive_oil",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "vegetable_oil",
+      "onion",
+      "garlic",
+      "turmeric",
+      "cumin",
+      "salt",
+      "black_pepper",
+      "rice",
+      "water",
+      "bay_leaf",
+      "oregano",
+      "black_beans",
+      "yellow_pepper",
+      "orange_bell_pepper",
+      "tomatoes",
+      "vinegar",
+      "parsley",
+      "lime"
+    ],
+    "url": "http://www.food.com/recipe/black-bean-and-yellow-rice-salad-262496",
+    "partition": "val",
+    "title": "Black-Bean and Yellow-Rice Salad",
+    "id": "f3daf217f7",
+    "instructions": [
+      "In a medium saucepan , heat 2 tablespoons of the oil over moderately low heat .",
+      "Add the onion & peppers ; cook , stirring occasionally , until translucent , about 7 minutes .",
+      "Stir in the garlic , turmeric , cumin , 1 teaspoon of the salt , the black_pepper , oregano and rice .",
+      "Cook , stirring frequently , for 2 minutes .",
+      "Add the water or broth and bay_leaf ; bring to a simmer .",
+      "Reduce the heat to low and cook , covered , until all the liquid is absorbed and the rice is done , about 20 minutes .",
+      "Remove the bay_leaf .",
+      "In a large glass or stainless-steel bowl , combine the rice , beans , bell pepper , and tomatoes .",
+      "Add the remaining 1 tablespoon oil and 1/4 teaspoon salt , the vinegar , and parsley .",
+      "Toss gently to combine .",
+      "Serve with lime wedges , if using ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "vegetable_oil",
+      "onion",
+      "garlic",
+      "turmeric",
+      "cumin",
+      "salt",
+      "black_pepper",
+      "rice",
+      "water",
+      "bay_leaf",
+      "oregano",
+      "black_beans",
+      "yellow_pepper",
+      "orange",
+      "tomatoes",
+      "vinegar",
+      "parsley",
+      "lime"
+    ]
+  }
+]

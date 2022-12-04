@@ -1,0 +1,811 @@
+[
+  {
+    "ingredients": [
+      "eggplants",
+      "salt",
+      "pepper",
+      "mesclun",
+      "basil",
+      "tomatoes",
+      "cooking_spray"
+    ],
+    "url": "http://www.food.com/recipe/eggplant-tomato-salad-359143",
+    "partition": "val",
+    "title": "Eggplant & Tomato Salad",
+    "id": "ce7c019055",
+    "instructions": [
+      "Cut 2 medium eggplants into 1/2 inch slices .",
+      "Coat a baking pan with cooking_spray and put eggplant in in a single layer .",
+      "Coat each slice with cooking_spray on both sides .",
+      "Bake at 450 degrees until browned , about 20 minutes , turning once .",
+      "Sprinkle eggplant with 1/4 teaspoon salt .",
+      "Sprinkle eggplant with 1/8 teaspoon pepper .",
+      "Allow eggplant to cool .",
+      "Toss together 7 cups mesclun greens and 1 cup whole basil .",
+      "Divide among 4 plates .",
+      "Top greens with eggplants and 2 large sliced tomatoes .",
+      "Drizzle each salad with 1 tablespoon parmesan-basil dressing ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "eggplants",
+      "salt",
+      "pepper",
+      "mesclun",
+      "basil",
+      "tomatoes",
+      "cooking_spray"
+    ]
+  },
+  {
+    "ingredients": [
+      "potatoes",
+      "olive_oil",
+      "salt_and_pepper",
+      "tomatoes",
+      "basil",
+      "balsamic_vinegar"
+    ],
+    "url": "http://www.delish.com/recipefinder/tomato-potato-salad-basil-mslo0510-recipe",
+    "partition": "val",
+    "title": "Tomato-Potato Salad with Basil",
+    "id": "dccb3e9a68",
+    "instructions": [
+      "Brush potato slices lightly with oil and sprinkle with salt_and_pepper .",
+      "Place on a medium-hot grill and cook , covered , 3 to 5 minutes on each side , or until tender .",
+      "Slice tomatoes and arrange on plates along with potatoes , tucking basil leaves among them .",
+      "Drizzle with vinegar and additional oil , and sprinkle with salt_and_pepper to taste ."
+    ],
+    "images": [
+      {
+        "id": "1ff5b72726.jpg",
+        "url": "http://del.h-cdn.co/assets/cm/15/10/54f66be672a11_-_tomato-potato-salad-basil-mslo0510-xl.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "potatoes",
+      "olive_oil",
+      "salt_and_pepper",
+      "tomatoes",
+      "basil",
+      "balsamic_vinegar"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt_and_pepper",
+      "basil"
+    ],
+    "url": "http://www.chowhound.com/recipes/lemon-cucumber-tomato-salad-29753",
+    "partition": "val",
+    "title": "Lemon Cucumber Tomato Salad Recipe yaridog",
+    "id": "e7dff837c4",
+    "instructions": [
+      "put cucumbers and tomatoes in bowl",
+      "drizzle with olive_oil and balsamic_vinegar",
+      "add salt_and_pepper and mix together",
+      "top with torn basil"
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt_and_pepper",
+      "basil"
+    ]
+  },
+  {
+    "ingredients": [
+      "broccoli",
+      "red_onions",
+      "bacon",
+      "raisins",
+      "walnuts",
+      "mayonnaise",
+      "sugar",
+      "vinegar"
+    ],
+    "url": "http://cookeatshare.com/recipes/broccoli-salad-49016",
+    "partition": "val",
+    "title": "Broccoli Salad Recipe",
+    "id": "6418f3c3be",
+    "instructions": [
+      "Chop the bacon and fry till crisp ; crumble into salad .",
+      "Add in minced onion , raisins , and nuts .",
+      "Dressing : Mix mayonnaise , sugar , and vinegar .",
+      "Pour over salad just before serving ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "broccoli",
+      "red_onions",
+      "bacon",
+      "raisins",
+      "walnuts",
+      "mayonnaise",
+      "sugar",
+      "vinegar"
+    ]
+  },
+  {
+    "ingredients": [
+      "broccoli",
+      "bacon",
+      "red_onions",
+      "sliced_almonds",
+      "blue_cheese",
+      "mayonnaise",
+      "sugar",
+      "vinegar"
+    ],
+    "url": "http://www.food.com/recipe/broccoli-salad-227348",
+    "partition": "val",
+    "title": "Broccoli Salad",
+    "id": "7b279a00ba",
+    "instructions": [
+      "Combine all the salad ingredients .",
+      "Pour dressing over and toss well to coat .",
+      "Chill till all flavors have mingled .",
+      "Served cold ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "broccoli",
+      "bacon",
+      "red_onions",
+      "sliced_almonds",
+      "blue_cheese",
+      "mayonnaise",
+      "sugar",
+      "vinegar"
+    ]
+  },
+  {
+    "ingredients": [
+      "broccoli",
+      "cauliflower",
+      "bacon",
+      "raisins",
+      "red_onions",
+      "mayonnaise",
+      "sugar",
+      "vinegar"
+    ],
+    "url": "http://www.food.com/recipe/broccoli-cauliflower-salad-85516",
+    "partition": "val",
+    "title": "Broccoli & Cauliflower Salad",
+    "id": "94cac261e4",
+    "instructions": [
+      "Mix mayonnaise , sugar and vinegar until blended well .",
+      "Combine broccoli , cauliflower , bacon , raisins and onion .",
+      "Pour mayonnaise dressing over broccoli mixture and stir to coat evenly .",
+      "Let stand for 30 minutes then serve ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "broccoli",
+      "cauliflower",
+      "bacon",
+      "raisins",
+      "red_onions",
+      "mayonnaise",
+      "sugar",
+      "vinegar"
+    ]
+  },
+  {
+    "ingredients": [
+      "broccoli",
+      "bacon",
+      "cheddar_cheese",
+      "red_onions",
+      "vinegar",
+      "sugar",
+      "mayonnaise",
+      "Miracle_Whip"
+    ],
+    "url": "http://www.food.com/recipe/sweet-broccoli-salad-196319",
+    "partition": "val",
+    "title": "'sweet' Broccoli Salad",
+    "id": "d0844ae66c",
+    "instructions": [
+      "Combine first 4 ingredients in a large bowl and mix .",
+      "Combine remaining ingredients to make dressing .",
+      "Pour dressing over broccoli mixture and mix well .",
+      "Refrigerate .",
+      "If this is going to sit a while before serving , I suggest you wait to add the bacon until just before you serve to keep the bacon crisp ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "broccoli",
+      "bacon",
+      "cheddar_cheese",
+      "red_onions",
+      "vinegar",
+      "sugar",
+      "mayonnaise",
+      "Miracle_Whip"
+    ]
+  },
+  {
+    "ingredients": [
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt",
+      "bread_cubes",
+      "tomatoes",
+      "peaches",
+      "basil"
+    ],
+    "url": "http://www.cookstr.com/recipes/peach-and-tomato-panzanella-salad",
+    "partition": "val",
+    "title": "Peach and Tomato Panzanella Salad",
+    "id": "5a38ea3204",
+    "instructions": [
+      "Prep time :",
+      "In a large serving bowl , whisk together the oil , vinegar , and salt .",
+      "Add the bread , cucumber , tomatoes , and peaches and toss lightly .",
+      "Tear the basil into small pieces and add it to the salad .",
+      "Toss again until well combined .",
+      "Serve immediately ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt",
+      "bread_cubes",
+      "tomatoes",
+      "peaches",
+      "basil"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "onion",
+      "basil",
+      "salt",
+      "black_pepper",
+      "balsamic_vinegar",
+      "olive_oil"
+    ],
+    "url": "http://tastykitchen.com/recipes/salads/fresh-tomato-salad/",
+    "partition": "val",
+    "title": "Fresh Tomato Salad",
+    "id": "e119612dc2",
+    "instructions": [
+      "* All amounts are estimates , depending on what you have on hand , and if this is used as a lunch ( 2 servings ) or side dish for dinner ( 4 servings ) and size of the fruits .",
+      "Wash , dry , and cut up tomatoes as desired ( fork-able cuts are best ) .",
+      "Cut the onion in half and slice .",
+      "Tear up the basil leaves or chop them roughly .",
+      "Toss it all gently in an appropriately sized bowl and sprinkle with salt & pepper .",
+      "Drizzle a little vinegar & oil just before serving ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "onion",
+      "basil",
+      "salt",
+      "black_pepper",
+      "balsamic_vinegar",
+      "olive_oil"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "onion",
+      "olive_oil",
+      "basil",
+      "salt_and_pepper"
+    ],
+    "url": "http://www.food.com/recipe/tomato-salad-35624",
+    "partition": "val",
+    "title": "Tomato Salad",
+    "id": "74c42f9d3d",
+    "instructions": [
+      "Combine all ingredients and chill salad an hour before serving for best taste ."
+    ],
+    "images": [
+      {
+        "id": "fc2f978710.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/35/62/4/picVAVtSe.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "onion",
+      "olive_oil",
+      "basil",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt",
+      "sugar",
+      "pepper",
+      "tomatoes",
+      "onion",
+      "basil"
+    ],
+    "url": "http://www.food.com/recipe/tomato-onion-salad-144336",
+    "partition": "val",
+    "title": "Tomato & Onion Salad",
+    "id": "dd6be79d3c",
+    "instructions": [
+      "Whisk together the first 5 ingredients in a large bowl .",
+      "Arrange tomato and onion slices in rows on a serving dish .",
+      "Sprinkle with chopped basil .",
+      "Drizzle evenly with marinade .",
+      "Cover and let stand at room temperature for at least 2 hours .",
+      "Serve with a slotted spoon ."
+    ],
+    "images": [
+      {
+        "id": "724e17a3ff.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/14/43/36/picKQVz5w.jpg"
+      },
+      {
+        "id": "9b62df3706.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/14/43/36/picnjqk9n.jpg"
+      },
+      {
+        "id": "cf8c4ea2e8.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/14/43/36/picTWtWR0.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt",
+      "sugar",
+      "pepper",
+      "tomatoes",
+      "onion",
+      "basil"
+    ]
+  },
+  {
+    "ingredients": [
+      "lemon_juice",
+      "salt",
+      "black_pepper",
+      "olive_oil",
+      "red_onions",
+      "basil"
+    ],
+    "url": "http://www.chowhound.com/recipes/fresh-corn-and-tomato-salad-25636",
+    "partition": "val",
+    "title": "Fresh Corn and Tomato Salad Recipe",
+    "id": "1ee0cdf1fb",
+    "instructions": [
+      "Prepare an ice water bath by filling a large bowl halfway with ice and water ; set aside .",
+      "Bring a large pot of heavily salted water to a boil over high heat .",
+      "Add the corn kernels and cook until tender , about 4 minutes .",
+      "Drain and place in the ice water bath until cool , about 4 minutes .",
+      "Combine the lemon_juice , salt , and pepper in a large , nonreactive bowl .",
+      "While continuously whisking , add the oil in a steady stream until completely incorporated .",
+      "Add the remaining ingredients and the cooled corn and toss until well coated .",
+      "Serve ."
+    ],
+    "images": [
+      {
+        "id": "47dfddecae.jpg",
+        "url": "http://search.chow.com/thumbnail/1280/800/www.chowstatic.com/assets/recipe_photos/25636_tomato_corn_salad.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "lemon_juice",
+      "salt",
+      "black_pepper",
+      "olive_oil",
+      "red_onions",
+      "basil"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "garlic",
+      "basil",
+      "salt",
+      "pepper",
+      "vinegar",
+      "olive_oil"
+    ],
+    "url": "http://www.food.com/recipe/calabrian-tomato-salad-313370",
+    "partition": "val",
+    "title": "Calabrian Tomato Salad",
+    "id": "ff789a2012",
+    "instructions": [
+      "Chop the tomatoes into large , but bite size pieces keeping the seeds and juice .",
+      "Place into a medium bowl .",
+      "Add the other ingredients except the olive_oil .",
+      "Mix well .",
+      "Add olive_oil .",
+      "Mix well again .",
+      "Marinate at room temperature for at least one hour ."
+    ],
+    "images": [
+      {
+        "id": "ab2a3be263.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/31/33/70/pic16Ublk.jpg"
+      },
+      {
+        "id": "b5daea0750.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/31/33/70/pic0D3kPy.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "garlic",
+      "basil",
+      "salt",
+      "pepper",
+      "vinegar",
+      "olive_oil"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "tomatoes",
+      "olives",
+      "Italian_dressing"
+    ],
+    "url": "http://www.food.com/recipe/easy-summer-pasta-salad-236741",
+    "partition": "val",
+    "title": "Easy Summer Pasta Salad",
+    "id": "ddb2182c84",
+    "instructions": [
+      "Boil a large pot of water for the box of pasta .",
+      "After the water comes to a boil , dump in the whole box of pasta .",
+      "Use a large mixing bowl .",
+      "Core the tomato .",
+      "and Slice the cucumbers .",
+      "Cut the cucumbers and tomato into small pieces .",
+      "Then place in the bowl .",
+      "Add the whole can of black olives .",
+      "Once the pasta has cooked , let it cool for an hour .",
+      "After it has cooled , add the pasta to the bowl with the vegetables .",
+      "Mix the vegetables and pasta .",
+      "After you have mixed up all the ingredients , Add the bottle of Italian_dressing .",
+      "Mix in the Italian_dressing .",
+      "Then add the Salad Supreme Seasoning and mix it up again .",
+      "Finally put in the frig and let it chill for 2 hours .",
+      "Once chilled , Enjoy ."
+    ],
+    "images": [
+      {
+        "id": "47f600fcc4.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/23/67/41/picOchMtz.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumbers",
+      "tomatoes",
+      "olives",
+      "Italian_dressing"
+    ]
+  },
+  {
+    "ingredients": [
+      "red_onions"
+    ],
+    "url": "https://cookpad.com/us/recipes/364978-crunchy-3-bean-salad",
+    "partition": "val",
+    "title": "Crunchy 3 Bean Salad",
+    "id": "875598ded5",
+    "instructions": [
+      "Add all ingredients to a medium mixing bowl .",
+      "Stir until blended .",
+      "Refrigerate for at least an hour ."
+    ],
+    "images": [
+      {
+        "id": "c7d969314d.jpg",
+        "url": "https://img-global.cpcdn.com/001_recipes/6338905793626112/0x0/photo.jpg"
+      }
+    ],
+    "valid": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "new_ingrs": [
+      "red_onions"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "basil",
+      "garlic",
+      "olive_oil",
+      "salt_and_pepper",
+      "olive_oil",
+      "balsamic_vinegar",
+      "basil",
+      "black_olives"
+    ],
+    "url": "http://www.food.com/recipe/roasted-tomato-salad-63172",
+    "partition": "val",
+    "title": "Roasted Tomato Salad",
+    "id": "3e6537efd5",
+    "instructions": [
+      "Preheat the oven to 400 degrees F .",
+      "Skin the tomatoes , cut a cross at the bottom , pour boiling water over them , leave for up to a minute , drain and slip off their skins .",
+      "Cut them in half and place them , cut side up , in an oiled , approx 16x12 inches , roasting tin .",
+      "Season with salt_and_pepper , sprinkle evenly over them the garlic and the olive_oil .",
+      "Tear the basil leaves in half and put them on the tomatoes , flipping them over so they get some oil .",
+      "Place the tomatoes in the oven and roast them for 45 minutes to an hour depending on your oven ( the edges should be slightly blackened ) Remove from the oven and cool .",
+      "To serve , transfer them to induvidual or a large serving plate ( with their juices ) whisk together the oil and the vinegar , drizzle over the tomatoes .",
+      "Have some nice crusty bread on the side .",
+      "Scatter over more basil and the black_olives ."
+    ],
+    "images": [
+      {
+        "id": "4da31aff5e.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/63/17/2/picczjkG1.jpg"
+      },
+      {
+        "id": "bbe3f823bd.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/63/17/2/picncs4UG.jpg"
+      },
+      {
+        "id": "fa5351dde8.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/63/17/2/picXvL73P.jpg"
+      },
+      {
+        "id": "ff466ee6b0.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/63/17/2/picAjklQ4.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "basil",
+      "garlic",
+      "olive_oil",
+      "salt_and_pepper",
+      "olive_oil",
+      "balsamic_vinegar",
+      "basil",
+      "black_olives"
+    ]
+  },
+  {
+    "ingredients": [
+      "garlic",
+      "olive_oil",
+      "basil",
+      "salt",
+      "black_pepper"
+    ],
+    "url": "http://www.food.com/recipe/sarahs-fabulous-summer-pasta-salad-11978",
+    "partition": "val",
+    "title": "Sarah's Fabulous Summer Pasta Salad",
+    "id": "5d805181c2",
+    "instructions": [
+      "Put pasta on to boil .",
+      "Halve tomatoes .",
+      "Place tomatoes in large bowl with all other remaining ingredients , stir well , cover and leave .",
+      "When pasta is al dente , drain , and then add to tomato mixture .",
+      "The warm pasta will semi-cook the basil and garlic , releasing its flavour .",
+      "Serve immediately , with crusty Italian bread and a nice glass of red wine ."
+    ],
+    "valid": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "garlic",
+      "olive_oil",
+      "basil",
+      "salt",
+      "black_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "tomatoes",
+      "spring_onions",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt",
+      "black_pepper",
+      "basil"
+    ],
+    "url": "https://cookpad.com/us/recipes/333202-armenian-cucumber-and-tomato-salad",
+    "partition": "val",
+    "title": "Armenian Cucumber and Tomato Salad",
+    "id": "60028d01c3",
+    "instructions": [
+      "Toss sliced cucumbers , tomatoes and spring_onions in bowl",
+      "Season with salt and coarse ground black_pepper to taste",
+      "No need to drain as with regular cucumbers .",
+      "Armenian cucumbers does not have high water content or many seeds",
+      "Pour olive_oil and balsamic over salad .",
+      "Toss to coat .",
+      "Sprinkle with basil flakes",
+      "Let marinate at least two hrs before serving .",
+      "The longer the better .",
+      "Keeps well for several days"
+    ],
+    "images": [
+      {
+        "id": "9e99aab03c.jpg",
+        "url": "https://img-global.cpcdn.com/001_recipes/35755710/0x0/photo.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumbers",
+      "tomatoes",
+      "spring_onions",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt",
+      "black_pepper",
+      "basil"
+    ]
+  }
+]

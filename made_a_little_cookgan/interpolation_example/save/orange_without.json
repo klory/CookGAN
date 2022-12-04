@@ -1,0 +1,1091 @@
+[
+  {
+    "ingredients": [
+      "lettuce",
+      "red_onions",
+      "pomegranate_seeds",
+      "mayonnaise",
+      "sugar",
+      "milk",
+      "white_vinegar",
+      "poppy_seeds"
+    ],
+    "url": "http://www.food.com/recipe/pomegranate-and-poppy-seed-salad-197392",
+    "partition": "val",
+    "title": "Pomegranate and Poppy Seed Salad",
+    "id": "55beae8f24",
+    "instructions": [
+      "In a large bowl , mix the romaine , onion and pomegranate_seeds .",
+      "In a small bowl , mix the remaining ingredients until well blended .",
+      "Pour over salad ; toss to coat .",
+      "Serve immediately ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "lettuce",
+      "red_onions",
+      "pomegranate_seeds",
+      "mayonnaise",
+      "sugar",
+      "milk",
+      "white_vinegar",
+      "poppy_seeds"
+    ]
+  },
+  {
+    "ingredients": [
+      "cranberries",
+      "sugar",
+      "nuts",
+      "apples",
+      "marshmallows",
+      "whipped_cream"
+    ],
+    "url": "http://cookeatshare.com/recipes/mother-in-law-cranberry-salad-49089",
+    "partition": "val",
+    "title": "Mother In Law Cranberry Salad Recipe",
+    "id": "4895d0274c",
+    "instructions": [
+      "The day before the salad is to be served , mix cranberries and sugar and let set in refrigerator .",
+      "Next day , drain berries and add in all remaining ingredients .",
+      "Folding together gently .",
+      "Salad will be luscious pink color ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cranberries",
+      "sugar",
+      "nuts",
+      "apples",
+      "marshmallows",
+      "whipped_cream"
+    ]
+  },
+  {
+    "ingredients": [
+      "eggplants",
+      "garlic",
+      "lemon_juice",
+      "salt",
+      "parsley",
+      "mint",
+      "spring_onions",
+      "lemon_juice",
+      "olive_oil",
+      "salt",
+      "black_pepper"
+    ],
+    "url": "http://cooking.nytimes.com/recipes/6717",
+    "partition": "val",
+    "title": "Eggplant Caviar And Parsley-Mint Salad Topping",
+    "id": "f8a661a986",
+    "instructions": [
+      "To make the eggplant , grill over white coals until tender , about 5 minutes per side .",
+      "Peel off the skin , chop the flesh and place in a bowl .",
+      "Stir in the garlic , lemon_juice and salt .",
+      "To make the salad , combine the parsley , mint and spring_onions .",
+      "Add the lemon_juice , olive_oil , salt and pepper and toss well .",
+      "When ready to assemble , spread the eggplant caviar over the pizzas , top with the salad and serve .",
+      "Use on lemon-pepper crust ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "eggplants",
+      "garlic",
+      "lemon_juice",
+      "salt",
+      "parsley",
+      "mint",
+      "spring_onions",
+      "lemon_juice",
+      "olive_oil",
+      "salt",
+      "black_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "pineapple",
+      "cherries",
+      "marshmallows",
+      "sour_cream"
+    ],
+    "url": "http://online-cookbook.com/goto/cook/rpage/00130E",
+    "partition": "val",
+    "title": "Fruit Salad",
+    "id": "d51dcb5974",
+    "instructions": [
+      "Combine all .",
+      "Chill and serve ."
+    ],
+    "valid": [
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "pineapple",
+      "cherries",
+      "marshmallows",
+      "sour_cream"
+    ]
+  },
+  {
+    "ingredients": [
+      "cranberries",
+      "sugar",
+      "water",
+      "gelatin",
+      "celery",
+      "apples",
+      "pecans"
+    ],
+    "url": "http://allrecipes.com/recipe/grandma-freels-cranberry-salad/",
+    "partition": "val",
+    "title": "Grandma Freel's Cranberry Salad",
+    "id": "059843f22d",
+    "instructions": [
+      "Stir cranberries , sugar , and water together in a saucepan ; cook over medium heat , stirring often , until most of the berries have popped open , about 20 minutes .",
+      "Remove saucepan from heat .",
+      "Stir gelatin into the cranberries mixture until dissolved completely ; add celery , apple , and pecans and stir .",
+      "Pour into a glass 13x9-inch dish .",
+      "Refrigerate until set in the center , 10 to 12 hours ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cranberries",
+      "sugar",
+      "water",
+      "gelatin",
+      "celery",
+      "apples",
+      "pecans"
+    ]
+  },
+  {
+    "ingredients": [
+      "red_onions",
+      "spring_onions",
+      "wine",
+      "lettuce"
+    ],
+    "url": "http://www.kraftrecipes.com/recipes/italian-orange-salad-kosher-50505.aspx",
+    "partition": "val",
+    "title": "Italian Orange Salad ( Kosher )",
+    "id": "3531783e17",
+    "instructions": [
+      "Toss oranges , red onion , spring_onions and dressing .",
+      "Spoon over lettuce on serving plate ."
+    ],
+    "valid": [
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "red_onions",
+      "spring_onions",
+      "wine",
+      "lettuce"
+    ]
+  },
+  {
+    "ingredients": [
+      "chicken",
+      "celery",
+      "lemon_juice",
+      "onion",
+      "mayonnaise",
+      "salt",
+      "pepper",
+      "grapes",
+      "grapes",
+      "sliced_almonds",
+      "lettuce"
+    ],
+    "url": "http://www.food.com/recipe/chicken-salad-286248",
+    "partition": "val",
+    "title": "Chicken Salad",
+    "id": "851c298b1a",
+    "instructions": [
+      "Combine chicken , celery , lemon_juice and onion and chill at least one hour .",
+      "Combine mayonnaise , salt and pepper .",
+      "Add mayonnaise mixture , grapes and almonds to chilled chicken mixture ; toss gently .",
+      "Serve chicken salad in lettuce cups ."
+    ],
+    "images": [
+      {
+        "id": "de3680fdfb.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/28/62/48/pic8Lbcas.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "chicken",
+      "celery",
+      "lemon_juice",
+      "onion",
+      "mayonnaise",
+      "salt",
+      "pepper",
+      "grapes",
+      "grapes",
+      "sliced_almonds",
+      "lettuce"
+    ]
+  },
+  {
+    "ingredients": [
+      "gelatin",
+      "sugar",
+      "water",
+      "cranberry_juice",
+      "apples",
+      "cranberries",
+      "celery",
+      "walnuts"
+    ],
+    "url": "http://www.food.com/recipe/cranberry-apple-waldorf-gelatin-salad-190636",
+    "partition": "val",
+    "title": "Cranberry Apple Waldorf Gelatin Salad",
+    "id": "40eb92d07e",
+    "instructions": [
+      "In a large bowl , mix gelatin and sugar ; add water and stir until gelatin is completely dissolved .",
+      "Add juice ; chill in refrigerator until mixture has consistency of unbeaten egg whites .",
+      "Fold in apple , cranberries , celery , and walnuts .",
+      "Pour into a 8-inch square pan ; cover with plastic wrap and chill in refrigerator until firm .",
+      "To serve , cut into squares ."
+    ],
+    "images": [
+      {
+        "id": "99664a8be8.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/19/06/36/picWNWFkv.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "gelatin",
+      "sugar",
+      "water",
+      "cranberry_juice",
+      "apples",
+      "cranberries",
+      "celery",
+      "walnuts"
+    ]
+  },
+  {
+    "ingredients": [
+      "gelatin",
+      "water",
+      "cranberry_sauce",
+      "pineapple",
+      "pecans"
+    ],
+    "url": "http://www.food.com/recipe/simple-cranberry-congealed-salad-105631",
+    "partition": "val",
+    "title": "Simple Cranberry Congealed Salad",
+    "id": "1e87ff8e66",
+    "instructions": [
+      "Dissolve gelatin in water .",
+      "Add reserved pineapple juice and cool to room temperature .",
+      "Whip cranberry_sauce with beater and add to the cooled gelatin mixture along with the pineapple and toasted pecans .",
+      "Pour into gelatin mold or 9 \" x 11 \" serving dish .",
+      "Chill until set .",
+      "NOTE : Cooking time refers to \" chilling until set \" time ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "gelatin",
+      "water",
+      "cranberry_sauce",
+      "pineapple",
+      "pecans"
+    ]
+  },
+  {
+    "ingredients": [
+      "rice_vinegar",
+      "vegetable_oil",
+      "sugar",
+      "garlic",
+      "salt",
+      "soy_sauce",
+      "sesame_oil",
+      "chili_paste",
+      "seasoning",
+      "sesame"
+    ],
+    "url": "http://cookeatshare.com/recipes/sesame-noodle-shrimp-salad-50428",
+    "partition": "val",
+    "title": "Sesame Noodle Shrimp Salad Recipe",
+    "id": "a3e9702c49",
+    "instructions": [
+      "Prepare dressing by mixing together all ingredients - then set aside ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "rice_vinegar",
+      "vegetable_oil",
+      "sugar",
+      "garlic",
+      "salt",
+      "soy_sauce",
+      "sesame_oil",
+      "chili_paste",
+      "seasoning",
+      "sesame"
+    ]
+  },
+  {
+    "ingredients": [
+      "celery",
+      "apples",
+      "walnuts",
+      "mayonnaise",
+      "lettuce"
+    ],
+    "url": "http://www.food.com/recipe/apple-and-celery-salad-323576",
+    "partition": "val",
+    "title": "Apple and Celery Salad",
+    "id": "c5eb58273f",
+    "instructions": [
+      "Combine all ingredients and chill .",
+      "Serve on lettuce or mixed salad greens ."
+    ],
+    "images": [
+      {
+        "id": "ef1e23e036.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/32/35/76/picRW5MsV.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "celery",
+      "apples",
+      "walnuts",
+      "mayonnaise",
+      "lettuce"
+    ]
+  },
+  {
+    "ingredients": [
+      "red_onions",
+      "olive_oil",
+      "salt",
+      "lemon_juice",
+      "mint"
+    ],
+    "url": "http://www.cookstr.com/recipes/orange-and-red-onion-salad-valencia",
+    "partition": "val",
+    "title": "Orange and Red Onion Salad Valencia",
+    "id": "ef50b2db0c",
+    "instructions": [
+      "In a large bowl , combine oranges and onion .",
+      "Add olive_oil , salt , lemon_juice and mint ; toss to coat well .",
+      "Let sit for a few minutes before serving ."
+    ],
+    "valid": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "red_onions",
+      "olive_oil",
+      "salt",
+      "lemon_juice",
+      "mint"
+    ]
+  },
+  {
+    "ingredients": [
+      "pie_filling",
+      "condensed_milk",
+      "pineapple",
+      "walnuts",
+      "whipped_topping"
+    ],
+    "url": "http://www.food.com/recipe/pretty-in-pink-salad-301067",
+    "partition": "val",
+    "title": "Pretty in Pink Salad",
+    "id": "13ff158250",
+    "instructions": [
+      "In a mixing bowl , combine cherry filling , condensed_milk , pineapple and walnuts ; mix well .",
+      "Gently fold in whipped_topping .",
+      "Spoon into a glass serving bowl or individual parfait glasses .",
+      "Let chill before serving ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "pie_filling",
+      "condensed_milk",
+      "pineapple",
+      "walnuts",
+      "whipped_topping"
+    ]
+  },
+  {
+    "ingredients": [
+      "lettuce",
+      "parsley",
+      "spring_onions",
+      "vegetable_oil",
+      "vinegar",
+      "sugar",
+      "salt",
+      "pepper",
+      "sliced_almonds"
+    ],
+    "url": "http://cookeatshare.com/recipes/mandarin-orange-salad-25837",
+    "partition": "val",
+    "title": "Mandarin Orange Salad Recipe",
+    "id": "dbc30472a7",
+    "instructions": [
+      "Mix ingredients for salad dressing ( ( combine in saucepan and boil till sugar dissolves ) .",
+      "Refrigeratefor 2 hrs .",
+      "Combine salad ingredients ( less almonds and oranges ) in bowl and chill .",
+      "Before serving add in almonds , oranges and top with dressing and toss ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "lettuce",
+      "parsley",
+      "spring_onions",
+      "vegetable_oil",
+      "vinegar",
+      "sugar",
+      "salt",
+      "pepper",
+      "sliced_almonds"
+    ]
+  },
+  {
+    "ingredients": [
+      "cream_cheese"
+    ],
+    "url": "http://cookeatshare.com/recipes/blueberry-lady-salad-49319",
+    "partition": "val",
+    "title": "Blueberry Lady Salad Recipe",
+    "id": "c64cb57233",
+    "instructions": [
+      "Mix Cold Whip and cream_cheese till well blended .",
+      "Stir in blueberry pie filling .",
+      "Refrigerateat least 1 hour before serving ."
+    ],
+    "valid": [
+      false,
+      false,
+      true
+    ],
+    "new_ingrs": [
+      "cream_cheese"
+    ]
+  },
+  {
+    "ingredients": [
+      "Italian_dressing",
+      "salad_greens",
+      "red_onions"
+    ],
+    "url": "http://www.kraftrecipes.com/recipes/grilled-steak-salad-54531.aspx",
+    "partition": "val",
+    "title": "Grilled Steak Salad",
+    "id": "9f6c853753",
+    "instructions": [
+      "Pour 1 cup of the dressing over steak ; cover .",
+      "Refrigerate 4 hours or overnight to marinate .",
+      "Drain , discarding dressing .",
+      "Place potatoes in double layer of heavy-duty aluminum foil to form pouch ; top with remaining 1/2 cup dressing .",
+      "Place potato pouch and steak on greased grill over medium coals .",
+      "Grill 12 to 15 minutes or until medium doneness ( 160F ) , turning occasionally .",
+      "Cut steak across grain into thin strips .",
+      "Toss greens , tomato , onion , steak strips and potatoes ."
+    ],
+    "valid": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    "new_ingrs": [
+      "Italian_dressing",
+      "salad_greens",
+      "red_onions"
+    ]
+  },
+  {
+    "ingredients": [
+      "pineapple",
+      "coconut",
+      "sour_cream",
+      "marshmallows",
+      "maraschino_cherries"
+    ],
+    "url": "http://cookeatshare.com/recipes/mandarin-orange-fruit-salad-32132",
+    "partition": "val",
+    "title": "Mandarin Orange Fruit Salad Recipe",
+    "id": "555fe7ddb3",
+    "instructions": [
+      "Combine fruit with sour_cream .",
+      "Fold in coconut and marshmallows .",
+      "Refrigerate several hrs or overnight .",
+      "Don't freeze ."
+    ],
+    "valid": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "pineapple",
+      "coconut",
+      "sour_cream",
+      "marshmallows",
+      "maraschino_cherries"
+    ]
+  },
+  {
+    "ingredients": [
+      "spinach",
+      "red_onions",
+      "feta",
+      "sliced_almonds",
+      "Italian_dressing"
+    ],
+    "url": "http://www.kraftrecipes.com/recipes/spinach-orange-salad-51086.aspx",
+    "partition": "val",
+    "title": "Spinach & Orange Salad",
+    "id": "581dc003dc",
+    "instructions": [
+      "Toss spinach , oranges , onion , cheese and almonds in large bowl .",
+      "Prepare Italian_dressing as directed on envelope .",
+      "Toss with salad ."
+    ],
+    "images": [
+      {
+        "id": "f0c2ab74de.jpg",
+        "url": "http://assets.kraftfoods.com/recipe_images/51086.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "spinach",
+      "red_onions",
+      "feta",
+      "sliced_almonds",
+      "Italian_dressing"
+    ]
+  },
+  {
+    "ingredients": [
+      "vinegar",
+      "olive_oil"
+    ],
+    "url": "http://cookeatshare.com/recipes/lo-cal-salad-dressing-12553",
+    "partition": "val",
+    "title": "Lo Cal Salad Dressing Recipe",
+    "id": "20798a0b1b",
+    "instructions": [
+      "Put into qt jar .",
+      "Add in tomato juice to fill jar .",
+      "Shake well ."
+    ],
+    "valid": [
+      false,
+      false,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "vinegar",
+      "olive_oil"
+    ]
+  },
+  {
+    "ingredients": [
+      "marshmallows",
+      "pineapple",
+      "bananas",
+      "sour_cream",
+      "coconut"
+    ],
+    "url": "http://www.kraftrecipes.com/recipes/tropical-ambrosia-salad-56922.aspx",
+    "partition": "val",
+    "title": "Tropical Ambrosia Salad",
+    "id": "c286c49dbc",
+    "instructions": [
+      "Mix all ingredients except coconut in bowl .",
+      "Refrigerate at least 15 minutes .",
+      "Stir in coconut just before serving ."
+    ],
+    "images": [
+      {
+        "id": "c01a83ae4e.jpg",
+        "url": "http://assets.kraftfoods.com/recipe_images/opendeploy/Tropical_Ambrosia_Salad_640x428.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "marshmallows",
+      "pineapple",
+      "bananas",
+      "sour_cream",
+      "coconut"
+    ]
+  },
+  {
+    "ingredients": [
+      "shallots",
+      "lemon_juice",
+      "olive_oil",
+      "arugula",
+      "fennel",
+      "ricotta_cheese"
+    ],
+    "url": "http://www.epicurious.com/recipes/food/views/salad-of-fennel-arugula-and-ricotta-salata-106107",
+    "partition": "val",
+    "title": "Salad of Fennel , Arugula , and Ricotta Salata",
+    "id": "8c39069a61",
+    "instructions": [
+      "Whisk shallots and lemon_juice in small bowl to blend .",
+      "Gradually whisk in oil .",
+      "Season to taste with salt and pepper .",
+      "Let stand 15 minutes to blend flavors .",
+      "Combine arugula and sliced fennel in large bowl .",
+      "Toss with enough dressing to coat salad .",
+      "Add shaved cheese ; toss gently and serve ."
+    ],
+    "images": [
+      {
+        "id": "2feb110b3f.jpg",
+        "url": "http://assets.epicurious.com/photos/560ea8c1f3a00aeb2f1d72d9/master/pass/106107.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "shallots",
+      "lemon_juice",
+      "olive_oil",
+      "arugula",
+      "fennel",
+      "ricotta_cheese"
+    ]
+  },
+  {
+    "ingredients": [
+      "shallots",
+      "lemon_juice",
+      "honey",
+      "olive_oil",
+      "arugula",
+      "red_onions"
+    ],
+    "url": "http://www.myrecipes.com/recipe/arugula-salad-2",
+    "partition": "val",
+    "title": "Arugula Salad",
+    "id": "fc72a3eca0",
+    "instructions": [
+      "Combine shallots , lemon_juice , and honey in a large bowl ; gradually whisk in olive_oil .",
+      "Add arugula and onion to bowl ; toss gently to coat ."
+    ],
+    "images": [
+      {
+        "id": "f0326af8fc.jpg",
+        "url": "http://cdn-image.myrecipes.com/sites/default/files/styles/300x300/public/styles/300x300/public/image/recipes/ck/11/05/arugula-salad-ck-x.jpg?itok=l-LbJ5l5"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "shallots",
+      "lemon_juice",
+      "honey",
+      "olive_oil",
+      "arugula",
+      "red_onions"
+    ]
+  },
+  {
+    "ingredients": [
+      "gelatin",
+      "water",
+      "pineapple"
+    ],
+    "url": "http://www.food.com/recipe/cranberry-orange-holiday-jello-salad-342357",
+    "partition": "val",
+    "title": "Cranberry Orange Holiday Jello Salad",
+    "id": "9809ae4e79",
+    "instructions": [
+      "Thaw cranberry orange relish if frozen .",
+      "Dissolve gelatin in water .",
+      "Stir in pineapple and relish .",
+      "Pour into mold .",
+      "Refrigerate until firm ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "gelatin",
+      "water",
+      "pineapple"
+    ]
+  },
+  {
+    "ingredients": [
+      "pineapple",
+      "bananas",
+      "grapes",
+      "coconut",
+      "marshmallows",
+      "pecans",
+      "sour_cream"
+    ],
+    "url": "http://cookeatshare.com/recipes/pineapple-ambrosia-salad-49068",
+    "partition": "val",
+    "title": "Pineapple Ambrosia Salad Recipe",
+    "id": "5a5238a3c7",
+    "instructions": [
+      "Drain pineapple , reserving 2 Tbsp .",
+      "juice .",
+      "Combine bananas , grapes , coconut , marshmallows and pecans in bowl ; mix lightly .",
+      "Blend reserved pineapple juice and lowfat sour_cream in small bowl .",
+      "Pour over fruit mix ; mix well .",
+      "Refrigerate until serving time ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "pineapple",
+      "bananas",
+      "grapes",
+      "coconut",
+      "marshmallows",
+      "pecans",
+      "sour_cream"
+    ]
+  },
+  {
+    "ingredients": [
+      "fruit_cocktail",
+      "pineapple",
+      "cream",
+      "marshmallows"
+    ],
+    "url": "http://www.food.com/recipe/fruit-salad-250002",
+    "partition": "val",
+    "title": "Fruit Salad",
+    "id": "75ebcba59e",
+    "instructions": [
+      "Drain fruit_cocktail and pineapple all day or overnight .",
+      "Combine with remaining ingredients .",
+      "Note : Freezes very well ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "fruit_cocktail",
+      "pineapple",
+      "cream",
+      "marshmallows"
+    ]
+  },
+  {
+    "ingredients": [
+      "cottage_cheese",
+      "pineapple",
+      "fruit_cocktail",
+      "marshmallows"
+    ],
+    "url": "http://cookeatshare.com/recipes/dry-jello-salad-49625",
+    "partition": "val",
+    "title": "Dry Jello Salad Recipe",
+    "id": "a67d52adc3",
+    "instructions": [
+      "Mix all ingredients together in large bowl .",
+      "Refrigeratefor 2 hrs .",
+      "Linda says you can substitute orange Jello if you like , or possibly strawberry with pineapple and fresh strawberries ."
+    ],
+    "valid": [
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cottage_cheese",
+      "pineapple",
+      "fruit_cocktail",
+      "marshmallows"
+    ]
+  },
+  {
+    "ingredients": [
+      "olive_oil",
+      "salt_and_pepper",
+      "balsamic_vinegar",
+      "arugula"
+    ],
+    "url": "http://www.foodandwine.com/recipes/roasted-eggplant-and-arugula-salad",
+    "partition": "val",
+    "title": "Roasted Eggplant and Arugula Salad",
+    "id": "f62d933e67",
+    "instructions": [
+      "Preheat the oven to 450 .",
+      "Pour 2 tablespoons of the oil onto a baking sheet and dip each strip of eggplant into the oil to coat .",
+      "Season the strips with salt_and_pepper .",
+      "Roast the eggplant on the bottom shelf of the oven until tender and deep brown on the underside , about 25 minutes .",
+      "Using a metal spatula , scrape up the eggplant and transfer to a plate .",
+      "In a small bowl , combine the remaining 3 tablespoons olive_oil with the balsamic_vinegar , 1/2 teaspoon salt and 1/4 teaspoon pepper .",
+      "In a large bowl , toss the arugula with 3 tablespoons of the dressing .",
+      "Transfer the salad to a platter and arrange the roasted eggplant on top .",
+      "Drizzle the eggplant with the remaining 2 tablespoons of dressing and serve ."
+    ],
+    "valid": [
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "olive_oil",
+      "salt_and_pepper",
+      "balsamic_vinegar",
+      "arugula"
+    ]
+  },
+  {
+    "ingredients": [
+      "vegetable_oil",
+      "onion",
+      "garlic",
+      "turmeric",
+      "cumin",
+      "salt",
+      "black_pepper",
+      "rice",
+      "water",
+      "bay_leaf",
+      "black_beans",
+      "green_peppers",
+      "tomatoes",
+      "vinegar",
+      "parsley",
+      "lime"
+    ],
+    "url": "http://www.foodandwine.com/recipes/black-bean-and-yellow-rice-salad",
+    "partition": "val",
+    "title": "Black-Bean and Yellow-Rice Salad",
+    "id": "5fbcb99c71",
+    "instructions": [
+      "In a medium saucepan , heat 2 tablespoons of the oil over moderately low heat .",
+      "Add the onion and cook , stirring occasionally , until translucent , about 5 minutes .",
+      "Stir in the garlic , turmeric , cumin , 1 teaspoon of the salt , the black_pepper , and rice .",
+      "Cook , stirring frequently , for 2 minutes .",
+      "Add the water and bay_leaf ; bring to a simmer .",
+      "Reduce the heat to low and cook , covered , until all the liquid is absorbed and the rice is done , about 20 minutes .",
+      "Remove the bay_leaf .",
+      "In a large glass or stainless-steel bowl , combine the rice , beans , bell pepper , and tomatoes .",
+      "Add the remaining 1 tablespoon oil and 1/4 teaspoon salt , the vinegar , and parsley .",
+      "Toss gently to combine .",
+      "Serve with lime wedges , if using ."
+    ],
+    "images": [
+      {
+        "id": "2a08155998.jpg",
+        "url": "http://cdn-image.foodandwine.com/sites/default/files/2012-r-xl-black-bean-and-yellow-rice-salad.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "vegetable_oil",
+      "onion",
+      "garlic",
+      "turmeric",
+      "cumin",
+      "salt",
+      "black_pepper",
+      "rice",
+      "water",
+      "bay_leaf",
+      "black_beans",
+      "green_peppers",
+      "tomatoes",
+      "vinegar",
+      "parsley",
+      "lime"
+    ]
+  }
+]

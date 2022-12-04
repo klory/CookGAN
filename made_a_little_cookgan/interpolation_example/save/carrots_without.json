@@ -1,0 +1,1137 @@
+[
+  {
+    "ingredients": [
+      "broccoli",
+      "cauliflower"
+    ],
+    "url": "http://www.food.com/recipe/broccoli-and-cauliflower-salad-67280",
+    "partition": "val",
+    "title": "Broccoli and Cauliflower Salad",
+    "id": "15dd191d48",
+    "instructions": [
+      "Wash and cut up broccoli and cauliflower .",
+      "When well drained , cover with Kraft Buttermilk Ranch Dressing .",
+      "Refrigerate till cold .",
+      "Serve cold ."
+    ],
+    "valid": [
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "broccoli",
+      "cauliflower"
+    ]
+  },
+  {
+    "ingredients": [
+      "onion",
+      "celery",
+      "mayonnaise"
+    ],
+    "url": "https://cookpad.com/us/recipes/349996-spicy-chicken-salad",
+    "partition": "val",
+    "title": "Spicy chicken salad",
+    "id": "4385c75898",
+    "instructions": [
+      "In a medium bowl , combine mayo and sriraccha",
+      "Drain chicken and add to spicy mayo",
+      "Dice onion and chop celery , add to the bowl",
+      "Mix well and chill"
+    ],
+    "images": [
+      {
+        "id": "c0fe33d1eb.jpg",
+        "url": "https://img-global.cpcdn.com/001_recipes/5059920722395136/0x0/photo.jpg"
+      }
+    ],
+    "valid": [
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "new_ingrs": [
+      "onion",
+      "celery",
+      "mayonnaise"
+    ]
+  },
+  {
+    "ingredients": [
+      "vinegar",
+      "olive_oil",
+      "honey",
+      "salt",
+      "black_pepper",
+      "radicchio",
+      "Belgian_endive"
+    ],
+    "url": "http://www.food.com/recipe/radicchio-and-endive-salad-187330",
+    "partition": "val",
+    "title": "Radicchio and Endive Salad",
+    "id": "16d6280337",
+    "instructions": [
+      "In a large bowl , whisk together Vinegar , Oil , Honey ; Season with Salt and Pepper .",
+      "Add radicchio and endive ; Toss to Coat",
+      "Serve ."
+    ],
+    "images": [
+      {
+        "id": "9e4ba1f70b.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/18/73/30/picjnj0Ee.jpg"
+      },
+      {
+        "id": "a495738ab3.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/18/73/30/picDPAe3b.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "vinegar",
+      "olive_oil",
+      "honey",
+      "salt",
+      "black_pepper",
+      "radicchio",
+      "Belgian_endive"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "vinegar",
+      "sugar",
+      "onion",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "url": "http://cookeatshare.com/recipes/marinated-cucumber-salad-51585",
+    "partition": "val",
+    "title": "Marinated Cucumber Salad Recipe",
+    "id": "7988a95b27",
+    "instructions": [
+      "Pull fork firmly down length of cucumbers , all around ; slice thinly .",
+      "Thinly slice onion and separate rings .",
+      "Combine ingredients and pour over cucumbers and onions .",
+      "Marinate in refrigerator for 1 hour or possibly overnight ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumbers",
+      "vinegar",
+      "sugar",
+      "onion",
+      "water",
+      "salt",
+      "pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "vegetable_oil",
+      "sugar",
+      "white_vinegar",
+      "salt",
+      "black_pepper",
+      "lettuce",
+      "chicken",
+      "noodles",
+      "sliced_almonds",
+      "sesame",
+      "spring_onions",
+      "poppy_seeds"
+    ],
+    "url": "http://allrecipes.com/recipe/twig-salad/",
+    "partition": "val",
+    "title": "Twig Salad",
+    "id": "1c59feda46",
+    "instructions": [
+      "In small bowl , whisk together the oil , sugar , vinegar , salt , seasoning blend , and pepper .",
+      "Set aside .",
+      "In a large bowl , combine the lettuce , chicken , noodles , almonds , sesame , spring_onions , and poppy_seeds .",
+      "Toss to blend .",
+      "Pour salad dressing over the salad just before serving ."
+    ],
+    "images": [
+      {
+        "id": "50a8880442.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/969406.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "vegetable_oil",
+      "sugar",
+      "white_vinegar",
+      "salt",
+      "black_pepper",
+      "lettuce",
+      "chicken",
+      "noodles",
+      "sliced_almonds",
+      "sesame",
+      "spring_onions",
+      "poppy_seeds"
+    ]
+  },
+  {
+    "ingredients": [
+      "eggs",
+      "onion",
+      "vinegar",
+      "sugar",
+      "mayonnaise",
+      "pepper",
+      "salt"
+    ],
+    "url": "http://cookeatshare.com/recipes/green-pea-tuna-salad-50825",
+    "partition": "val",
+    "title": "Green Pea Tuna Salad Recipe",
+    "id": "6e61402fff",
+    "instructions": [
+      "Add in all ingredients in bowl .",
+      "Mix well .",
+      "Refrigeratethen serve ."
+    ],
+    "valid": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "eggs",
+      "onion",
+      "vinegar",
+      "sugar",
+      "mayonnaise",
+      "pepper",
+      "salt"
+    ]
+  },
+  {
+    "ingredients": [
+      "mayonnaise",
+      "vinegar",
+      "mustard",
+      "sugar",
+      "salt",
+      "pepper",
+      "macaroni",
+      "celery",
+      "green_peppers",
+      "onion"
+    ],
+    "url": "http://cookeatshare.com/recipes/easy-macaroni-salad-49669",
+    "partition": "val",
+    "title": "Easy Macaroni Salad Recipe",
+    "id": "b616ed519a",
+    "instructions": [
+      "In a large bowl , stir mayonnaise , vinegar , mustard , sugar , salt and pepper till smooth .",
+      "Add in macaroni , celery , green pepper and onion , toss to coat well .",
+      "Cover ; chill at least 2 hrs ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "mayonnaise",
+      "vinegar",
+      "mustard",
+      "sugar",
+      "salt",
+      "pepper",
+      "macaroni",
+      "celery",
+      "green_peppers",
+      "onion"
+    ]
+  },
+  {
+    "ingredients": [
+      "lettuce",
+      "tomatoes",
+      "cucumbers",
+      "black_olives",
+      "feta",
+      "olive_oil",
+      "vinegar",
+      "oregano"
+    ],
+    "url": "http://www.epicurious.com/recipes/food/views/mediterranean-salad-1717",
+    "partition": "val",
+    "title": "Mediterranean Salad",
+    "id": "03068e4d95",
+    "instructions": [
+      "Combine lettuce , tomatoes , cucumbers , olives and cheese in large bowl .",
+      "Whisk olive_oil , vinegar and oregano in small bowl until well blended .",
+      "Season to taste with salt and pepper .",
+      "Pour dressing over salad and toss to coat evenly ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "lettuce",
+      "tomatoes",
+      "cucumbers",
+      "black_olives",
+      "feta",
+      "olive_oil",
+      "vinegar",
+      "oregano"
+    ]
+  },
+  {
+    "ingredients": [
+      "lettuce",
+      "red_cabbage",
+      "zucchini",
+      "snow_peas",
+      "ranch_dressing"
+    ],
+    "url": "http://www.kraftrecipes.com/recipes/garden-veggie-salad-53817.aspx",
+    "partition": "val",
+    "title": "Garden Veggie Salad",
+    "id": "9ba7134895",
+    "instructions": [
+      "Combine all ingredients except dressing in large bowl .",
+      "Add dressing just before serving ; toss to coat ."
+    ],
+    "images": [
+      {
+        "id": "09ec462064.jpg",
+        "url": "http://assets.kraftfoods.com/recipe_images/opendeploy/53817_640x428.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "lettuce",
+      "red_cabbage",
+      "zucchini",
+      "snow_peas",
+      "ranch_dressing"
+    ]
+  },
+  {
+    "ingredients": [
+      "sauerkraut",
+      "onion",
+      "green_peppers",
+      "celery",
+      "vegetable_oil",
+      "vinegar",
+      "sugar",
+      "salt"
+    ],
+    "url": "http://cookeatshare.com/recipes/mom-s-sauerkraut-salad-49295",
+    "partition": "val",
+    "title": "Mom's Sauerkraut Salad Recipe",
+    "id": "8d9c070298",
+    "instructions": [
+      "Drain the sauerkraut well .",
+      "Add in the onion , green_peppers , celery , and pimento .",
+      "Mix together the oil , vinegar , and sugar ; add in to the sauerkraut mix .",
+      "Mix well and chill ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "sauerkraut",
+      "onion",
+      "green_peppers",
+      "celery",
+      "vegetable_oil",
+      "vinegar",
+      "sugar",
+      "salt"
+    ]
+  },
+  {
+    "ingredients": [
+      "sauerkraut",
+      "onion",
+      "celery",
+      "green_peppers",
+      "sugar",
+      "vinegar"
+    ],
+    "url": "http://www.food.com/recipe/bavarian-kraut-salad-406230",
+    "partition": "val",
+    "title": "Bavarian Kraut Salad",
+    "id": "9fe012760d",
+    "instructions": [
+      "Mix kraut and vegetables in a 1 quart Corning Ware dish .",
+      "Boil sugar and vinegar until syrupy .",
+      "Pour onto kraut mixture while hot and stir .",
+      "Let cool to room temperature .",
+      "Then refrigerate for 24 hours before serving ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "sauerkraut",
+      "onion",
+      "celery",
+      "green_peppers",
+      "sugar",
+      "vinegar"
+    ]
+  },
+  {
+    "ingredients": [
+      "tuna",
+      "olive_oil",
+      "pepper",
+      "canned_chick_-_peas",
+      "asparagus",
+      "Italian_dressing"
+    ],
+    "url": "http://www.kraftrecipes.com/recipes/garbanzo-bean-tuna-salad-97412.aspx",
+    "partition": "val",
+    "title": "Garbanzo Bean and Tuna Salad",
+    "id": "a601446ea9",
+    "instructions": [
+      "Brush tuna with oil ; season with pepper to taste .",
+      "Grill 5 minutes on each side or until tuna flakes easily with fork .",
+      "Place in refrigerator to cool .",
+      "Break tuna into chunks .",
+      "Place in large bowl .",
+      "Add beans , tomatoes , asparagus and carrots ; mix lightly .",
+      "Add dressing ; toss to coat .",
+      "Cover .",
+      "Refrigerate at least 2 hours or until chilled ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "new_ingrs": [
+      "tuna",
+      "olive_oil",
+      "pepper",
+      "canned_chick_-_peas",
+      "asparagus",
+      "Italian_dressing"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "salt",
+      "cumin_seeds",
+      "cilantro",
+      "yogurt"
+    ],
+    "url": "http://www.food.com/recipe/indian-style-cucumber-salad-132822",
+    "partition": "val",
+    "title": "Indian-Style Cucumber Salad",
+    "id": "8bfab9bd08",
+    "instructions": [
+      "Toss cucumber with salt in a colander in sink and let drain 30 minutes .",
+      "Pat dry .",
+      "Toast cumin_seeds in a dry small heavy skillet over low heat , stirring constantly , until fragrant and a shade darker , 3 to 4 minutes .",
+      "Cool on a cutting board , then crush slightly with a rolling pin .",
+      "Stir cucumber , cumin , and cilantro into yogurt in a bowl ."
+    ],
+    "images": [
+      {
+        "id": "c973e19229.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/13/28/22/picFs48dh.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumbers",
+      "salt",
+      "cumin_seeds",
+      "cilantro",
+      "yogurt"
+    ]
+  },
+  {
+    "ingredients": [
+      "onion",
+      "mayonnaise",
+      "mustard",
+      "salt_and_pepper",
+      "sugar",
+      "vinegar"
+    ],
+    "url": "https://cookpad.com/us/recipes/352924-homemade-macaroni-salad",
+    "partition": "val",
+    "title": "homemade macaroni salad",
+    "id": "9dccd3eb4e",
+    "instructions": [
+      "In small or large pot cook noodles , onions , wnd sweeat peas until egg noodles are done .",
+      "Mean while drain egg noodles and rince with cold water and set a side .",
+      "In a large mixing bowl combined mayonnaise , mustard , vinegar , salt snd pepper mix well .",
+      "When done combined and toss well .",
+      "Combined shredded cheddar cheese .",
+      "And toss cheese well .",
+      "Place lid on boel and place in the refrigerator for 2 hours or until ready to use ."
+    ],
+    "images": [
+      {
+        "id": "0ecd805c02.jpg",
+        "url": "https://img-global.cpcdn.com/001_recipes/5152793119686656/0x0/photo.jpg"
+      }
+    ],
+    "valid": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "new_ingrs": [
+      "onion",
+      "mayonnaise",
+      "mustard",
+      "salt_and_pepper",
+      "sugar",
+      "vinegar"
+    ]
+  },
+  {
+    "ingredients": [
+      "rice_vermicelli",
+      "rice_vinegar",
+      "sugar",
+      "soy_sauce",
+      "salt",
+      "cucumbers",
+      "spring_onions",
+      "sesame"
+    ],
+    "url": "http://www.food.com/recipe/japanese-noodle-and-cucumber-salad-60731",
+    "partition": "val",
+    "title": "Japanese Noodle and Cucumber Salad",
+    "id": "97092b5026",
+    "instructions": [
+      "Cook the noodles in boiling water until barely tender .",
+      "Rince immediately with cold water until cool , drain thoroughly and put in a medium bowl .",
+      "Mix vinegar , sugar , soy_sauce , and salt and pour over the noodles .",
+      "Stir well .",
+      "Cover bowl with plastic wrap and chill noodles in refrigerator until cold .",
+      "Peel and seed the cucumbers .",
+      "Cut into quarters lengthwise , then into thin sticks .",
+      "Divide the noodles on four salad plates , sprinkle evenly with cucumbers pieces , green onion and sesame ."
+    ],
+    "images": [
+      {
+        "id": "0e6f6fc142.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/60/73/1/pic8BuWKg.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "rice_vermicelli",
+      "rice_vinegar",
+      "sugar",
+      "soy_sauce",
+      "salt",
+      "cucumbers",
+      "spring_onions",
+      "sesame"
+    ]
+  },
+  {
+    "ingredients": [
+      "lettuce",
+      "green_peppers",
+      "celery",
+      "red_onions",
+      "mayonnaise",
+      "sugar",
+      "cheddar_cheese",
+      "bacon"
+    ],
+    "url": "http://cookeatshare.com/recipes/seven-layer-salad-51161",
+    "partition": "val",
+    "title": "Seven Layer Salad Recipe",
+    "id": "8bcdbd811c",
+    "instructions": [
+      "Fill salad bowl half full with lettuce .",
+      "Add in layers of green pepper , celery , onion and peas .",
+      "Spread mayonnaise over peas , sealing to edge of bowl .",
+      "Sprinkle sugar , cheese and bacon on top .",
+      "Chill , tightly covered , for 8 hrs or possibly overnight .",
+      "Toss before serving .",
+      "Yield : 8 to 12 servings ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "lettuce",
+      "green_peppers",
+      "celery",
+      "red_onions",
+      "mayonnaise",
+      "sugar",
+      "cheddar_cheese",
+      "bacon"
+    ]
+  },
+  {
+    "ingredients": [
+      "vinegar",
+      "vegetable_oil",
+      "honey",
+      "salt",
+      "black_pepper",
+      "spring_onions",
+      "lettuce",
+      "orange"
+    ],
+    "url": "http://allrecipes.com/recipe/orange-romaine-salad/",
+    "partition": "val",
+    "title": "Orange Romaine Salad",
+    "id": "07bfc8de4d",
+    "instructions": [
+      "In a small container with a tight-fitting lid , combine the vinegar , oil , honey , salt , pepper and green onion .",
+      "Close the lid , and shake vigorously to blend .",
+      "Place the romaine lettuce into a large serving bowl .",
+      "Sprinkle with dressing and toss to coat .",
+      "Add orange slices and toss gently .",
+      "Serve immediately ."
+    ],
+    "images": [
+      {
+        "id": "09b453c4c3.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/204805.jpg"
+      },
+      {
+        "id": "2b0e0e1560.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/1121798.jpg"
+      },
+      {
+        "id": "3ca93769c4.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/73558.jpg"
+      },
+      {
+        "id": "83f9953c8c.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/242967.jpg"
+      },
+      {
+        "id": "9db5ffe8a7.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/407870.jpg"
+      },
+      {
+        "id": "a9a2622809.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/67566.jpg"
+      },
+      {
+        "id": "c26417ac20.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/199794.jpg"
+      },
+      {
+        "id": "f610bcaa5d.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/187471.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "vinegar",
+      "vegetable_oil",
+      "honey",
+      "salt",
+      "black_pepper",
+      "spring_onions",
+      "lettuce",
+      "orange"
+    ]
+  },
+  {
+    "ingredients": [
+      "celery",
+      "milk",
+      "salt_and_pepper",
+      "macaroni"
+    ],
+    "url": "https://cookpad.com/us/recipes/336321-sherees-tuna-and-macaroni-salad",
+    "partition": "val",
+    "title": "Sheree's Tuna and Macaroni Salad",
+    "id": "c10320e54d",
+    "instructions": [
+      "cook macaroni noodles according to package .",
+      "rinse under cold water so that they stop cooking . . . .",
+      "in large bowl add macaroni , celery , tuna , and peas .",
+      "make sure tuna is broke up .",
+      "in another bowl mix mayonnaise , dressing mix , and milk very well .",
+      "stir mayonnaise mixture into tuna mixture .",
+      "add salt_and_pepper to taste .",
+      "cover and refrigerate until your ready to serve .",
+      "* * * I love to take it to lunch with slices of tomato ."
+    ],
+    "images": [
+      {
+        "id": "7c34e84f8b.jpg",
+        "url": "https://img-global.cpcdn.com/001_recipes/52147987/0x0/photo.jpg"
+      },
+      {
+        "id": "924a9d9f98.jpg",
+        "url": "https://img-global.cpcdn.com/001_photo_reports/4506501648482304/0x0/photo.jpg"
+      },
+      {
+        "id": "9b263299ec.jpg",
+        "url": "https://img-global.cpcdn.com/001_photo_reports/6008402994528256/0x0/photo.jpg"
+      },
+      {
+        "id": "b46f77fd50.jpg",
+        "url": "https://img-global.cpcdn.com/001_photo_reports/55240265/0x0/photo.jpg"
+      },
+      {
+        "id": "b5df53ff7e.jpg",
+        "url": "https://img-global.cpcdn.com/001_photo_reports/4772805949259776/0x0/photo.jpg"
+      }
+    ],
+    "valid": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "celery",
+      "milk",
+      "salt_and_pepper",
+      "macaroni"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "salt",
+      "sugar",
+      "ginger",
+      "soy_sauce",
+      "rice_vinegar"
+    ],
+    "url": "https://cookpad.com/us/recipes/355808-japanese-cucumber-salad",
+    "partition": "val",
+    "title": "Japanese Cucumber Salad",
+    "id": "338b00b0bb",
+    "instructions": [
+      "Using a vegetable peeler strip your cucumber in 4 strips and slice off the ends and then cut in half .",
+      "Slice the cucumbers into very thin strips .",
+      "Then place in a bowl and sprinkle with salt , and stir well .",
+      "Set aside until needed .",
+      "In a small bowl combine the sugar , ginger , soy_sauce and vinegar .",
+      "Whisk together until well all combined .",
+      "After about 5 minutes of the cucumbers marinating in the salt , squeeze the excess liquid out of them using your hands or a clean tea towel .",
+      "Toss the cucumbers with the sauce and stir well .",
+      "Place in the fridge to chill for 1 hour before serving .",
+      "Just before serving sprinkle with some sesame seeds ."
+    ],
+    "images": [
+      {
+        "id": "9e1b8acfde.jpg",
+        "url": "https://img-global.cpcdn.com/001_photo_reports/4813135376023552/0x0/photo.jpg"
+      },
+      {
+        "id": "f932fb72aa.jpg",
+        "url": "https://img-global.cpcdn.com/001_recipes/6617423412199424/0x0/photo.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumbers",
+      "salt",
+      "sugar",
+      "ginger",
+      "soy_sauce",
+      "rice_vinegar"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "salt",
+      "rice_vinegar",
+      "sugar",
+      "soy_sauce",
+      "ginger"
+    ],
+    "url": "http://www.food.com/recipe/japanese-cucumber-salad-sunomono-256445",
+    "partition": "val",
+    "title": "Japanese Cucumber Salad - Sunomono",
+    "id": "3aa5cd5e9b",
+    "instructions": [
+      "Cut cucumbers into thin slices .",
+      "Place in a bowl , and sprinkle with salt .",
+      "Let stand at room temperature for 30 mins , or until cucumbers are softened .",
+      "Drain , and squeeze out excess liquid .",
+      "Combine vinegar , sugar , soy_sauce , and ginger in serving bowl .",
+      "Add cucumbers , and mix well .",
+      "Chill thoroughly before serving ."
+    ],
+    "images": [
+      {
+        "id": "d095d6cab3.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/25/64/45/picCumtqT.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumbers",
+      "salt",
+      "rice_vinegar",
+      "sugar",
+      "soy_sauce",
+      "ginger"
+    ]
+  },
+  {
+    "ingredients": [
+      "chicken_breasts",
+      "mayonnaise",
+      "brown_mustard",
+      "cumin",
+      "chili_powder",
+      "pimientos",
+      "salt",
+      "black_pepper",
+      "bread",
+      "arugula"
+    ],
+    "url": "http://www.foodandwine.com/recipes/cumin-chicken-salad-sandwich",
+    "partition": "val",
+    "title": "Cumin Chicken Salad Sandwich",
+    "id": "290b30d4f8",
+    "instructions": [
+      "In a large pot , cover the chicken_breasts with water .",
+      "Bring to a gentle simmer and cook for 15 to 20 minutes , or until cooked through .",
+      "Remove the chicken from the water and let cool .",
+      "Cut into 1/2-inch pieces and set aside .",
+      "In a large bowl , combine the mayonnaise , mustard , cumin and chili_powder .",
+      "Stir in the chicken and pimientos .",
+      "Season with salt and pepper .",
+      "Assemble the sandwiches with your choice of bread , chicken salad mixture and toppings ."
+    ],
+    "images": [
+      {
+        "id": "6cff5f6361.jpg",
+        "url": "http://cdn-image.foodandwine.com/sites/default/files/201404-xl-cumin-chicken-salad-sandwich.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "chicken_breasts",
+      "mayonnaise",
+      "brown_mustard",
+      "cumin",
+      "chili_powder",
+      "pimientos",
+      "salt",
+      "black_pepper",
+      "bread",
+      "arugula"
+    ]
+  },
+  {
+    "ingredients": [
+      "vegetable_oil",
+      "vinegar",
+      "salt",
+      "sugar",
+      "oregano",
+      "dry_mustard",
+      "paprika",
+      "garlic"
+    ],
+    "url": "http://www.food.com/recipe/homemade-italian-salad-dressing-20158",
+    "partition": "val",
+    "title": "Homemade Italian Salad Dressing",
+    "id": "1ca1859a16",
+    "instructions": [
+      "Combine all ingredients in a jar with a lid ; cover and shake to mix thoroughly .",
+      "Let stand at least 2 hours to blend seasonings .",
+      "Shake well before using .",
+      "Wonderful on Italian lettuce salad ."
+    ],
+    "images": [
+      {
+        "id": "63ddc05d1d.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/20/15/8/picofr3Dz.jpg"
+      },
+      {
+        "id": "b4315f87eb.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/20/15/8/picLUe7QK.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "vegetable_oil",
+      "vinegar",
+      "salt",
+      "sugar",
+      "oregano",
+      "dry_mustard",
+      "paprika",
+      "garlic"
+    ]
+  },
+  {
+    "ingredients": [
+      "lettuce",
+      "onion",
+      "cauliflower",
+      "bacon",
+      "sugar",
+      "mayonnaise",
+      "parmigiano"
+    ],
+    "url": "http://www.food.com/recipe/overnight-salad-112245",
+    "partition": "val",
+    "title": "Overnight Salad",
+    "id": "f621ccf03f",
+    "instructions": [
+      "Layer in preceding order .",
+      "Cover tightly and refrigerate overnight .",
+      "Toss before serving ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "lettuce",
+      "onion",
+      "cauliflower",
+      "bacon",
+      "sugar",
+      "mayonnaise",
+      "parmigiano"
+    ]
+  },
+  {
+    "ingredients": [
+      "lentils",
+      "onion",
+      "garlic",
+      "bay_leaf",
+      "salt",
+      "black_pepper",
+      "vinegar",
+      "olive_oil",
+      "Dijon_mustard",
+      "salt",
+      "black_pepper",
+      "parsley",
+      "thyme",
+      "bacon"
+    ],
+    "url": "http://www.food.com/recipe/lentil-salad-food-network-alton-brown-208335",
+    "partition": "val",
+    "title": "Lentil Salad ( Food Network- Alton Brown )",
+    "id": "80fe3b378d",
+    "instructions": [
+      "Pick over lentils , rinse and drain .",
+      "Place the lentils along with the onion , garlic , bay_leaf and salt into a large 6-quart saucepan and cover with water by 2-3 inches .",
+      "Place over high heat and bring just to a rolling boil .",
+      "Reduce the heat to low .",
+      "cover and simmer until the lentils are tender , approximately 25 to 30 minutes .",
+      "Drain any remaining liquid and discard the onion , garlic and bay_leaf .",
+      "Stir in black_pepper and taste for salt .",
+      "Whisk the vinegar , olive_oil , mustard , salt , pepper , parsley and thyme together in a large mixing bowl .",
+      "Add the warm lentils and bacon and stir to combine .",
+      "Serve warm or at room temperature ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "lentils",
+      "onion",
+      "garlic",
+      "bay_leaf",
+      "salt",
+      "black_pepper",
+      "vinegar",
+      "olive_oil",
+      "Dijon_mustard",
+      "salt",
+      "black_pepper",
+      "parsley",
+      "thyme",
+      "bacon"
+    ]
+  }
+]

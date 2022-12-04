@@ -65,7 +65,7 @@ if __name__ == '__main__':
 
     import sys
     if 'cookgan' in args.ckpt_dir:
-        sys.path.append('../cookgan/')
+        sys.path.append('/data/CS470_HnC/cookgan/')
         from generate_batch import BatchGenerator
 
     device = args.device

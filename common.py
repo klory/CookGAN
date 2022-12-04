@@ -7,8 +7,23 @@ import copy
 from datetime import datetime
 import json
 import argparse
+from torch.nn import functional as F
+import torch
+from torch import device
+from PIL import Image
+import numpy as np
+from torchvision import utils as vutils
+from matplotlib import pyplot as plt
+import sys
 
-root = '/common/home/fh199/CookGAN'
+import models_retrieval_nobak
+import models_cookgan_for_retrieval
+
+# import importlib
+# importlib.reload(models_retrieval_nobak)
+
+
+root = '/data/CS470_HnC'
 
 def clean_state_dict(state_dict):
     # create new OrderedDict that does not contain `module.`
@@ -195,3 +210,150 @@ def get_ingredients_wordvec_withClasses(recipe, w2i, ingr2i, permute_ingrs=False
 def requires_grad(model, flag=True):
     for p in model.parameters():
         p.requires_grad = flag
+
+ # 여기부터 추가함       
+
+def load_dict(file_path):
+    with open(file_path, 'r') as f_vocab:
+        w2i = {w.rstrip(): i+3 for i, w in enumerate(f_vocab)}
+        w2i['<end>'] = 1
+        w2i['<other>'] = 2
+    return w2i
+
+def load_model(ckpt_path, device='cuda'):
+    print('load retrieval model from:', ckpt_path)
+    ckpt = torch.load(ckpt_path)
+    ckpt_args = ckpt['args']
+    batch_idx = ckpt['batch_idx']
+    text_encoder, image_encoder, optimizer = create_model(ckpt_args, device)
+    if device=='cpu':
+        text_encoder.load_state_dict(ckpt['text_encoder'])
+        image_encoder.load_state_dict(ckpt['image_encoder'])
+    else:
+        text_encoder.module.load_state_dict(ckpt['text_encoder'])
+        image_encoder.module.load_state_dict(ckpt['image_encoder'])
+    optimizer.load_state_dict(ckpt['optimizer'])
+
+    return text_encoder, image_encoder
+
+def compute_txt_feature(recipes, TxtEnc, word2i, ingr2i):
+    i = 0
+    pass_count = 0
+    txt_feat = torch.empty(1,1024)
+    for recipe in recipes:
+        print(i)
+        if len(recipe['ingredients']) >= 20:
+            pass_count+=1
+            continue
+        title_vec, ingrs_vec, insts_vec = vectorize(recipe, word2i, ingr2i)
+        title_vec = title_vec.repeat(1, 1)
+        ingrs_vec = ingrs_vec.repeat(1, 1)
+        insts_vec = insts_vec.repeat(1, 1, 1)
+        # text_feature = TxtEnc([title_vec, ingrs_vec, insts_vec])
+        # print(text_feature)
+        cur_txt_feat = TxtEnc([title_vec, ingrs_vec, insts_vec])
+        if i == 0:
+            txt_feat = cur_txt_feat
+        else:
+            txt_feat = torch.cat((txt_feat, cur_txt_feat),0)
+        i+=1
+    return txt_feat
+
+def vectorize(recipe, word2i, ingr2i):
+    """data preprocessing, from recipe text to one-hot inputs
+
+    Arguments:
+        recipe {dict} -- a dictionary with 'title', 'ingredients', 'instructions'
+        word2i {dict} -- word mapping for title and instructions
+        ingr2i {dict} -- ingredient mapping
+
+    Returns:
+        list -- a list of three tensors [title, ingredients and instructions]
+    """    
+    title, _ = get_title_wordvec(recipe, word2i) # np.int [max_len]
+    ingredients, _ = get_ingredients_wordvec(recipe, ingr2i, permute_ingrs=False) # np.int [max_len]
+    instructions, _, _ = get_instructions_wordvec(recipe, word2i) # np.int [max_len, max_len]
+    return [torch.tensor(x).unsqueeze(0) for x in [title, ingredients, instructions]]
+
+def generate_images(ingredients, batch) :
+
+    word2i = load_dict('/data/CS470_HnC/vocab_inst.txt')
+    ingr2i = load_dict('/data/CS470_HnC/vocab_ingr.txt')
+
+    text_encoder = models_retrieval_nobak.TextEncoder(
+    data_dir='/data/CS470_HnC/', text_info='010', hid_dim=300,
+    emb_dim=300, z_dim=1024, with_attention=2,
+    ingr_enc_type='rnn').eval()
+    # model = torch.load('/data/CS470_HnC/retrieval_model/wandb/run-20221115_141017-qn8zgvm8/files/00390000.ckpt')['text_encoder']
+    # text_encoder.load_state_dict(model, strict = False)
+    text_encoder.load_state_dict(torch.load('/data/CS470_HnC/text_encoder.model'))
+
+    netG = models_cookgan_for_retrieval.G_NET(levels=3).eval().requires_grad_(False)
+    # netG.load_state_dict(torch.load('/data/CS470_HnC/cookgan/wandb/run-20221120_171820-1jnhbhwl/files/180000.ckpt')['netG'])
+    netG.load_state_dict(torch.load('/data/CS470_HnC/gen_salad_cycleTxt1.0_e300.model'))
+
+
+    title = 'dummy title'
+    # print('[DEBUG]', ingredients)
+    instructions = 'dummy instructions'
+
+    recipe = {
+        'title': title,
+        'ingredients': [x.replace(' ', '_') for x in ingredients],
+        'instructions': instructions
+    }
+    title_vec, ingrs_vec, insts_vec = vectorize(recipe, word2i, ingr2i)
+    # print(ingrs_vec)
+    title_vec = title_vec.repeat(batch, 1)
+    ingrs_vec = ingrs_vec.repeat(batch, 1)
+    insts_vec = insts_vec.repeat(batch, 1, 1)
+    noise = torch.FloatTensor(batch, 100).normal_(0, 1)
+    text_feature = text_encoder([title_vec, ingrs_vec, insts_vec])
+    
+    imgs, _, _ = netG(noise, text_feature)
+
+    return imgs
+
+def compute_img_feature(uniques, img_encoder):
+    feat = torch.empty(1,1024)
+    for i in range (len(uniques)):
+        imgs = generate_images(uniques[i], 1)
+        img = imgs[2]
+
+        mean = [0.485, 0.456, 0.406]
+        std = [0.229, 0.224, 0.225]
+        img = img/2 + 0.5
+        img = F.interpolate(img, [224, 224], mode='bilinear', align_corners=True)
+        for i in range(img.shape[1]):
+            img[:,i] = (img[:,i]-mean[i])/std[i]
+        cur_feat = img_encoder(img)
+
+        if i == 0:
+            feat = cur_feat
+        else:
+            feat = torch.cat((feat, cur_feat),0)
+
+    return img, feat
+
+def compute_ingredient_retrival_score(imgs, txts, tops):
+    imgs = imgs / np.linalg.norm(imgs, axis=1)[:, None]
+    txts = txts / np.linalg.norm(txts, axis=1)[:, None]
+    # retrieve recipe
+    sims = np.dot(imgs, txts.T) # [N, N]
+    # loop through the N similarities for images
+    cvgs = []
+    for ii in range(imgs.shape[0]):
+        # get a row of similarities for image ii
+        sim = sims[ii,:]
+        # sort indices in descending order
+        sorting = np.argsort(sim)[::-1].tolist()
+        topk_idxs = sorting[:tops]
+        print(topk_idxs)
+        success = 0.0
+        for rcp_idx in topk_idxs:
+            rcp = recipes[rcp_idx]
+            ingrs = rcp['new_ingrs']
+            if hot_ingr in ingrs:
+                success += 1
+        cvgs.append(success / tops)
+    return np.array(cvgs)

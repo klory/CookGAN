@@ -11,7 +11,7 @@ from gensim.models.keyedvectors import KeyedVectors
 from PIL import Image
 
 import sys
-sys.path.append('../')
+sys.path.append('/data/CS470_HnC/')
 from common import load_recipes, get_title_wordvec, get_ingredients_wordvec_withClasses, get_instructions_wordvec
 
 def get_imgs(img_path, imsize, bbox=None,
@@ -65,8 +65,8 @@ class FoodDataset(data.Dataset):
         recipe_file, 
         img_dir,
         levels=3, 
-        word2vec_file='../retrieval_model/models/word2vec_recipes.bin',
-        vocab_ingrs_file='../manual_files/list_of_merged_ingredients.txt',
+        word2vec_file='/data/CS470_HnC/retrieval_model/models/word2vec_recipes.bin',
+        vocab_ingrs_file='/data/CS470_HnC/manual_files/list_of_merged_ingredients.txt',
         part='train', 
         food_type='salad',
         base_size=64, 
@@ -129,8 +129,8 @@ if __name__ == '__main__':
     args = Args()
     args.base_size = 64
     args.levels = 3
-    args.recipe_file = '../data/Recipe1M/recipes_withImage.json'
-    args.img_dir = '../data/Recipe1M/images'
+    args.recipe_file = '/data/CS470_HnC/data/Recipe1M/recipes_withImage.json'
+    args.img_dir = '/data/CS470_HnC/data/Recipe1M/images'
     args.food_type = 'salad'
     args.batch_size = 32
     args.workers = 4

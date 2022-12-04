@@ -1,6 +1,6 @@
 import argparse
 import sys
-sys.path.append('../')
+sys.path.append('/data/CS470_HnC/')
 from common import root
 
 def get_parser():

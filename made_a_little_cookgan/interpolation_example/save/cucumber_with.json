@@ -1,0 +1,1324 @@
+[
+  {
+    "ingredients": [
+      "lettuce",
+      "tomatoes",
+      "cucumbers",
+      "black_olives",
+      "feta",
+      "olive_oil",
+      "vinegar",
+      "oregano"
+    ],
+    "url": "http://www.epicurious.com/recipes/food/views/mediterranean-salad-1717",
+    "partition": "val",
+    "title": "Mediterranean Salad",
+    "id": "03068e4d95",
+    "instructions": [
+      "Combine lettuce , tomatoes , cucumbers , olives and cheese in large bowl .",
+      "Whisk olive_oil , vinegar and oregano in small bowl until well blended .",
+      "Season to taste with salt and pepper .",
+      "Pour dressing over salad and toss to coat evenly ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "lettuce",
+      "tomatoes",
+      "cucumber",
+      "black_olives",
+      "feta",
+      "olive_oil",
+      "vinegar",
+      "oregano"
+    ]
+  },
+  {
+    "ingredients": [
+      "vinegar",
+      "soy_sauce",
+      "cucumbers",
+      "salt",
+      "sugar"
+    ],
+    "url": "http://www.epicurious.com/recipes/food/views/japanese-cucumber-salad-with-vinegar-15129",
+    "partition": "val",
+    "title": "Japanese Cucumber Salad with Vinegar",
+    "id": "0605f8ae1c",
+    "instructions": [
+      "If using bonito flakes , in a bowl stir together flakes , vinegar , and soy_sauce and let stand 1 hour .",
+      "Peel and seed cucumbers and diagonally cut into 1/8- to 1/4-inch-thick slices .",
+      "In a colander set over a bowl toss cucumbers with salt and drain 30 minutes .",
+      "Rinse cucumbers well and pat dry .",
+      "Pour bonito mixture through a fine sieve into a large bowl and toss liquid with cucumbers and 1 tablespoon sugar ; if not using bonito flakes , toss cucumbers with vinegar , soy_sauce , and 1 tablespoon sugar , or to taste .",
+      "With scissors cut nori lengthwise into thin strips .",
+      "Serve salad garnished with nori strips ."
+    ],
+    "valid": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "new_ingrs": [
+      "vinegar",
+      "soy_sauce",
+      "cucumber",
+      "salt",
+      "sugar"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "tomatoes",
+      "lemon_juice",
+      "olive_oil",
+      "garlic",
+      "red_onions",
+      "parsley",
+      "dill",
+      "salt_and_pepper"
+    ],
+    "url": "http://www.food.com/recipe/cucumber-and-tomato-salad-176800",
+    "partition": "val",
+    "title": "Cucumber and Tomato Salad",
+    "id": "17fbb2b800",
+    "instructions": [
+      "Finely chop the vegetables .",
+      "Lightly mix with the remaining ingredients .",
+      "Refrigerate for 2 4 hours and adjust salt_and_pepper to taste ."
+    ],
+    "images": [
+      {
+        "id": "e8ed7f1a61.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/17/68/00/picovwv2n.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumber",
+      "tomatoes",
+      "lemon_juice",
+      "olive_oil",
+      "garlic",
+      "red_onions",
+      "parsley",
+      "dill",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "caesar_salad_dressing",
+      "beef_sirloin",
+      "lettuce",
+      "cherry_tomatoes",
+      "cucumbers",
+      "parmigiano"
+    ],
+    "url": "http://www.kraftrecipes.com/recipes/grilled-steak-caesar-salad-55317.aspx",
+    "partition": "val",
+    "title": "Grilled Steak Caesar Salad",
+    "id": "1e48368f04",
+    "instructions": [
+      "Mix dressing and steak sauce until blended ; pour 1/2 cup dressing mixture over steak in shallow glass dish .",
+      "Refrigerate 30 min .",
+      "to marinate , turning after 15 min .",
+      "Reserve remaining dressing mixture for later use .",
+      "Heat grill to medium-high heat .",
+      "Remove steak from marinade ; discard marinade .",
+      "Grill steak 6 min .",
+      "on each side or until medium doneness ( 160F ) .",
+      "Meanwhile , heat reserved dressing mixture just until warmed .",
+      "Cover large serving platter with lettuce ; top with tomatoes and cucumberss .",
+      "Cut steak into thin slices ; arrange over salad .",
+      "Drizzle with warm dressing mixture just before serving ; sprinkle with cheese ."
+    ],
+    "images": [
+      {
+        "id": "b278dfb957.jpg",
+        "url": "http://assets.kraftfoods.com/recipe_images/Grilled_Steak_Caesar_Salad.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "caesar_salad_dressing",
+      "beef_sirloin",
+      "lettuce",
+      "cherry_tomatoes",
+      "cucumber",
+      "parmigiano"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "salt",
+      "pepper",
+      "sugar",
+      "soy_sauce",
+      "rice_vinegar",
+      "sesame_oil",
+      "sesame"
+    ],
+    "url": "http://www.food.com/recipe/japanese-cucumber-salad-188217",
+    "partition": "val",
+    "title": "Japanese Cucumber Salad",
+    "id": "1fa374fb32",
+    "instructions": [
+      "If using English or regular cucumbers , they need to be peeled , cut lengthwise , seeded and sliced into thin half moons .",
+      "In a large bowl , combine cucumbers , salt and pepper , mix well .",
+      "Add sugar ( or honey ) , soy_sauce , rice_vinegar and sesame_oil and mix well .",
+      "Sprinkle with sesame and mix .",
+      "Let marinate for 20 minutes before serving .",
+      "Adjust seasonings before serving ."
+    ],
+    "images": [
+      {
+        "id": "0e9870a55f.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/18/82/17/picOzPt7x.jpg"
+      },
+      {
+        "id": "3bc3d0fd2a.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/18/82/17/pichMouC0.jpg"
+      },
+      {
+        "id": "cbd4b5ef43.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/18/82/17/picDjFHWL.jpg"
+      },
+      {
+        "id": "f17a608a7f.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/18/82/17/picz2nEqR.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumber",
+      "salt",
+      "pepper",
+      "sugar",
+      "soy_sauce",
+      "rice_vinegar",
+      "sesame_oil",
+      "sesame"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "tomatoes",
+      "red_onions",
+      "chicken_pieces",
+      "olive_oil",
+      "vinegar",
+      "salt",
+      "black_pepper"
+    ],
+    "url": "https://cookpad.com/us/recipes/362353-cucumber-salad-w-grilled-chicken",
+    "partition": "val",
+    "title": "Cucumber Salad w/ Grilled Chicken",
+    "id": "3433c465f0",
+    "instructions": [
+      "Peel and slice cucumbers , cut tomatoes in wedges and take seeds out , and chop the onion .",
+      "Then toss and mix in a bowl .",
+      "Add a few splashes of vinegar and olive_oil .",
+      "And add a few dashes of salt and pepper .",
+      "Gently mix and let stand for about a half hour .",
+      "Serve with grilled chicken on top and enjoy !"
+    ],
+    "images": [
+      {
+        "id": "8ba75a6c14.jpg",
+        "url": "https://img-global.cpcdn.com/001_recipes/6051911767687168/0x0/photo.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumber",
+      "tomatoes",
+      "red_onions",
+      "chicken_pieces",
+      "olive_oil",
+      "vinegar",
+      "salt",
+      "black_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "garlic",
+      "vinegar",
+      "salt",
+      "pepper",
+      "oil",
+      "water"
+    ],
+    "url": "http://www.food.com/recipe/croatian-simple-cucumber-salad-376687",
+    "partition": "val",
+    "title": "Croatian Simple Cucumber Salad",
+    "id": "37c8344cc8",
+    "instructions": [
+      "Peal the cucumber and cut into thin slices .",
+      "Mince garlic well and add into sliced cucumber .",
+      "Add vinegar , oil and water and season as you like with salt and pepper .",
+      "Leave in refrigerator to cool a bit and serve ."
+    ],
+    "images": [
+      {
+        "id": "740eaa7e68.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/37/66/87/piciSkuf6.jpg"
+      },
+      {
+        "id": "89a359a5a3.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/37/66/87/picu3PRiG.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumber",
+      "garlic",
+      "vinegar",
+      "salt",
+      "pepper",
+      "oil",
+      "water"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "tomatoes",
+      "onion",
+      "black_olives",
+      "mayonnaise",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt",
+      "pepper",
+      "sugar"
+    ],
+    "url": "http://www.food.com/recipe/grandpas-pasta-salad-108635",
+    "partition": "val",
+    "title": "Grandpa's Pasta Salad",
+    "id": "45b164a28e",
+    "instructions": [
+      "Cook pasta according to package directions .",
+      "In a large mixing bowl , combine pasta , cucumbers , tomatoes , onion , and olives .",
+      "In a small bowl combine mayonnaise , olive_oil , vinegar , salt and pepper , and sugar stir till not lumpy ; add to mixture and stir .",
+      "Chill and serve ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumber",
+      "tomatoes",
+      "onion",
+      "black_olives",
+      "mayonnaise",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt",
+      "pepper",
+      "sugar"
+    ]
+  },
+  {
+    "ingredients": [
+      "chicken",
+      "cucumbers"
+    ],
+    "url": "https://cookpad.com/us/recipes/147038-chinese-salad-with-leftover-karaage",
+    "partition": "val",
+    "title": "Chinese Salad with Leftover Karaage",
+    "id": "4d1e06b435",
+    "instructions": [
+      "Thinly slice the karaage , then julienne the cucumbers .",
+      "And just mix it up with the Chinese dressing .",
+      "It'll be done in a blink of an eye .",
+      "It's delicious with julienned cabbage or bean sprouts ."
+    ],
+    "images": [
+      {
+        "id": "598bb084df.jpg",
+        "url": "https://img-global.cpcdn.com/001_recipes/4615509120122880/0x0/photo.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      false
+    ],
+    "new_ingrs": [
+      "chicken",
+      "cucumber"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "vinegar",
+      "dried_chilies",
+      "salt",
+      "sugar"
+    ],
+    "url": "http://www.food.com/recipe/sweet-and-sour-cucumber-salad-236464",
+    "partition": "val",
+    "title": "Sweet and Sour Cucumber Salad",
+    "id": "5203104c00",
+    "instructions": [
+      "Scrub the cucumber well to remove its waxy coating .",
+      "Cut it in half lengthwise , then scoop out the seeds with a spoon .",
+      "Cut the halves in half again lengthwise , then cut across the spears to make a dice .",
+      "In a medium bowl , toss the cucumber with the remaining ingredients .",
+      "Cover and refrigerate , stirring occasionally , at least 30 minutes and up to 2 days ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumber",
+      "vinegar",
+      "dried_chilies",
+      "salt",
+      "sugar"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "salt",
+      "rice_vinegar",
+      "sesame_oil",
+      "soy_sauce",
+      "sugar",
+      "chili_sauce"
+    ],
+    "url": "http://www.food.com/recipe/oriental-cucumber-salad-101790",
+    "partition": "val",
+    "title": "Oriental Cucumber Salad",
+    "id": "568578fff6",
+    "instructions": [
+      "Mix cucumber slices and salt together , put in a colander and let drain for 2 hours .",
+      "Rinse salt from cucumbers and drain well .",
+      "Put cucumber slices into a bowl , combine remaining ingredients and pour over cucumbers .",
+      "Toss to coat cucumbers with dressing .",
+      "Refrigerate until ready to serve ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumber",
+      "salt",
+      "rice_vinegar",
+      "sesame_oil",
+      "soy_sauce",
+      "sugar",
+      "chili_sauce"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "tomatoes",
+      "spring_onions",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt",
+      "black_pepper",
+      "basil"
+    ],
+    "url": "https://cookpad.com/us/recipes/333202-armenian-cucumber-and-tomato-salad",
+    "partition": "val",
+    "title": "Armenian Cucumber and Tomato Salad",
+    "id": "60028d01c3",
+    "instructions": [
+      "Toss sliced cucumbers , tomatoes and spring_onions in bowl",
+      "Season with salt and coarse ground black_pepper to taste",
+      "No need to drain as with regular cucumbers .",
+      "Armenian cucumbers does not have high water content or many seeds",
+      "Pour olive_oil and balsamic over salad .",
+      "Toss to coat .",
+      "Sprinkle with basil flakes",
+      "Let marinate at least two hrs before serving .",
+      "The longer the better .",
+      "Keeps well for several days"
+    ],
+    "images": [
+      {
+        "id": "9e99aab03c.jpg",
+        "url": "https://img-global.cpcdn.com/001_recipes/35755710/0x0/photo.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumber",
+      "tomatoes",
+      "spring_onions",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt",
+      "black_pepper",
+      "basil"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "carrots",
+      "onion",
+      "mayonnaise",
+      "Miracle_Whip",
+      "sugar",
+      "vinegar",
+      "salt",
+      "pepper"
+    ],
+    "url": "http://www.food.com/recipe/spring-salad-238003",
+    "partition": "val",
+    "title": "Spring Salad",
+    "id": "6050d27ea6",
+    "instructions": [
+      "Cook noodles according to directions on the box .",
+      "Drain , cool and set aside .",
+      "( I use shell or ring noodles ) .",
+      "Chop the cucumberss and onion .",
+      "Shred the carrots .",
+      "Combine the mayo , vinegar , sugar , salt & pepper .",
+      "Add the noodles and vegetables .",
+      "Chill in the frig 2 hours or overnight to flavor thru .",
+      "Enjoy !"
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumber",
+      "carrots",
+      "onion",
+      "mayonnaise",
+      "Miracle_Whip",
+      "sugar",
+      "vinegar",
+      "salt",
+      "pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "eggs",
+      "cucumbers",
+      "mayonnaise",
+      "oyster_sauce",
+      "salt_and_pepper"
+    ],
+    "url": "https://cookpad.com/us/recipes/147710-super-easy-egg-and-cucumber-salad-with-oyster-sauce-and-mayo",
+    "partition": "val",
+    "title": "Super Easy Egg and Cucumber Salad with Oyster sauce and Mayo",
+    "id": "66c8814fa4",
+    "instructions": [
+      "Cut the cucumbers into very thin strips .",
+      "Sprinkle with salt ( not included in the ingredients ) and wilt the cucumberss .",
+      "Beat the eggs and cook in a pan to make soft scramble eggs .",
+      "Squeeze out the water from the cucumbers and combine with the eggs and marked seasonings .",
+      "It's nice to sprinkle on some sesame seeds if you like ."
+    ],
+    "images": [
+      {
+        "id": "5739c1c2a9.jpg",
+        "url": "https://img-global.cpcdn.com/001_recipes/6480465692196864/0x0/photo.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "eggs",
+      "cucumber",
+      "mayonnaise",
+      "oyster_sauce",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "cucumbers",
+      "onion",
+      "spring_onions",
+      "mint",
+      "garlic",
+      "parsley",
+      "lemons",
+      "salt_and_pepper",
+      "olive_oil"
+    ],
+    "url": "http://www.food.com/recipe/tomato-salad-arabic-salad-202576",
+    "partition": "val",
+    "title": "Tomato Salad ( Arabic Salad )",
+    "id": "6c6d46a13a",
+    "instructions": [
+      "Mix all ingredients together , and ready to serve , although is best when marinated for 30 Minutes .",
+      "This healthy Salad is excellent with Lentils and Rice Dish ( mujadarah ) or by itself .",
+      "See my Lentils rice dish ( Mujadarah ) recipe ."
+    ],
+    "images": [
+      {
+        "id": "d4179f320d.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/20/25/76/picTiv8yR.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "cucumber",
+      "onion",
+      "spring_onions",
+      "mint",
+      "garlic",
+      "parsley",
+      "lemons",
+      "salt_and_pepper",
+      "olive_oil"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "vinegar",
+      "sugar",
+      "onion",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "url": "http://cookeatshare.com/recipes/marinated-cucumber-salad-51585",
+    "partition": "val",
+    "title": "Marinated Cucumber Salad Recipe",
+    "id": "7988a95b27",
+    "instructions": [
+      "Pull fork firmly down length of cucumbers , all around ; slice thinly .",
+      "Thinly slice onion and separate rings .",
+      "Combine ingredients and pour over cucumbers and onions .",
+      "Marinate in refrigerator for 1 hour or possibly overnight ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumber",
+      "vinegar",
+      "sugar",
+      "onion",
+      "water",
+      "salt",
+      "pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "cucumbers",
+      "feta",
+      "black_olives",
+      "salt_and_pepper",
+      "olive_oil",
+      "oregano"
+    ],
+    "url": "http://www.food.com/recipe/greek-salad-492866",
+    "partition": "val",
+    "title": "Greek Salad",
+    "id": "92c21920f4",
+    "instructions": [
+      "Remove cores from tomatoes and cut in 8 wedges .",
+      "Dice cucumberss into 3/4 inch cubes .",
+      "In a bowl , combine tomatoes , cucumberss , feta and olives .",
+      "Add salt_and_pepper to taste and olive_oil .",
+      "Arrange salad on serving plates and sprinkle with oregano ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "cucumber",
+      "feta",
+      "black_olives",
+      "salt_and_pepper",
+      "olive_oil",
+      "oregano"
+    ]
+  },
+  {
+    "ingredients": [
+      "rice_vermicelli",
+      "rice_vinegar",
+      "sugar",
+      "soy_sauce",
+      "salt",
+      "cucumbers",
+      "spring_onions",
+      "sesame"
+    ],
+    "url": "http://www.food.com/recipe/japanese-noodle-and-cucumber-salad-60731",
+    "partition": "val",
+    "title": "Japanese Noodle and Cucumber Salad",
+    "id": "97092b5026",
+    "instructions": [
+      "Cook the noodles in boiling water until barely tender .",
+      "Rince immediately with cold water until cool , drain thoroughly and put in a medium bowl .",
+      "Mix vinegar , sugar , soy_sauce , and salt and pour over the noodles .",
+      "Stir well .",
+      "Cover bowl with plastic wrap and chill noodles in refrigerator until cold .",
+      "Peel and seed the cucumbers .",
+      "Cut into quarters lengthwise , then into thin sticks .",
+      "Divide the noodles on four salad plates , sprinkle evenly with cucumbers pieces , green onion and sesame ."
+    ],
+    "images": [
+      {
+        "id": "0e6f6fc142.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/60/73/1/pic8BuWKg.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "rice_vermicelli",
+      "rice_vinegar",
+      "sugar",
+      "soy_sauce",
+      "salt",
+      "cucumber",
+      "spring_onions",
+      "sesame"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "tomatoes",
+      "green_peppers",
+      "onion",
+      "Italian_dressing"
+    ],
+    "url": "http://cookeatshare.com/recipes/summer-salad-47396",
+    "partition": "val",
+    "title": "Summer Salad Recipe",
+    "id": "98379582ed",
+    "instructions": [
+      "Peel and thinly slice cucumbers , dice remaining ingredients .",
+      "Combine all ingredients with salad dressing .",
+      "Refrigerateand serve ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumber",
+      "tomatoes",
+      "green_peppers",
+      "onion",
+      "Italian_dressing"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "cucumbers",
+      "red_onions",
+      "vinegar",
+      "olive_oil",
+      "oregano",
+      "garlic",
+      "feta",
+      "black_olives",
+      "salt_and_pepper"
+    ],
+    "url": "http://www.food.com/recipe/tomato-salad-with-cucumber-and-feta-141473",
+    "partition": "val",
+    "title": "Tomato Salad With Cucumber and Feta",
+    "id": "9be8e3fc07",
+    "instructions": [
+      "In a large serving platter overlap tomato , onion and cucumber in a decorative pattern .",
+      "In a small bowl whisk together oil , vinegar , oregano , chopped garlic , salt and black pepper .",
+      "Drizzle over the veggies on the plate and let stand for 1 hour at room temperature or refrigerate for minimum of 3 hours ( basting occasionally with the dressing ) .",
+      "When ready to serve sprinkle with feta and olives .",
+      "Delicious !"
+    ],
+    "images": [
+      {
+        "id": "2aa32de872.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/14/14/73/pic402oj8.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "cucumber",
+      "red_onions",
+      "vinegar",
+      "olive_oil",
+      "oregano",
+      "garlic",
+      "feta",
+      "black_olives",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "olive_oil",
+      "vinegar",
+      "garlic",
+      "onion",
+      "cucumbers",
+      "tomatoes",
+      "salt_and_pepper"
+    ],
+    "url": "http://www.foodnetwork.com/recipes/robert-irvine/tupelo-tomato-salad-recipe.html",
+    "partition": "val",
+    "title": "Tupelo Tomato Salad",
+    "id": "abe823f5d1",
+    "instructions": [
+      "Whisk together oil , vinegar , and garlic in a salad bowl .",
+      "Toss with onion and cucumbers , and gently fold in tomato .",
+      "Season with salt_and_pepper , and serve at room temperature family style ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "olive_oil",
+      "vinegar",
+      "garlic",
+      "onion",
+      "cucumber",
+      "tomatoes",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "farfalle_pasta",
+      "cucumbers",
+      "feta",
+      "red_onions",
+      "black_olives",
+      "cherry_tomatoes",
+      "black_pepper",
+      "lemon_juice",
+      "olive_oil",
+      "garlic",
+      "oregano",
+      "black_pepper",
+      "salt"
+    ],
+    "url": "http://www.food.com/recipe/lite-greek-pasta-salad-239777",
+    "partition": "val",
+    "title": "Lite Greek Pasta Salad",
+    "id": "afab536e5c",
+    "instructions": [
+      "In a pot of boiling water , cook pasta .",
+      "Drain and rinse under cold water .",
+      "Drain ; place in a large bowl .",
+      "While pasta is cooking .",
+      "Chop up the cucumber , feta , red onion , olives and cherry_tomatoes .",
+      "Add the pepper .",
+      "Dressing : In a small jar with lid , combine lemon_juice , olive_oil , garlic , oregano , salt and pepper .",
+      "Shake well to incorporate .",
+      "Add to salad and combine .",
+      "Chill for 2 hours ."
+    ],
+    "images": [
+      {
+        "id": "81e3f2bd75.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/23/97/77/pic77iq1M.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "farfalle_pasta",
+      "cucumber",
+      "feta",
+      "red_onions",
+      "black_olives",
+      "cherry_tomatoes",
+      "black_pepper",
+      "lemon_juice",
+      "olive_oil",
+      "garlic",
+      "oregano",
+      "black_pepper",
+      "salt"
+    ]
+  },
+  {
+    "ingredients": [
+      "mozzarella_cheese",
+      "tomatoes",
+      "cucumbers",
+      "olives",
+      "Italian_dressing",
+      "basil"
+    ],
+    "url": "http://www.food.com/recipe/mozzarella-salad-30103",
+    "partition": "val",
+    "title": "Mozzarella Salad",
+    "id": "bb03a35fdc",
+    "instructions": [
+      "Mix all ingredients and toss well .",
+      "Refrigerate until serving .",
+      "Can of black beans is optional and will extend the salad ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "new_ingrs": [
+      "mozzarella_cheese",
+      "tomatoes",
+      "cucumber",
+      "olives",
+      "Italian_dressing",
+      "basil"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "cucumbers",
+      "green_peppers",
+      "red_onions",
+      "feta",
+      "black_olives",
+      "mint",
+      "oregano",
+      "parsley",
+      "vinegar",
+      "salt_and_pepper",
+      "olive_oil"
+    ],
+    "url": "http://www.food.com/recipe/greek-salad-254552",
+    "partition": "val",
+    "title": "Greek Salad",
+    "id": "ca2c5231ee",
+    "instructions": [
+      "For the vinaigrette : .",
+      "Coarsely chop the herbs that have been stripped from the stems .",
+      "In a smll bowl , whisk together the vinegar , salt_and_pepper .",
+      "Gradually whisk in the oil so that the viniagrette dressing emulsifies and thickens slightly .",
+      "Add the chopped herbs , then whisk the dressing again and test for seasonings .",
+      "For the salad : .",
+      "Core and chop the tomatoes into 1-inch pieces .",
+      "Peel the cucumbers ; cut each cucumber length-wise .",
+      "Scoop out the seeds with a teaspoon , discard the seeds .",
+      "Cut the cucumber halves lengthwise into 2-3 strips , then gather the strips together and cut them crosswise into 1/2-inch pieces .",
+      "Cut bell pepper in half , then half again .",
+      "Be sure to discard the seeds , and slice into strips . Be sure to cut out any of the white ribs . Cut each strip into dice .",
+      "Peel and trim the red_onions .",
+      "Cut the onion cross-wise into thin rings .",
+      "Separate the rings .",
+      "Cut the feta into 1/2-inch strips .",
+      "Gather the strips together and cut cross-wise into cubes .",
+      "Put the tomatoes , cucumbers , bell peppers and onion in a large bowl .",
+      "Briskly whisk the herb vinaigrette and pour it over the top of the salad .",
+      "With a large metal spoon toss the vegetables thoroughly in the herb vinaigrette dressing .",
+      "Add the olives and the feta to the vegetables and gently toss again .",
+      "Taste for seasonings .",
+      "Allow the flavors to mellow before serving , about 30 minutes ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "cucumber",
+      "green_peppers",
+      "red_onions",
+      "feta",
+      "black_olives",
+      "mint",
+      "oregano",
+      "parsley",
+      "vinegar",
+      "salt_and_pepper",
+      "olive_oil"
+    ]
+  },
+  {
+    "ingredients": [
+      "garlic",
+      "salt",
+      "tomato_juice",
+      "lemon_juice",
+      "olive_oil",
+      "oregano",
+      "black_pepper",
+      "lettuce",
+      "cucumbers",
+      "cherry_tomatoes",
+      "red_onions",
+      "black_olives",
+      "feta"
+    ],
+    "url": "http://www.food.com/recipe/greek-revival-salad-422397",
+    "partition": "val",
+    "title": "Greek Revival Salad",
+    "id": "d9f0e09c6f",
+    "instructions": [
+      "Chop garlic coarsely .",
+      "Sprinkle with salt and mash with the side of the knife blade .",
+      "Place the garlic mixture in a small bowl ; whisk in tomato_juice , lemon_juice , oil , oregano and pepper .",
+      "Toss lettuce , cucumberss , tomatoes and red onion with the dressing .",
+      "Scatter olives and feta over the top and serve ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "garlic",
+      "salt",
+      "tomato_juice",
+      "lemon_juice",
+      "olive_oil",
+      "oregano",
+      "black_pepper",
+      "lettuce",
+      "cucumber",
+      "cherry_tomatoes",
+      "red_onions",
+      "black_olives",
+      "feta"
+    ]
+  },
+  {
+    "ingredients": [
+      "olive_oil",
+      "lemon_juice",
+      "salt",
+      "black_pepper",
+      "tomatoes",
+      "cucumbers",
+      "red_onions",
+      "mint",
+      "parsley",
+      "black_olives",
+      "olive_oil",
+      "halloumi_cheese"
+    ],
+    "url": "http://www.food.com/recipe/bills-greek-salad-with-pan-fried-halloumi-146568",
+    "partition": "val",
+    "title": "Bills Greek Salad With Pan-Fried Halloumi",
+    "id": "e417399f57",
+    "instructions": [
+      "Place the olive_oil and lemon_juice in a bowl and mix to combine .",
+      "Season with salt and pepper .",
+      "Add the tomato , cucumber , onion , mint , parsley and olives .",
+      "Toss until the salad is evenly coated with the dressing .",
+      "Place a large frying pan over a medium to high heat and add the olive_oil .",
+      "Cook the haloumi slices for 1 minute on each side , or until golden .",
+      "Remove and place on paper towels to drain .",
+      "Divide the salad among four serving plates and top with the haloumi slices ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "olive_oil",
+      "lemon_juice",
+      "salt",
+      "black_pepper",
+      "tomatoes",
+      "cucumber",
+      "red_onions",
+      "mint",
+      "parsley",
+      "black_olives",
+      "olive_oil",
+      "halloumi_cheese"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "dill",
+      "mayonnaise",
+      "sugar",
+      "vinegar"
+    ],
+    "url": "http://www.food.com/recipe/danish-cucumber-salad-254367",
+    "partition": "val",
+    "title": "Danish Cucumber Salad",
+    "id": "ee005f245f",
+    "instructions": [
+      "Wash cucumbers and slice cucumbers in thin slices .",
+      "Some people may want to slice is squares or normal slices .",
+      "Place cucumbers is a bowl and mix in dill spic , mayonnaise , sugar and vinegar .",
+      "Stir together and taste for your own preferable balance of tartness or sweetness .",
+      "When you are finished mixing and balancing your preferred taste , you may then chill your dish .",
+      "It's now ready to eat !",
+      "Yummy Yum !"
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumber",
+      "dill",
+      "mayonnaise",
+      "sugar",
+      "vinegar"
+    ]
+  },
+  {
+    "ingredients": [
+      "red_onions",
+      "cucumbers",
+      "tomatoes",
+      "lemon_juice",
+      "olive_oil",
+      "black_pepper"
+    ],
+    "url": "http://www.foodnetwork.com/recipes/claire-robinson/cucumber-tomato-and-red-onion-salad-recipe.html",
+    "partition": "val",
+    "title": "Cucumber , Tomato and Red Onion Salad",
+    "id": "f1c0b027c8",
+    "instructions": [
+      "In a small bowl , soak the onion slices in icy cold water for 15 minutes .",
+      "Remove from the water and pat dry .",
+      "In a large bowl , add the onions , cucumbers and tomatoes and toss to combine .",
+      "In a small bowl , whisk together the lemon_juice , olive_oil and salt and pepper , to taste .",
+      "Pour over the salad and serve immediately .",
+      "BYOC : Feel free to add some nice salty feta cheese to this dish to make a nice light lunch .",
+      "You will be eating this salad all summer long and dreaming of it all winter .",
+      "You can also chop all the parts the night before so when it comes time to serve all you have to do is mix it together ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "red_onions",
+      "cucumber",
+      "tomatoes",
+      "lemon_juice",
+      "olive_oil",
+      "black_pepper"
+    ]
+  }
+]

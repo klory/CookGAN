@@ -1,0 +1,867 @@
+[
+  {
+    "ingredients": [
+      "salad_greens",
+      "croutons",
+      "red_peppers",
+      "Italian_dressing"
+    ],
+    "url": "http://www.kraftrecipes.com/recipes/super-sub-salad-87905.aspx",
+    "partition": "val",
+    "title": "Super Sub Salad",
+    "id": "004e8f504d",
+    "instructions": [
+      "Combine greens , tomato and croutons in a large salad bowl .",
+      "Add remaining ingredients and toss ."
+    ],
+    "images": [
+      {
+        "id": "cb9db09c86.jpg",
+        "url": "http://assets.kraftfoods.com/recipe_images/rec_r1_43755v0ec.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "salad_greens",
+      "croutons",
+      "red_pepper",
+      "Italian_dressing"
+    ]
+  },
+  {
+    "ingredients": [
+      "sliced_almonds",
+      "sugar",
+      "lettuce",
+      "lettuce",
+      "celery_ribs",
+      "spring_onions",
+      "mandarin_oranges",
+      "oil",
+      "sugar",
+      "rice_vinegar",
+      "parsley",
+      "salt",
+      "pepper",
+      "red_peppers"
+    ],
+    "url": "http://www.food.com/recipe/mandarin-salad-273744",
+    "partition": "val",
+    "title": "Mandarin Salad",
+    "id": "0c59cca161",
+    "instructions": [
+      "Cook almonds and sugar over low heat , stirring constantly , until sugar is melted and almonds are coated .",
+      "Cool and break apart .",
+      "For dressing , combine all ingredients in a sealed container , shake and refrigerate .",
+      "Place torn lettuce in salad bowl , toss with celery , onion , orange segments , and dressing .",
+      "Top with candied almonds and serve ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "sliced_almonds",
+      "sugar",
+      "lettuce",
+      "lettuce",
+      "celery_ribs",
+      "spring_onions",
+      "mandarin_oranges",
+      "oil",
+      "sugar",
+      "rice_vinegar",
+      "parsley",
+      "salt",
+      "pepper",
+      "red_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "red_peppers",
+      "yellow_pepper",
+      "basil",
+      "oregano",
+      "olive_oil",
+      "vinegar",
+      "garlic",
+      "salt",
+      "pepper",
+      "sugar"
+    ],
+    "url": "http://www.food.com/recipe/grilled-pepper-salad-419656",
+    "partition": "val",
+    "title": "Grilled Pepper Salad",
+    "id": "2311f47ca4",
+    "instructions": [
+      "Preheat the grill ( or oven 375 ) .",
+      "Cut the peppers into quarters and cut the tips so that they would lie flat .",
+      "Have a large bowl with a plastic wrap covering the top and some tongs beside the grill .",
+      "Place the peppers skin side down on the grill and cook them until the skin is charred , about 8 - 10 minutes .",
+      "Remove any that are charred to the bowl and cover with the plastic .",
+      "Continue until all the peppers are cooked and charred .",
+      "Let the peppers cool in the bowl , covered for about 10 minutes to steam the skin off .",
+      "Remove the charred skin from the peppers and cut into strips .",
+      "( The peppers will shrink down in size ) .",
+      "Oven method : Heat the oven to 375 .",
+      "Place peppers on a cooking tray and roast for about 10 minutes .",
+      "As with the grill , some will be done before others , so remove them to the bowl and let them steam .",
+      "Continue roasting until all the peppers are finished .",
+      "In a bowl , combine the peppers with the oregano , basil , olive_oil , vinegar , garlic , salt , pepper and sugar .",
+      "Let the peppers chill for 2 - 24 hours ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "red_pepper",
+      "yellow_pepper",
+      "basil",
+      "oregano",
+      "olive_oil",
+      "vinegar",
+      "garlic",
+      "salt",
+      "pepper",
+      "sugar"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "cucumbers",
+      "red_peppers",
+      "black_olives",
+      "capers",
+      "red_onions",
+      "parsley",
+      "olive_oil",
+      "vinegar",
+      "oregano",
+      "feta",
+      "salt",
+      "black_pepper"
+    ],
+    "url": "http://www.food.com/recipe/colorful-greek-salad-23884",
+    "partition": "val",
+    "title": "Colorful Greek Salad",
+    "id": "3b5ade44b0",
+    "instructions": [
+      "Toss first 10 ingredients in bowl to blend .",
+      "Gently add in cheese to the mix .",
+      "Season with salt and freshly ground black_pepper .",
+      "Can be made a couple of hours ahead : keep at room temperature ."
+    ],
+    "images": [
+      {
+        "id": "d6bb4511bd.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/23/88/4/picqS2fYO.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "cucumbers",
+      "red_pepper",
+      "black_olives",
+      "capers",
+      "red_onions",
+      "parsley",
+      "olive_oil",
+      "vinegar",
+      "oregano",
+      "feta",
+      "salt",
+      "black_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "cucumbers",
+      "red_onions",
+      "green_peppers",
+      "red_peppers",
+      "olives",
+      "feta",
+      "olive_oil",
+      "vinegar",
+      "lemon_juice",
+      "garlic",
+      "oregano",
+      "salt",
+      "pepper"
+    ],
+    "url": "http://www.food.com/recipe/greek-salad-219822",
+    "partition": "val",
+    "title": "Greek Salad",
+    "id": "46814ba127",
+    "instructions": [
+      "Dice up the vegetables- I usually use a small red_onions as I don't like it to overpower the salad .",
+      "You can adjust the vegetables to your tastes .",
+      "Place the vegetables in a bowl along with the olives and feta .",
+      "Mix olive_oil , vinegar , lemon_juice , garlic , oregano , salt and pepper and pour over the vegetables .",
+      "Usually I let everything sit and marinate in the fridge for approximately 1/2 an hour .",
+      "This seems to marry the flavours !",
+      "I like to serve it in a clear serving bowl as the colours are so fresh and appealing ."
+    ],
+    "images": [
+      {
+        "id": "5b3f034a9d.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/21/98/22/pic1DyVXy.jpg"
+      },
+      {
+        "id": "ca989505e3.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/21/98/22/picul6vtr.jpg"
+      },
+      {
+        "id": "da5973c11e.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/21/98/22/picPC2hPA.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "cucumbers",
+      "red_onions",
+      "green_peppers",
+      "red_pepper",
+      "olives",
+      "feta",
+      "olive_oil",
+      "vinegar",
+      "lemon_juice",
+      "garlic",
+      "oregano",
+      "salt",
+      "pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "red_onions",
+      "cucumbers",
+      "red_peppers",
+      "green_peppers",
+      "red_peppers",
+      "black_olives",
+      "parsley",
+      "feta",
+      "olive_oil",
+      "vinegar",
+      "oregano",
+      "salt_and_pepper",
+      "pita_bread"
+    ],
+    "url": "http://www.foodnetwork.com/recipes/rachael-ray/greek-salad-recipe.html",
+    "partition": "val",
+    "title": "Greek Salad",
+    "id": "4779689fcc",
+    "instructions": [
+      "Combine vegetables , olives , and parsley in a large bowl .",
+      "Rest sliced feta on the top of salad .",
+      "Combine oil , vinegar , and oregano in a small plastic container with a lid .",
+      "Shake vigorously to combine oil and vinegar and pour over salad and cheese .",
+      "Season with salt_and_pepper and let the salad marinate until ready to serve .",
+      "Serve salad with pita_bread blistered and warmed on a hot griddle or grill pan ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "red_onions",
+      "cucumbers",
+      "red_pepper",
+      "green_peppers",
+      "red_pepper",
+      "black_olives",
+      "parsley",
+      "feta",
+      "olive_oil",
+      "vinegar",
+      "oregano",
+      "salt_and_pepper",
+      "pita_bread"
+    ]
+  },
+  {
+    "ingredients": [
+      "vinegar",
+      "sugar",
+      "mustard",
+      "salt",
+      "pepper",
+      "macaroni",
+      "celery",
+      "red_peppers",
+      "onion"
+    ],
+    "url": "http://cookeatshare.com/recipes/best-foods-easy-macaroni-salad-83981",
+    "partition": "val",
+    "title": "Best Foods Easy Macaroni Salad Recipe",
+    "id": "652a0581d8",
+    "instructions": [
+      "In a large bowl , stir together mayonnaise , vinegar , sugar , mustard , salt and pepper till smooth .",
+      "Add in macaroni , celery , bell pepper and onion ; toss to coat well .",
+      "Cover , chill ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "vinegar",
+      "sugar",
+      "mustard",
+      "salt",
+      "pepper",
+      "macaroni",
+      "celery",
+      "red_pepper",
+      "onion"
+    ]
+  },
+  {
+    "ingredients": [
+      "potatoes",
+      "pickles",
+      "celery",
+      "spring_onions",
+      "red_peppers",
+      "mayonnaise",
+      "mustard",
+      "salt",
+      "pepper"
+    ],
+    "url": "http://www.food.com/recipe/lubys-cafeteria-potato-salad-117975",
+    "partition": "val",
+    "title": "Luby's Cafeteria Potato Salad",
+    "id": "754e7ef00c",
+    "instructions": [
+      "In large saucepan , boil potatoes in enough water to cover for 30 minutes or until tender .",
+      "Drain",
+      "and cool just enough to handle .",
+      "Peel and cut into 3/4-inch cubes .",
+      "In large bowl , combine warm potatoes , pickles , celery , green onions , and red pepper .",
+      "In small bowl , mix mayonnaise , mustard , salt , and pepper until well blended ; pour over potato mixture and toss lightly to coat evenly .",
+      "Cover and refrigerate at least 2 hours ."
+    ],
+    "images": [
+      {
+        "id": "ee73442874.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/11/79/75/picUepAZF.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "potatoes",
+      "pickles",
+      "celery",
+      "spring_onions",
+      "red_pepper",
+      "mayonnaise",
+      "mustard",
+      "salt",
+      "pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "red_peppers",
+      "yellow_pepper",
+      "cherry_tomatoes",
+      "red_onions",
+      "feta",
+      "black_olives",
+      "garlic",
+      "oregano",
+      "Dijon_mustard",
+      "vinegar",
+      "salt",
+      "black_pepper",
+      "olive_oil"
+    ],
+    "url": "http://www.food.com/recipe/ina-gartens-greek-salad-510011",
+    "partition": "val",
+    "title": "Ina Garten's Greek Salad",
+    "id": "8ea6340a55",
+    "instructions": [
+      "Place the cucumber , peppers , tomatoes and red onion in a large bowl .",
+      "For the vinaigrette , whisk together the garlic , oregano , mustard , vinegar , salt and pepper in a small bowl .",
+      "Still whisking , slowly add the olive_oil to make an emulsion .",
+      "Pour the vinaigrette over the vegetables .",
+      "Add the feta and olives and toss lightly .",
+      "Set aside for 30 minutes to allow the flavors to blend .",
+      "Serve at room temperature .",
+      "Tips from me :",
+      "To reduce the sharpness of the onion , soak the sliced onion in ice cold water for 30 minutes and pat with paper towels to dry , before adding to salad .",
+      "To cut down on prep time , place a single layer of cherry/grape tomatoes between two Tupperware lids ( or flat plates , etc . )",
+      "and slice through all of them at once , using a sharp knife ."
+    ],
+    "images": [
+      {
+        "id": "93fd04ff35.jpg",
+        "url": "http://pictures.food.com/api/file/kwmXOlYeRn69TfgM94PP-greek-salad.jpg/convert?loc=/pictures.food.com/recipes/51/00/11/0NYqWk8QTaX1SmYJERWY_greek-salad.jpg&width=512&height=512&fit=max&flags=progressive&quality=95"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumbers",
+      "red_pepper",
+      "yellow_pepper",
+      "cherry_tomatoes",
+      "red_onions",
+      "feta",
+      "black_olives",
+      "garlic",
+      "oregano",
+      "Dijon_mustard",
+      "vinegar",
+      "salt",
+      "black_pepper",
+      "olive_oil"
+    ]
+  },
+  {
+    "ingredients": [
+      "eggplants",
+      "green_peppers",
+      "red_peppers",
+      "onion",
+      "garlic",
+      "olive_oil",
+      "salt",
+      "black_pepper",
+      "cumin",
+      "vinegar",
+      "aleppo_pepper",
+      "parsley"
+    ],
+    "url": "http://www.myrecipes.com/recipe/roasted-eggplant-salad-0",
+    "partition": "val",
+    "title": "Roasted Eggplant \" Salad \"",
+    "id": "a61cb9259a",
+    "instructions": [
+      "Preheat oven to 400 . Combine first 5 ingredients in a shallow roasting pan .",
+      "Drizzle oil over vegetables .",
+      "Sprinkle with salt and black_pepper , and toss well .",
+      "Bake at 400 for 45 minutes or until tender , stirring occasionally .",
+      "Spoon eggplants mixture into a medium bowl ; set aside . Place a small skillet over medium-low heat .",
+      "Add cumin ; saute 20 seconds , stirring constantly .",
+      "Add cumin , vinegar , and red pepper to eggplants mixture ; toss well .",
+      "Sprinkle with parsley ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "eggplants",
+      "green_peppers",
+      "red_pepper",
+      "onion",
+      "garlic",
+      "olive_oil",
+      "salt",
+      "black_pepper",
+      "cumin",
+      "vinegar",
+      "aleppo_pepper",
+      "parsley"
+    ]
+  },
+  {
+    "ingredients": [
+      "sauerkraut",
+      "green_peppers",
+      "red_peppers",
+      "onion",
+      "celery",
+      "carrots",
+      "vinegar",
+      "vegetable_oil",
+      "sugar"
+    ],
+    "url": "http://www.food.com/recipe/sauerkraut-salad-183771",
+    "partition": "val",
+    "title": "Sauerkraut Salad",
+    "id": "a96f376b99",
+    "instructions": [
+      "Press excess juice from the sauerkraut .",
+      "Add green and red_peppers ( or use pimento for red color ) .",
+      "Add onion , celery , and carrots and mix gently .",
+      "Combine vinegar , oil and sugar and pour over vegetable .",
+      "Mix thoroughly and chill for several hours before serving ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "sauerkraut",
+      "green_peppers",
+      "red_pepper",
+      "onion",
+      "celery",
+      "carrots",
+      "vinegar",
+      "vegetable_oil",
+      "sugar"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "tomatoes",
+      "red_onions",
+      "red_peppers",
+      "parsley",
+      "olive_oil",
+      "lemon_juice"
+    ],
+    "url": "http://www.food.com/recipe/chopped-salad-493672",
+    "partition": "val",
+    "title": "Chopped Salad",
+    "id": "d2aca35f41",
+    "instructions": [
+      "Finely chop 1 peeled seedless cucumbers , 2 small tomatoes , 1/2 small red onion , 1/2 red pepper .",
+      "Dice 4 sprigs of parley .",
+      "Mix in bowl and dress with either a 50/50 mix of olive_oil and lemon_juice ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumbers",
+      "tomatoes",
+      "red_onions",
+      "red_pepper",
+      "parsley",
+      "olive_oil",
+      "lemon_juice"
+    ]
+  },
+  {
+    "ingredients": [
+      "chicken",
+      "maple_syrup",
+      "lettuce",
+      "spinach",
+      "radishes",
+      "red_peppers",
+      "celery",
+      "spring_onions",
+      "cheddar_cheese",
+      "mayonnaise",
+      "garlic",
+      "dry_mustard",
+      "Worcestershire_sauce",
+      "pepper",
+      "peanuts"
+    ],
+    "url": "http://www.food.com/recipe/overnight-salad-98630",
+    "partition": "val",
+    "title": "Overnight Salad",
+    "id": "ea8e64fed4",
+    "instructions": [
+      "In a small bowl , add the chicken and syrup ; toss to coat ; set aside .",
+      "In a 4 1/2 quart salad bowl or trifle bowl , layer half the lettuce and spinach .",
+      "Layer with radishes , peas , bell pepper , chicken , celery , and spring_onions .",
+      "Top with remaining lettuce and spinach .",
+      "Sprinkle with cheese .",
+      "Mix together the mayonnaise , garlic , mustard , worcestershire , and pepper until smooth .",
+      "Spread mayo mixture evenly over the top of salad , sealing to the edge of the bowl .",
+      "Cover salad and chill for at least 8 hours .",
+      "Toss just before ready to serve and sprinkle with peanuts and salt/pepper if desired ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "chicken",
+      "maple_syrup",
+      "lettuce",
+      "spinach",
+      "radishes",
+      "red_pepper",
+      "celery",
+      "spring_onions",
+      "cheddar_cheese",
+      "mayonnaise",
+      "garlic",
+      "dry_mustard",
+      "Worcestershire_sauce",
+      "pepper",
+      "peanuts"
+    ]
+  },
+  {
+    "ingredients": [
+      "black_beans",
+      "corn",
+      "cherry_tomatoes",
+      "spring_onions",
+      "red_peppers",
+      "cilantro",
+      "olive_oil",
+      "vinegar",
+      "garlic",
+      "salt",
+      "cumin",
+      "sugar",
+      "black_pepper",
+      "chili_sauce"
+    ],
+    "url": "http://www.food.com/recipe/black-bean-corn-and-tomato-salad-93200",
+    "partition": "val",
+    "title": "Black Bean , Corn and Tomato Salad",
+    "id": "f889fc19ee",
+    "instructions": [
+      "Combine all dressing ingredients in a small bowl and whisk together till well blended .",
+      "Set aside .",
+      "Combine remaining ingredients in a big bowl .",
+      "Add dressing to the big bowl and toss well ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "black_beans",
+      "corn",
+      "cherry_tomatoes",
+      "spring_onions",
+      "red_pepper",
+      "cilantro",
+      "olive_oil",
+      "vinegar",
+      "garlic",
+      "salt",
+      "cumin",
+      "sugar",
+      "black_pepper",
+      "chili_sauce"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "red_peppers",
+      "yellow_pepper",
+      "cherry_tomatoes",
+      "red_onions",
+      "feta",
+      "black_olives",
+      "garlic",
+      "oregano",
+      "Dijon_mustard",
+      "vinegar",
+      "salt",
+      "black_pepper",
+      "olive_oil"
+    ],
+    "url": "http://www.food.com/recipe/greek-salad-by-ina-garten-barefoot-contessa-398812",
+    "partition": "val",
+    "title": "Greek Salad by Ina Garten ( Barefoot Contessa )",
+    "id": "fbadfb3824",
+    "instructions": [
+      "Place the cucumbers , peppers , tomatoes and red onion in a large bowl .",
+      "For the vinaigrette , whisk together the garlic , oregano , mustard , vinegar , salt and pepper in a small bowl .",
+      "Still whisking , slowly add the olive_oil to make an emulsion .",
+      "Pour the vinaigrette over the vegetables .",
+      "Add the feta and olives and toss lightly .",
+      "Set aside for 30 minutes to allow the flavors to blend .",
+      "Serve at room temperature ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumbers",
+      "red_pepper",
+      "yellow_pepper",
+      "cherry_tomatoes",
+      "red_onions",
+      "feta",
+      "black_olives",
+      "garlic",
+      "oregano",
+      "Dijon_mustard",
+      "vinegar",
+      "salt",
+      "black_pepper",
+      "olive_oil"
+    ]
+  }
+]

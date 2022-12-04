@@ -13,11 +13,12 @@ from torchvision import transforms
 from torch.nn import functional as F
 from matplotlib import pyplot as plt
 import sys
-sys.path.append('../retrieval_model')
+sys.path.append('/data/CS470_HnC/')
+from common import requires_grad
+sys.path.append('/data/CS470_HnC/retrieval_model/')
 from utils_retrieval import compute_statistics
 import train_retrieval
-sys.path.append('../')
-from common import requires_grad
+
 
 if __name__ == '__main__':
     from utils_metrics import load_args, normalize, resize
@@ -29,7 +30,7 @@ if __name__ == '__main__':
     assert 'device' in args.__dict__
     assert 'batch_size' in args.__dict__
 
-    sys.path.append('../cookgan/')
+    sys.path.append('/data/CS470_HnC/cookgan/')
     from generate_batch import BatchGenerator    
     
     device = args.device

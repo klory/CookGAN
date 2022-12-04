@@ -8,7 +8,7 @@ from gensim.models.keyedvectors import KeyedVectors
 from PIL import Image
 
 import sys
-sys.path.append('../')
+sys.path.append('/data/CS470_HnC/')
 from common import load_recipes, get_title_wordvec, get_ingredients_wordvec, get_instructions_wordvec
 
 mean = [0.485, 0.456, 0.406]

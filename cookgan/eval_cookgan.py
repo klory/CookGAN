@@ -6,18 +6,19 @@ import os
 from torchvision import transforms
 from torchvision.utils import save_image
 from tqdm import tqdm
-from args_cookgan import args
-from models_StackGANv2 import G_NET
-from datasets_cookgan import Dataset
+from args_cookgan import get_parser
+from datasets_cookgan import FoodDataset
 import sys
-sys.path.append('../')
-from common import make_saveDir, load_retrieval_model, load_generation_model, mean, std, rank
+sys.path.append('/data/CS470_HnC/')
+from common import load_retrieval_model, load_generation_model, mean, std, rank
 from scipy.spatial.distance import cdist, pdist
 import pdb
+from types import SimpleNamespace
+
+args = get_parser.parse_args()
 
 assert args.resume != ''
 args.batch_size = 64
-print(args)
 torch.manual_seed(args.seed)
 np.random.seed(args.seed)
 
@@ -37,7 +38,7 @@ imsize = 256
 image_transform = transforms.Compose([
         transforms.Resize(256),
         transforms.CenterCrop(imsize)])
-dataset = Dataset(
+dataset = FoodDataset(
     args.data_dir, args.img_dir, food_type=args.food_type, 
     levels=args.levels, part='test', 
     base_size=args.base_size, transform=image_transform)

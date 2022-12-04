@@ -1,0 +1,1029 @@
+[
+  {
+    "ingredients": [
+      "cauliflower",
+      "broccoli",
+      "carrots"
+    ],
+    "url": "http://cookeatshare.com/recipes/easy-vegetable-salad-58275",
+    "partition": "val",
+    "title": "Easy Vegetable Salad Recipe",
+    "id": "2aed434a36",
+    "instructions": [
+      "Clean and dice vegetables .",
+      "Add in 1 large bottle of Hidden Valley Ranch dressing .",
+      "Allow to sit overnight ."
+    ],
+    "valid": [
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "new_ingrs": [
+      "cauliflower",
+      "broccoli",
+      "carrots"
+    ]
+  },
+  {
+    "ingredients": [
+      "chicken",
+      "celery",
+      "carrots",
+      "onion",
+      "mayonnaise"
+    ],
+    "url": "http://www.food.com/recipe/arlys-shoestring-salad-for-sandwiches-218409",
+    "partition": "val",
+    "title": "Arly's Shoestring Salad for Sandwiches",
+    "id": "41973a9bf7",
+    "instructions": [
+      "Combine first 5 ingredients , adding just enough mayonnaise to moisten .",
+      "Cover and chill .",
+      "Just before serving , add shoestring potatoes ; mix well .",
+      "Add a little more mayonnaise , if necessary .",
+      "Season with salt and pepper , if desired .",
+      "Time to chill , I hour is included in the prep .",
+      "time ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "chicken",
+      "celery",
+      "carrots",
+      "onion",
+      "mayonnaise"
+    ]
+  },
+  {
+    "ingredients": [
+      "radicchio",
+      "Belgian_endive",
+      "carrots",
+      "olive_oil",
+      "vinegar",
+      "salt",
+      "black_pepper"
+    ],
+    "url": "http://www.myrecipes.com/recipe/radicchio-endive-carrot-salad",
+    "partition": "val",
+    "title": "Radicchio , Endive , and Carrot Salad",
+    "id": "58ddf6b7d4",
+    "instructions": [
+      "Combine first 3 ingredients in a medium bowl .",
+      "Add oil and remaining ingredients ; toss well .",
+      "Serve immediately ."
+    ],
+    "images": [
+      {
+        "id": "5a037ed2d0.jpg",
+        "url": "http://cdn-image.myrecipes.com/sites/default/files/styles/300x300/public/styles/300x300/public/image/recipes/ck/08/01/radicchio-salad-ck-1696619-x.jpg?itok=4R4ZC2MV"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "radicchio",
+      "Belgian_endive",
+      "carrots",
+      "olive_oil",
+      "vinegar",
+      "salt",
+      "black_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "sugar",
+      "water",
+      "vinegar",
+      "salt",
+      "vegetable_oil",
+      "pepper",
+      "onion",
+      "carrots"
+    ],
+    "url": "http://tastykitchen.com/recipes/salads/vegetable-salad/",
+    "partition": "val",
+    "title": "Vegetable Salad",
+    "id": "7481026daf",
+    "instructions": [
+      "Place first five ingredients in saucepan .",
+      "Bring to boil , stir to dissolve sugar .",
+      "Cool .",
+      "I have also made this without sugar but used four packets of Equal , and it turns out just fine .",
+      "Combine vegetables and mix in cooled liquid .",
+      "Cover and refrigerate at least three hours to develop flavors , or longer .",
+      "Stir occasionally .",
+      "This easily keeps at least four days if tightly covered ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "sugar",
+      "water",
+      "vinegar",
+      "salt",
+      "vegetable_oil",
+      "pepper",
+      "onion",
+      "carrots"
+    ]
+  },
+  {
+    "ingredients": [
+      "lettuce",
+      "chicken",
+      "carrots",
+      "spring_onions",
+      "sesame",
+      "vegetable_oil",
+      "white_vinegar",
+      "sugar",
+      "soy_sauce",
+      "salt",
+      "black_pepper",
+      "ground_ginger",
+      "noodles"
+    ],
+    "url": "http://www.food.com/recipe/oriental-chicken-salad-259435",
+    "partition": "val",
+    "title": "Oriental Chicken Salad",
+    "id": "8e88aa155b",
+    "instructions": [
+      "Combine first five ingredients in a large bowl .",
+      "Shake the rest of ingredients except noodles together .",
+      "Pour dressing over salad .",
+      "Serve with noodles ."
+    ],
+    "images": [
+      {
+        "id": "9624900909.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/25/94/35/picM3UafI.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "lettuce",
+      "chicken",
+      "carrots",
+      "spring_onions",
+      "sesame",
+      "vegetable_oil",
+      "white_vinegar",
+      "sugar",
+      "soy_sauce",
+      "salt",
+      "black_pepper",
+      "ground_ginger",
+      "noodles"
+    ]
+  },
+  {
+    "ingredients": [
+      "green_peppers",
+      "carrots",
+      "onion",
+      "sugar",
+      "vinegar",
+      "mayonnaise",
+      "salt",
+      "pepper"
+    ],
+    "url": "http://cookeatshare.com/recipes/macaroni-salad-50353",
+    "partition": "val",
+    "title": "Macaroni Salad Recipe",
+    "id": "a68f006278",
+    "instructions": [
+      "Cook 1 lb .",
+      "of macaroni - let cold .",
+      "Then add in :"
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "green_peppers",
+      "carrots",
+      "onion",
+      "sugar",
+      "vinegar",
+      "mayonnaise",
+      "salt",
+      "pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "vinegar",
+      "olive_oil",
+      "oregano",
+      "black_pepper",
+      "lettuce",
+      "carrots",
+      "cucumbers",
+      "tomatoes",
+      "white_beans",
+      "feta",
+      "black_olives"
+    ],
+    "url": "http://www.food.com/recipe/big-fat-greek-salad-with-white-beans-kalamata-olives-and-feta-123717",
+    "partition": "val",
+    "title": "Big Fat Greek Salad With White Beans , Kalamata Olives and Feta",
+    "id": "a8e207cf6c",
+    "instructions": [
+      "Whisk together vinegar , oil , oregano , and pepper in a large bowl .",
+      "Add lettuce , carrots , cucumber , tomato , beans , and feta ; toss .",
+      "Either divide into 4 small bowls or keep in one large one .",
+      "Top with olives and croutons ."
+    ],
+    "images": [
+      {
+        "id": "7e35c8f008.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/12/37/17/picYL5UOo.jpg"
+      },
+      {
+        "id": "b7f38d695d.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/12/37/17/picDdYy1Z.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "vinegar",
+      "olive_oil",
+      "oregano",
+      "black_pepper",
+      "lettuce",
+      "carrots",
+      "cucumbers",
+      "tomatoes",
+      "white_beans",
+      "feta",
+      "black_olives"
+    ]
+  },
+  {
+    "ingredients": [
+      "lettuce",
+      "red_cabbage",
+      "carrots",
+      "zucchini",
+      "snow_peas",
+      "ranch_dressing",
+      "pecans",
+      "vanilla_yogurt"
+    ],
+    "url": "http://www.kraftrecipes.com/recipes/garden-veggie-salad-59350.aspx",
+    "partition": "val",
+    "title": "Garden Veggie Salad",
+    "id": "a94fb2e922",
+    "instructions": [
+      "Toss lettuce , cabbage , carrotss , squash and pea pods with dressing to make salad .",
+      "Sprinkle pecans over yogurt ; serve for dessert .",
+      "COMBINE CRYSTAL LIGHT On-the-GO packet with bottled water per package directions ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "new_ingrs": [
+      "lettuce",
+      "red_cabbage",
+      "carrots",
+      "zucchini",
+      "snow_peas",
+      "ranch_dressing",
+      "pecans",
+      "vanilla_yogurt"
+    ]
+  },
+  {
+    "ingredients": [
+      "sauerkraut",
+      "green_peppers",
+      "red_peppers",
+      "onion",
+      "celery",
+      "carrots",
+      "vinegar",
+      "vegetable_oil",
+      "sugar"
+    ],
+    "url": "http://www.food.com/recipe/sauerkraut-salad-183771",
+    "partition": "val",
+    "title": "Sauerkraut Salad",
+    "id": "a96f376b99",
+    "instructions": [
+      "Press excess juice from the sauerkraut .",
+      "Add green and red_peppers ( or use pimento for red color ) .",
+      "Add onion , celery , and carrots and mix gently .",
+      "Combine vinegar , oil and sugar and pour over vegetable .",
+      "Mix thoroughly and chill for several hours before serving ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "sauerkraut",
+      "green_peppers",
+      "red_peppers",
+      "onion",
+      "celery",
+      "carrots",
+      "vinegar",
+      "vegetable_oil",
+      "sugar"
+    ]
+  },
+  {
+    "ingredients": [
+      "tuna",
+      "olive_oil",
+      "pepper",
+      "canned_chick_-_peas",
+      "tomatoes",
+      "asparagus",
+      "carrots",
+      "Italian_dressing"
+    ],
+    "url": "http://www.kraftrecipes.com/recipes/-1882.aspx",
+    "partition": "val",
+    "title": "Garbanzo Bean and Tuna Salad",
+    "id": "aecf8b7e99",
+    "instructions": [
+      "Brush tuna with oil ; season with pepper to taste .",
+      "Grill 5 minutes on each side or until tuna flakes easily with fork .",
+      "Place in refrigerator to cool .",
+      "Break tuna into chunks .",
+      "Place in large bowl .",
+      "Add beans , tomatoes , asparagus and carrots ; mix lightly .",
+      "Add dressing ; toss to coat .",
+      "Cover .",
+      "Refrigerate at least 2 hours or until chilled ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tuna",
+      "olive_oil",
+      "pepper",
+      "canned_chick_-_peas",
+      "tomatoes",
+      "asparagus",
+      "carrots",
+      "Italian_dressing"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "carrots",
+      "yogurt",
+      "salt",
+      "cilantro"
+    ],
+    "url": "http://allrecipes.com/recipe/cucumber-carrot-salad-raita/",
+    "partition": "val",
+    "title": "Cucumber Carrot Salad ( Raita )",
+    "id": "be6200ae6a",
+    "instructions": [
+      "Mix cucumbers , carrots , and yogurt together in a large bowl ; season with salt .",
+      "Garnish with cilantro ."
+    ],
+    "images": [
+      {
+        "id": "b0bbf8dd1e.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/818577.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumbers",
+      "carrots",
+      "yogurt",
+      "salt",
+      "cilantro"
+    ]
+  },
+  {
+    "ingredients": [
+      "sour_cream",
+      "mustard",
+      "sugar",
+      "carrots",
+      "onion",
+      "mayonnaise",
+      "vinegar",
+      "salt_and_pepper"
+    ],
+    "url": "https://cookpad.com/us/recipes/338720-cold-corn-salad",
+    "partition": "val",
+    "title": "Cold Corn Salad",
+    "id": "c500d665a4",
+    "instructions": [
+      "In a large bowl combine sour_cream , mayo , mustard , vinegar , sugar , salt , and pepper .",
+      "Mix well .",
+      "Add remaining stuff and toss to cover everything evenly .",
+      "Cover and refrigerate at least an hour ."
+    ],
+    "images": [
+      {
+        "id": "06b3d4b668.jpg",
+        "url": "https://img-global.cpcdn.com/001_photo_reports/5438000490086400/0x0/photo.jpg"
+      },
+      {
+        "id": "8ed0a16b39.jpg",
+        "url": "https://img-global.cpcdn.com/001_photo_reports/6512266094575616/0x0/photo.jpg"
+      },
+      {
+        "id": "c12dbc84c0.jpg",
+        "url": "https://img-global.cpcdn.com/001_recipes/71633441/0x0/photo.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "sour_cream",
+      "mustard",
+      "sugar",
+      "carrots",
+      "onion",
+      "mayonnaise",
+      "vinegar",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "rice_vermicelli",
+      "rice_vinegar",
+      "sugar",
+      "soy_sauce",
+      "salt",
+      "sesame",
+      "tomatoes",
+      "carrots",
+      "spring_onions",
+      "cucumbers",
+      "shrimp"
+    ],
+    "url": "http://www.food.com/recipe/japanese-sunomono-salad-91082",
+    "partition": "val",
+    "title": "Japanese Sunomono Salad",
+    "id": "d0627bb919",
+    "instructions": [
+      "Put the noodles in boiling water and cook until tender .",
+      "Drain for 20- 30 minutes .",
+      "Put in a big bowl and add vinegar , sugar , soy_sauce , salt and sesame .",
+      "Divide the noodles into individual dishes and top with a small amount of each of the remaining ingredients .",
+      "Can be refrigerated and served next day ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "rice_vermicelli",
+      "rice_vinegar",
+      "sugar",
+      "soy_sauce",
+      "salt",
+      "sesame",
+      "tomatoes",
+      "carrots",
+      "spring_onions",
+      "cucumbers",
+      "shrimp"
+    ]
+  },
+  {
+    "ingredients": [
+      "lettuce",
+      "celery",
+      "carrots",
+      "red_onions",
+      "mayonnaise",
+      "sugar",
+      "cheddar_cheese",
+      "bacon"
+    ],
+    "url": "http://www.food.com/recipe/super-salad-68793",
+    "partition": "val",
+    "title": "Super Salad",
+    "id": "d53a151895",
+    "instructions": [
+      "In a large glass bowl , combine all salad ingredients ( can be layered , but it's easier to serve if veggies are tossed first ) .",
+      "Press down veggies lightly so that the top is even .",
+      "Top salad with an even layer of frozen peas .",
+      "Combine sugar and mayonnaise .",
+      "Spread mayonnaise evenly over peas .",
+      "Top with cheese and then bacon bits .",
+      "Can be made the day before ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "new_ingrs": [
+      "lettuce",
+      "celery",
+      "carrots",
+      "red_onions",
+      "mayonnaise",
+      "sugar",
+      "cheddar_cheese",
+      "bacon"
+    ]
+  },
+  {
+    "ingredients": [
+      "vinegar",
+      "honey",
+      "salt",
+      "black_pepper",
+      "vegetable_oil",
+      "lettuce",
+      "orange",
+      "carrots",
+      "spring_onions"
+    ],
+    "url": "http://www.food.com/recipe/orange-and-purple-tossed-salad-208995",
+    "partition": "val",
+    "title": "Orange and Purple Tossed Salad",
+    "id": "d940821e79",
+    "instructions": [
+      "In a non-reactive bowl combine all the vinaigrette ingredients except for the oil .",
+      "Whisk .",
+      "Slowly whisk in the oil and incorporate .",
+      "Vinaigrette is best prepared at least 1 hour in advance .",
+      "Place the chopped lettuce in a salad bowl .",
+      "Add the orange slices , carrots and spring_onions .",
+      "Toss gently .",
+      "Serve vinaigrette on side .",
+      "( Whisk dressing again just before serving .",
+      ") .",
+      "Serving is estimated ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "vinegar",
+      "honey",
+      "salt",
+      "black_pepper",
+      "vegetable_oil",
+      "lettuce",
+      "orange",
+      "carrots",
+      "spring_onions"
+    ]
+  },
+  {
+    "ingredients": [
+      "macaroni",
+      "carrots",
+      "milk",
+      "salt_and_pepper"
+    ],
+    "url": "http://www.food.com/recipe/hawaiian-macaroni-salad-232435",
+    "partition": "val",
+    "title": "Hawaiian Macaroni Salad",
+    "id": "e34a466139",
+    "instructions": [
+      "Cook macaroni till tender .",
+      "Add grated carrots , mayonnaise , and milk till well coated .",
+      "Salt & Pepper to taste .",
+      "Use more mayonnaise if needed .",
+      "Chill in refrigerator .",
+      "When ready to serve , add more mayonnaise to keep salad from drying out ."
+    ],
+    "images": [
+      {
+        "id": "9d9c0c4a49.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/23/24/35/picrIoLQf.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "macaroni",
+      "carrots",
+      "milk",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "salt",
+      "carrots",
+      "ginger",
+      "dried_chilies",
+      "sesame_oil",
+      "soy_sauce",
+      "sugar",
+      "rice_vinegar",
+      "salt"
+    ],
+    "url": "http://www.food.com/recipe/japanese-pounded-cucumber-salad-shojin-ryori-343365",
+    "partition": "val",
+    "title": "Japanese Pounded Cucumber Salad - Shojin Ryori",
+    "id": "e3b4fb6fa0",
+    "instructions": [
+      "Salt cucumber lightly and using a blunt side of kitchen knife or wooden rolling pin , lightly pound the cucumber to break down the flesh somewhat up and down .",
+      "Cut the cucumber into 1 1/4 inch or 3cm pieces .",
+      "Julienne carrot into about 1 1/4 inch or 3 cm pieces .",
+      "Parboil for about 1 minute and chill in cold water .",
+      "Drain .",
+      "Julienne ginger and soak in cold water for about 10 minutes .",
+      "Drain .",
+      "Cut dry hot chili pepper into thin ringlets .",
+      "Combine sesame_oil , soy_sauce , sugar , vinegar and salt to taste in a bowl with cucumber , carrot , ginger and dry hot chili pepper .",
+      "Let the mixture marinate for 1 hour before serving ."
+    ],
+    "images": [
+      {
+        "id": "cde64e8178.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/34/33/65/picXQGCXA.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumbers",
+      "salt",
+      "carrots",
+      "ginger",
+      "dried_chilies",
+      "sesame_oil",
+      "soy_sauce",
+      "sugar",
+      "rice_vinegar",
+      "salt"
+    ]
+  },
+  {
+    "ingredients": [
+      "chicken_breasts",
+      "mayonnaise",
+      "brown_mustard",
+      "chili_powder",
+      "carrots",
+      "grapes",
+      "salt",
+      "black_pepper",
+      "bread",
+      "arugula"
+    ],
+    "url": "http://www.foodandwine.com/recipes/chicken-and-grape-salad-sandwich",
+    "partition": "val",
+    "title": "Chicken-and-Grape Salad Sandwich",
+    "id": "e7fbe01ca8",
+    "instructions": [
+      "In a large pot , cover the chicken_breasts with water .",
+      "Bring to a gentle simmer and cook for 15 to 20 minutes , or until cooked through .",
+      "Remove the chicken from the water and let cool .",
+      "Cut into 1/2-inch pieces and set aside .",
+      "In a large bowl combine the mayonnaise , mustard and chili_powder .",
+      "Stir in the chicken , carrotss and grape halves .",
+      "Season with salt and pepper , to taste .",
+      "Assemble the sandwiches with your choice of bread , chicken salad mixture and toppings ."
+    ],
+    "images": [
+      {
+        "id": "38ccb37ef7.jpg",
+        "url": "http://cdn-image.foodandwine.com/sites/default/files/201404-xl-chicken-salad-grape-sandwich.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "chicken_breasts",
+      "mayonnaise",
+      "brown_mustard",
+      "chili_powder",
+      "carrots",
+      "grapes",
+      "salt",
+      "black_pepper",
+      "bread",
+      "arugula"
+    ]
+  },
+  {
+    "ingredients": [
+      "carrots",
+      "vegetable_oil",
+      "vinegar",
+      "water",
+      "sugar",
+      "garlic",
+      "oregano",
+      "salt",
+      "black_pepper",
+      "dry_mustard"
+    ],
+    "url": "http://www.food.com/recipe/pickled-carrot-salad-269579",
+    "partition": "val",
+    "title": "Pickled Carrot Salad",
+    "id": "f2c77d5cc4",
+    "instructions": [
+      "The original recipe says to cook the carrots in a small amount of water until crisp/tender and drain .",
+      "Sometimes I do , sometimes I don't .",
+      "Depends on how crunchy you like your salad .",
+      "Place carrots in a serving dish .",
+      "Combine remaining ingredients and whisk together well .",
+      "Pour over carrots , cover and chill for several hours or overnight .",
+      "Be sure you serve with a slotted spoon ."
+    ],
+    "images": [
+      {
+        "id": "793205ca60.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/26/95/79/picvsMdN5.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "carrots",
+      "vegetable_oil",
+      "vinegar",
+      "water",
+      "sugar",
+      "garlic",
+      "oregano",
+      "salt",
+      "black_pepper",
+      "dry_mustard"
+    ]
+  },
+  {
+    "ingredients": [
+      "cauliflower",
+      "carrots",
+      "onion",
+      "bacon",
+      "mayonnaise",
+      "sugar"
+    ],
+    "url": "http://www.food.com/recipe/cauliflower-salad-368662",
+    "partition": "val",
+    "title": "Cauliflower Salad",
+    "id": "f62b6bb006",
+    "instructions": [
+      "Chop cauliflower , carrots , onion , and bacon into a large salad bowl ( perferably that has a lid ) .",
+      "Whisk together mayonnaise and sugar in another bowl .",
+      "Pour over vegetable mixture , put lid on and shake to insure all vegetables are covered in dressing .",
+      "Place in fridge overnight to marinate .",
+      "Best if left turned upside down ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cauliflower",
+      "carrots",
+      "onion",
+      "bacon",
+      "mayonnaise",
+      "sugar"
+    ]
+  },
+  {
+    "ingredients": [
+      "lentils",
+      "water",
+      "bay_leaf",
+      "salt",
+      "onion",
+      "carrots",
+      "celery_ribs",
+      "garlic",
+      "thyme",
+      "black_pepper",
+      "olive_oil",
+      "vinegar",
+      "Dijon_mustard",
+      "Polish_sausage",
+      "parsley"
+    ],
+    "url": "http://www.epicurious.com/recipes/food/views/warm-lentil-salad-with-sausage-233546",
+    "partition": "val",
+    "title": "Warm Lentil Salad with Sausage",
+    "id": "fdcd0512e9",
+    "instructions": [
+      "Bring lentils , water , and bay_leaf to a boil in a 2- to 3-quart heavy saucepan , then reduce heat and simmer , covered , until almost tender , about 15 minutes .",
+      "Stir in 1/2 teaspoon salt , then simmer lentils , covered , until tender but not falling apart , 3 to 5 minutes .",
+      "While lentils simmer , cook onion , carrots , celery , garlic , thyme , 1/4 teaspoon salt , and 1/8 teaspoon pepper in 2 tablespoons oil in a 12-inch heavy skillet over moderately low heat , stirring occasionally , until vegetables are just softened , 7 to 9 minutes .",
+      "Make vinaigrette by whisking together vinegar , mustard , and remaining 1/4 teaspoon salt and 1/8 teaspoon pepper in a bowl .",
+      "Add remaining 1/2 cup oil in a slow stream , whisking until blended well .",
+      "Drain lentils in a colander , discarding bay_leaf , and return to saucepan along with vegetable mixture and vinaigrette .",
+      "Cook over low heat , stirring , until heated through .",
+      "Keep warm , covered .",
+      "Brown kielbasa in cleaned and dried 12-inch heavy skillet ( in 2 batches if necessary ) , turning over once , about 2 minutes per batch .",
+      "Stir kielbasa and parsley into lentils ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "lentils",
+      "water",
+      "bay_leaf",
+      "salt",
+      "onion",
+      "carrots",
+      "celery_ribs",
+      "garlic",
+      "thyme",
+      "black_pepper",
+      "olive_oil",
+      "vinegar",
+      "Dijon_mustard",
+      "Polish_sausage",
+      "parsley"
+    ]
+  }
+]

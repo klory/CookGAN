@@ -10,11 +10,11 @@ from io import BytesIO
 import numpy as np
 
 import sys
-sys.path.append('../')
+sys.path.append('/data/CS470_HnC/')
 import common
-sys.path.append('../retrieval_model')
+sys.path.append('/data/CS470_HnC/retrieval_model/')
 import train_retrieval
-sys.path.append('../cookgan')
+sys.path.append('/data/CS470_HnC/cookgan')
 import train_cookgan
 from utils_cookgan import compute_txt_feat
 from datasets_cookgan import FoodDataset
@@ -74,8 +74,8 @@ if __name__ == '__main__':
     import pdb
     from types import SimpleNamespace
     args = SimpleNamespace(
-        ckpt_path=f'{common.root}/cookgan/wandb/run-20201208_132237-179ysfpv/files/000000.ckpt',
-        retrieval_model=f'{common.root}/retrieval_model/wandb/run-20201204_174135-6w1fft7l/files/00000000.ckpt',
+        ckpt_path='/data/CS470_HnC/cookgan/wandb/run-20221117_162130-2ezrqode/files/000000.ckpt',
+        retrieval_model='/data/CS470_HnC/retrieval_model/wandb/run-20221115_141017-qn8zgvm8/files/00000000.ckpt',
         batch_size=16,
         size=256,
         device='cuda',

@@ -2,3 +2,4 @@ __pycache__/
 metrics/
 wandb/
 models/
+pretrain_upmc/

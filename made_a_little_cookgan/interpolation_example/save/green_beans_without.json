@@ -1,0 +1,778 @@
+[
+  {
+    "ingredients": [
+      "tomatoes",
+      "mozzarella_cheese",
+      "basil",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt"
+    ],
+    "url": "http://tastykitchen.com/recipes/appetizers-and-snacks/tomato-caprese-salad/",
+    "partition": "val",
+    "title": "Tomato Caprese Salad",
+    "id": "34fe5002be",
+    "instructions": [
+      "Arrange the tomato slices on a platter and top each with a slice of fresh mozzarella and fresh basil .",
+      "Sprinkle fresh ground pepper and salt over the entire plate , then drizzle olive_oil and balsamic_vinegar over the tomatoes and serve ."
+    ],
+    "images": [
+      {
+        "id": "45404e2a53.jpg",
+        "url": "http://tastykitchen.com/recipes/wp-content/uploads/sites/2/2015/06/caprese-salad-2-410x410.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "mozzarella_cheese",
+      "basil",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt"
+    ]
+  },
+  {
+    "ingredients": [
+      "mozzarella_cheese",
+      "garlic",
+      "basil",
+      "salt",
+      "olive_oil"
+    ],
+    "url": "http://online-cookbook.com/goto/cook/rpage/000789",
+    "partition": "val",
+    "title": "Mozzarella and Tomato Salad",
+    "id": "f30eff6812",
+    "instructions": [
+      "In a mixing bowl toss together the garlic , basil , salt and olive_oil .",
+      "Cover and refrigerate until serving time .",
+      "Alternate sliced tomatoes and slices of FRESH mozzerella on small salad plate .",
+      "Drizzle with dressing ."
+    ],
+    "valid": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "mozzarella_cheese",
+      "garlic",
+      "basil",
+      "salt",
+      "olive_oil"
+    ]
+  },
+  {
+    "ingredients": [
+      "olive_oil",
+      "red_onions",
+      "balsamic_vinegar",
+      "spring_onions",
+      "red_peppers",
+      "yellow_pepper",
+      "carrots",
+      "salt",
+      "black_pepper"
+    ],
+    "url": "http://www.epicurious.com/recipes/food/views/wheatberry-salad-392321",
+    "partition": "val",
+    "title": "Wheatberry Salad",
+    "id": "1aa4d14c5e",
+    "instructions": [
+      "Bring a medium saucepan of water to a boil .",
+      "Add the wheatberries ; cook until tender , 30 to 40 minutes .",
+      "Drain ; set aside .",
+      "Heat 2 tablespoons olive_oil in a large saute pan over low heat .",
+      "Cook the onion until translucent , stirring occasionally , about 10 minutes .",
+      "Remove the pan from heat ; add remaining 1/2 cup olive_oil and balsamic_vinegar .",
+      "In a large bowl , combine the wheatberries , onion mixture , spring_onions , peppers , carrots , salt , and pepper .",
+      "Allow to sit for at least 1 hour at room temperature so the wheatberries absorb the flavors .",
+      "Serve at room temperature ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "olive_oil",
+      "red_onions",
+      "balsamic_vinegar",
+      "spring_onions",
+      "red_peppers",
+      "yellow_pepper",
+      "carrots",
+      "salt",
+      "black_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "salt",
+      "red_onions",
+      "olive_oil",
+      "balsamic_vinegar",
+      "spring_onions",
+      "red_peppers",
+      "carrots",
+      "black_pepper"
+    ],
+    "url": "http://www.food.com/recipe/wheatberry-salad-164574",
+    "partition": "val",
+    "title": "Wheatberry Salad",
+    "id": "3e9005b13b",
+    "instructions": [
+      "Place the wheatberries and 3 cups of boiling salted water in a saucepan and cook , uncovered , over low heat for approximately 45 minutes , or until they are soft .",
+      "Drain .",
+      "Saute the red onion in 2 tablespoons of olive_oil over medium-low heat until translucent , aprroximately 5 minutes .",
+      "Turn off the heat and add the remaining 4 tablespoons ( 1/4 cup ) of olive_oil and the balsamic_vinegar .",
+      "In a large bowl , combine the warm wheatberries , sauteed onions , spring_onions , red bell pepper , carrots , 1/2 teaspoon ( each ) salt and pepper .",
+      "( Of course , oi and vinegar ) .",
+      "Allow the salad to sit for at least 30 minutes for the wheatberries to absorb the sauce .",
+      "Season , to taste , and serve at room temperature ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "salt",
+      "red_onions",
+      "olive_oil",
+      "balsamic_vinegar",
+      "spring_onions",
+      "red_peppers",
+      "carrots",
+      "black_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "salt",
+      "red_onions",
+      "olive_oil",
+      "balsamic_vinegar",
+      "spring_onions",
+      "red_peppers",
+      "carrots",
+      "black_pepper"
+    ],
+    "url": "http://www.foodnetwork.com/recipes/ina-garten/wheatberry-salad-recipe.html",
+    "partition": "val",
+    "title": "Wheatberry Salad",
+    "id": "e387d1186e",
+    "instructions": [
+      "Place the wheatberries and 3 cups of boiling salted water in a saucepan and cook , uncovered , over low heat for approximately 45 minutes , or until they are soft .",
+      "Drain .",
+      "Saute the red onion in 2 tablespoons of olive_oil over medium-low heat until translucent , approximately 5 minutes .",
+      "Turn off the heat and add the remaining 4 tablespoons ( 1/4 cup ) of olive_oil and the balsamic_vinegar .",
+      "In a large bowl , combine the warm wheatberries , sauteed onions , spring_onions , red_peppers , carrots , 1/2 teaspoon salt , and the pepper .",
+      "Allow the salad to sit for at least 30 minutes for the wheatberries to absorb the sauce .",
+      "Season , to taste , and serve at room temperature ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "salt",
+      "red_onions",
+      "olive_oil",
+      "balsamic_vinegar",
+      "spring_onions",
+      "red_peppers",
+      "carrots",
+      "black_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "dried_chilies",
+      "rice_vinegar",
+      "garlic",
+      "olive_oil",
+      "sesame_oil",
+      "cherry_tomatoes",
+      "peanuts"
+    ],
+    "url": "http://cookeatshare.com/recipes/asian-green-bean-salad-70328",
+    "partition": "val",
+    "title": "Asian Green Bean Salad Recipe",
+    "id": "00cd2727be",
+    "instructions": [
+      "In a bowl toss all ingredients together .",
+      "Season to taste with salt and pepper .",
+      "Serve at room temperature ."
+    ],
+    "valid": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "dried_chilies",
+      "rice_vinegar",
+      "garlic",
+      "olive_oil",
+      "sesame_oil",
+      "cherry_tomatoes",
+      "peanuts"
+    ]
+  },
+  {
+    "ingredients": [
+      "zucchini",
+      "olive_oil",
+      "garlic",
+      "salt",
+      "vinegar",
+      "olive_oil",
+      "mint"
+    ],
+    "url": "http://www.food.com/recipe/zucchini-courgette-salad-415439",
+    "partition": "val",
+    "title": "Zucchini / Courgette Salad",
+    "id": "794c7305da",
+    "instructions": [
+      "Preheat a frying pan with a generous splash of olive_oil .",
+      "Fry a few zucchini slices at a time , being careful not to overcrowd the pan .",
+      "Cook until the slices start to turn golden and their edges turn up .",
+      "As theyre cooked , remove the slices to a couple of sheets of kitchen towel so they can drain and crisp up .",
+      "When all the zucchini slices are cooked , make the dressing .",
+      "Crush the garlic with the salt until you have a smooth paste ; stir in the vinegar and then whisk in the olive_oil .",
+      "Whisk until the dressing is emulsified and taste it for seasoning .",
+      "Now spread the zucchini slices on a large plate and sprinkle with the dressing .",
+      "Finish with the finely-chopped mint and serve at room temperature ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "zucchini",
+      "olive_oil",
+      "garlic",
+      "salt",
+      "vinegar",
+      "olive_oil",
+      "mint"
+    ]
+  },
+  {
+    "ingredients": [
+      "olive_oil",
+      "vinegar",
+      "salt",
+      "basil",
+      "garlic",
+      "pepper"
+    ],
+    "url": "http://cookeatshare.com/recipes/bean-salad-48837",
+    "partition": "val",
+    "title": "Bean Salad Recipe",
+    "id": "a281166777",
+    "instructions": [
+      "Drain canned beans or possibly use precooked dry .",
+      "To make dressing , mince garlic and combine with remaining ingredients .",
+      "Mix beans with the vinaigrette and refrigeratein the refrigerator .",
+      "Bring to almost room temperature before serving ."
+    ],
+    "valid": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "olive_oil",
+      "vinegar",
+      "salt",
+      "basil",
+      "garlic",
+      "pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "basil",
+      "mozzarella_cheese",
+      "Italian_dressing"
+    ],
+    "url": "http://www.kraftrecipes.com/recipes/tomato-basil-salad-60587.aspx",
+    "partition": "val",
+    "title": "Tomato-Basil Salad",
+    "id": "460c04c9ac",
+    "instructions": [
+      "Arrange tomatoes , onions and basil on platter ; sprinkle with cheese .",
+      "Drizzle with dressing .",
+      "Serve immediately ."
+    ],
+    "images": [
+      {
+        "id": "0d568f4e29.jpg",
+        "url": "http://assets.kraftfoods.com/recipe_images/Tomato_Basil_Salad.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "basil",
+      "mozzarella_cheese",
+      "Italian_dressing"
+    ]
+  },
+  {
+    "ingredients": [
+      "basil",
+      "mozzarella_cheese",
+      "Italian_dressing"
+    ],
+    "url": "http://www.kraftrecipes.com/recipes/tomato-basil-salad-90485.aspx",
+    "partition": "val",
+    "title": "Tomato-Basil Salad",
+    "id": "eb6dffb4df",
+    "instructions": [
+      "Arrange tomatoes , onions and basil on serving platter ; sprinkle with cheese .",
+      "Drizzle with dressing .",
+      "Serve immediately ."
+    ],
+    "images": [
+      {
+        "id": "5393b014d9.jpg",
+        "url": "http://assets.kraftfoods.com/recipe_images/rec_r1_41129v1ec.jpg"
+      }
+    ],
+    "valid": [
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "basil",
+      "mozzarella_cheese",
+      "Italian_dressing"
+    ]
+  },
+  {
+    "ingredients": [
+      "white_beans",
+      "olive_oil",
+      "balsamic_vinegar",
+      "dried_chilies",
+      "basil",
+      "garlic",
+      "salt_and_pepper",
+      "bread"
+    ],
+    "url": "http://www.foodnetwork.com/recipes/white-bean-bruschetta-with-grilled-radicchio-salad-recipe.html",
+    "partition": "val",
+    "title": "White Bean Bruschetta with Grilled Radicchio Salad",
+    "id": "65512ab24f",
+    "instructions": [
+      "Preheat grill or broiler .",
+      "In a mixing bowl , gently stir together beans with 2 tablespoons of the olive_oil , 2 tablespoons of the balsamic_vinegar , the red pepper flakes , basil and garlic .",
+      "Season lightly with salt_and_pepper .",
+      "Halve the radicchio from top to bottom and place on an unoiled grill or under the broiler .",
+      "Cook until wilted , about 3 minutes per side .",
+      "Cut each half in half again to form wedges .",
+      "Cut the core piece out and separate the leaves .",
+      "Toss the leaves in a bowl with the remaining 4 tablespoons oil and 4 tablespoons vinegar , then season to taste with salt_and_pepper .",
+      "Arrange the radicchio leaves on four plates like the fingers of a hand .",
+      "Spoon the bean mixture onto four freshly grilled bread slices , place one slice in the middle of each salad and serve ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "new_ingrs": [
+      "white_beans",
+      "olive_oil",
+      "balsamic_vinegar",
+      "dried_chilies",
+      "basil",
+      "garlic",
+      "salt_and_pepper",
+      "bread"
+    ]
+  },
+  {
+    "ingredients": [
+      "kidney_beans",
+      "chickpeas",
+      "red_onions",
+      "green_peppers",
+      "cider",
+      "vegetable_oil",
+      "sugar",
+      "pepper",
+      "salt"
+    ],
+    "url": "http://tastykitchen.com/recipes/sidedishes/marinated-bean-salad/",
+    "partition": "val",
+    "title": "Marinated Bean Salad",
+    "id": "d2207c1e0c",
+    "instructions": [
+      "Mix all ingredients together and refrigerate for several hours before using .",
+      "Note : this will keep in the refrigerator for weeks .",
+      "If you dont need to watch salt too carefully , add a couple of tablespoonfuls of reduced sodium soy sauce , tamari , or Braggs .",
+      "Sometimes I add a teaspoon of Italian seasoning or a tablespoon or two of lemon juice ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "kidney_beans",
+      "chickpeas",
+      "red_onions",
+      "green_peppers",
+      "cider",
+      "vegetable_oil",
+      "sugar",
+      "pepper",
+      "salt"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "onion",
+      "olive_oil",
+      "basil",
+      "salt_and_pepper"
+    ],
+    "url": "http://www.food.com/recipe/tomato-salad-35624",
+    "partition": "val",
+    "title": "Tomato Salad",
+    "id": "74c42f9d3d",
+    "instructions": [
+      "Combine all ingredients and chill salad an hour before serving for best taste ."
+    ],
+    "images": [
+      {
+        "id": "fc2f978710.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/35/62/4/picVAVtSe.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "onion",
+      "olive_oil",
+      "basil",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "corn",
+      "tomatoes",
+      "onion",
+      "vinegar",
+      "olive_oil",
+      "basil",
+      "salt_and_pepper"
+    ],
+    "url": "http://www.food.com/recipe/corn-tomato-and-basil-salad-435786",
+    "partition": "val",
+    "title": "Corn , Tomato and Basil Salad",
+    "id": "ae25d0709d",
+    "instructions": [
+      "Mix seasoned rice vinegar , olive_oil and packed chopped basil in a medium sized bowl .",
+      "Add corn that has been cut off the cob , onions if using and tomatoes .",
+      "Salt and pepper to taste .",
+      "Let sit atleast 4 hours overnight is best .",
+      "The longer it sits the better it gets ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "corn",
+      "tomatoes",
+      "onion",
+      "vinegar",
+      "olive_oil",
+      "basil",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "cherry_tomatoes",
+      "red_onions",
+      "champagne_vinegar",
+      "olive_oil",
+      "salt",
+      "black_pepper",
+      "basil",
+      "parsley",
+      "feta"
+    ],
+    "url": "http://www.food.com/recipe/tomato-feta-salad-barefoot-contessa-ina-garten-206041",
+    "partition": "val",
+    "title": "Tomato Feta Salad - Barefoot Contessa - Ina Garten",
+    "id": "fc82c62c26",
+    "instructions": [
+      "Cut the tomatoes in half and place them in a large bowl .",
+      "Add the onion , vinegar , olive_oil , salt , pepper , basil , and parsley and toss well .",
+      "Dice the feta in 1/2 to 3/4-inch cubes , crumbling it as little as possible .",
+      "Gently fold it into the salad and serve at room temperature ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cherry_tomatoes",
+      "red_onions",
+      "champagne_vinegar",
+      "olive_oil",
+      "salt",
+      "black_pepper",
+      "basil",
+      "parsley",
+      "feta"
+    ]
+  },
+  {
+    "ingredients": [
+      "potatoes",
+      "salt",
+      "shallots",
+      "Dijon_mustard",
+      "mustard",
+      "champagne_vinegar",
+      "black_pepper",
+      "olive_oil",
+      "parsley"
+    ],
+    "url": "http://www.epicurious.com/recipes/food/views/warm-new-potato-salad-with-grainy-mustard-235483",
+    "partition": "val",
+    "title": "Warm New Potato Salad with Grainy Mustard",
+    "id": "700d6b6c5a",
+    "instructions": [
+      "Cover potatoeses with water by 1 inch in a 3- to 4-quart saucepan , then bring to a boil with 1 teaspoon salt .",
+      "Simmer , partially covered , until potatoeses are tender , about 10 minutes , then drain .",
+      "Whisk together shallot , mustards , vinegar , pepper , and remaining 1/2 teaspoon salt in a large bowl , then add oil in a slow stream , whisking until emulsified .",
+      "When potatoeses are just cool enough to handle , halve them , then add to vinaigrette along with parsley and toss to combine .",
+      "Serve warm or at room temperature ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "potatoes",
+      "salt",
+      "shallots",
+      "Dijon_mustard",
+      "mustard",
+      "champagne_vinegar",
+      "black_pepper",
+      "olive_oil",
+      "parsley"
+    ]
+  },
+  {
+    "ingredients": [
+      "potatoes",
+      "olive_oil",
+      "shallots",
+      "champagne_vinegar",
+      "Dijon_mustard",
+      "salt",
+      "black_pepper",
+      "parsley"
+    ],
+    "url": "http://www.chowhound.com/recipes/herbed-potato-salad-30737",
+    "partition": "val",
+    "title": "Herbed Potato Salad Recipe",
+    "id": "e46b5119f8",
+    "instructions": [
+      "Place the potatoes in a large pot filled with heavily salted water and bring to a boil over high heat .",
+      "Reduce the heat to medium and simmer until a paring knife can easily be inserted into the potatoes , about 12 to 14 minutes .",
+      "Meanwhile , whisk the oil , shallot , vinegar , mustard , 1 teaspoon of the measured salt , and the measured pepper in a large , nonreactive bowl and set aside .",
+      "When the potatoes are ready , drain them , transfer to a rimmed baking sheet , and spread into an even layer .",
+      "Set aside until cool enough to handle but still warm , about 20 minutes .",
+      "Slice the potatoes into 1/2-inch rounds and place in the bowl with the dressing .",
+      "Add the herbs and the remaining 1 1/2 teaspoons of salt and gently toss to combine .",
+      "Taste and season with additional salt and pepper as needed .",
+      "Serve warm or at room temperature ."
+    ],
+    "images": [
+      {
+        "id": "a9598fbcd7.jpg",
+        "url": "http://search.chow.com/thumbnail/1280/800/www.chowstatic.com/assets/2013/05/30737_RecipeImage_620x413_herbed_potato_salad.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "potatoes",
+      "olive_oil",
+      "shallots",
+      "champagne_vinegar",
+      "Dijon_mustard",
+      "salt",
+      "black_pepper",
+      "parsley"
+    ]
+  },
+  {
+    "ingredients": [
+      "cucumbers",
+      "tomatoes",
+      "lemon_juice",
+      "olive_oil",
+      "garlic",
+      "red_onions",
+      "parsley",
+      "dill",
+      "salt_and_pepper"
+    ],
+    "url": "http://www.food.com/recipe/cucumber-and-tomato-salad-176800",
+    "partition": "val",
+    "title": "Cucumber and Tomato Salad",
+    "id": "17fbb2b800",
+    "instructions": [
+      "Finely chop the vegetables .",
+      "Lightly mix with the remaining ingredients .",
+      "Refrigerate for 2 4 hours and adjust salt_and_pepper to taste ."
+    ],
+    "images": [
+      {
+        "id": "e8ed7f1a61.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/17/68/00/picovwv2n.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "cucumbers",
+      "tomatoes",
+      "lemon_juice",
+      "olive_oil",
+      "garlic",
+      "red_onions",
+      "parsley",
+      "dill",
+      "salt_and_pepper"
+    ]
+  }
+]

@@ -14,11 +14,11 @@ from tqdm import tqdm
 from inception import InceptionV3
 
 import sys
-sys.path.append('../')
+sys.path.append('/data/CS470_HnC/')
 import common
-sys.path.append('../retrieval_model')
+sys.path.append('/data/CS470_HnC/retrieval_model/')
 import train_retrieval
-sys.path.append('../cookgan')
+sys.path.append('/data/CS470_HnC/cookgan/')
 import train_cookgan
 from utils_cookgan import compute_txt_feat
 from datasets_cookgan import FoodDataset
@@ -117,6 +117,8 @@ if __name__ == '__main__':
     features = extract_features(loader, inception, device).numpy()
 
     features = features[: args.n_sample]
+
+    # print(args.n_sample)    # 5000
 
     print(f'extracted {features.shape[0]} features')
 

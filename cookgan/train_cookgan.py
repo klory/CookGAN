@@ -22,7 +22,7 @@ from utils_cookgan import prepare_data, compute_img_feat, compute_txt_feat, save
 import sys
 sys.path.append('../')
 from common import param_counter, sample_data, clean_state_dict, requires_grad
-sys.path.append('../retrieval_model')
+sys.path.append('/data/CS470_HnC/retrieval_model/')
 import train_retrieval
 import utils_retrieval
 

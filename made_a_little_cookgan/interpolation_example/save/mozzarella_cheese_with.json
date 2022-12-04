@@ -1,0 +1,644 @@
+[
+  {
+    "ingredients": [
+      "tomatoes",
+      "cooking_spray",
+      "salt",
+      "pepper",
+      "mozzarella_cheese",
+      "basil"
+    ],
+    "url": "http://www.food.com/recipe/basil-tomato-mozzarella-salad-479244",
+    "partition": "val",
+    "title": "Basil Tomato Mozzarella Salad",
+    "id": "005d160772",
+    "instructions": [
+      "Arrange tomatoes on plate and lightly mist with olive oil .",
+      "Add salt and pepper .",
+      "Sprinkle cheese on top and top with basil ."
+    ],
+    "images": [
+      {
+        "id": "1e63146456.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/47/92/44/piczZs3JP.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "cooking_spray",
+      "salt",
+      "pepper",
+      "mozzarella_cheese",
+      "basil"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "basil",
+      "tomatoes",
+      "mozzarella_cheese",
+      "shallots",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt_and_pepper"
+    ],
+    "url": "http://allrecipes.com/recipe/tamis-tri-color-caprese-salad/",
+    "partition": "val",
+    "title": "Tami's Tri Color Caprese Salad",
+    "id": "1234003a95",
+    "instructions": [
+      "Arrange alternate slices of yellow tomato , whole basil leaves , slices of red tomato , and mozzarella_cheese slices on a serving platter in rows ; sprinkle with shaved shallots .",
+      "Drizzle olive_oil and balsamic_vinegar over the salad ; season with salt and black pepper ."
+    ],
+    "images": [
+      {
+        "id": "de42a8f7af.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/1416378.jpg"
+      },
+      {
+        "id": "eaac154403.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/934019.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "basil",
+      "tomatoes",
+      "mozzarella_cheese",
+      "shallots",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "broccoli",
+      "mozzarella_cheese",
+      "bacon",
+      "red_onions",
+      "mayonnaise",
+      "sugar",
+      "vinegar"
+    ],
+    "url": "http://www.food.com/recipe/broccoli-salad-203528",
+    "partition": "val",
+    "title": "Broccoli Salad",
+    "id": "2f352456d0",
+    "instructions": [
+      "Mix together the mayonnaise , sugar and vinegar .",
+      "Pour over the above ingredients and mix well .",
+      "Refrigerate at least 1 hour before serving ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "broccoli",
+      "mozzarella_cheese",
+      "bacon",
+      "red_onions",
+      "mayonnaise",
+      "sugar",
+      "vinegar"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "mozzarella_cheese",
+      "basil",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt"
+    ],
+    "url": "http://tastykitchen.com/recipes/appetizers-and-snacks/tomato-caprese-salad/",
+    "partition": "val",
+    "title": "Tomato Caprese Salad",
+    "id": "34fe5002be",
+    "instructions": [
+      "Arrange the tomato slices on a platter and top each with a slice of fresh mozzarella and fresh basil .",
+      "Sprinkle fresh ground pepper and salt over the entire plate , then drizzle olive_oil and balsamic_vinegar over the tomatoes and serve ."
+    ],
+    "images": [
+      {
+        "id": "45404e2a53.jpg",
+        "url": "http://tastykitchen.com/recipes/wp-content/uploads/sites/2/2015/06/caprese-salad-2-410x410.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "mozzarella_cheese",
+      "basil",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "olive_oil",
+      "mozzarella_cheese",
+      "basil",
+      "salt_and_pepper"
+    ],
+    "url": "http://www.food.com/recipe/the-best-tomato-salad-177746",
+    "partition": "val",
+    "title": "The Best Tomato Salad",
+    "id": "4eeb1f75ae",
+    "instructions": [
+      "Toss all ingredients together and enjoy !",
+      "I have had this salad without the cheese & basil and it is still fantastic !",
+      "Tastes best served at room temperature immediately after tossing .",
+      "For vegan omit the cheese ."
+    ],
+    "images": [
+      {
+        "id": "f4434857e6.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/17/77/46/picsxQwkT.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "olive_oil",
+      "mozzarella_cheese",
+      "basil",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "balsamic_vinegar",
+      "Dijon_mustard",
+      "salt",
+      "pepper",
+      "sugar",
+      "olive_oil",
+      "mozzarella_cheese",
+      "tomatoes",
+      "basil"
+    ],
+    "url": "http://www.food.com/recipe/fresh-mozzarella-tomato-salad-290706",
+    "partition": "val",
+    "title": "Fresh Mozzarella-Tomato Salad",
+    "id": "9dbf38ec71",
+    "instructions": [
+      "Prepare the vinaigrette by whisking the vinegar , mustard , salt , pepper and sugar until smooth .",
+      "Add oil in a thin stream while whisking until mixture is smooth .",
+      "Refrigerate until ready to use .",
+      "Cut mozzarella into 1/4-inch slices .",
+      "Cut tomatoes into 1/4-inch slices .",
+      "Arrange mozzarella , tomatoes , basil leaves alternately on your platter .",
+      "Drizzle vinaigrette over salad .",
+      "Sprinkle with salt and pepper ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "balsamic_vinegar",
+      "Dijon_mustard",
+      "salt",
+      "pepper",
+      "sugar",
+      "olive_oil",
+      "mozzarella_cheese",
+      "tomatoes",
+      "basil"
+    ]
+  },
+  {
+    "ingredients": [
+      "mangoes",
+      "mozzarella_cheese",
+      "basil",
+      "olive_oil",
+      "lemon_juice",
+      "black_pepper",
+      "salt"
+    ],
+    "url": "http://www.food.com/recipe/italian-mango-salad-69166",
+    "partition": "val",
+    "title": "Italian Mango Salad",
+    "id": "afedd08f66",
+    "instructions": [
+      "Peel and cut mangoes into 24 or more or less little pieces .",
+      "Cut mozzarella into the same amount of little pieces .",
+      "Put the mozzarella pieces on top of the mangoes pieces .",
+      "Put a basil leave on every mozzarella-mangoes-tower .",
+      "Combine oil and lemon_juice and sprinkle over the pieces , .",
+      "Add freshly ground pepper and very little salt .",
+      "Serve soon ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "mangoes",
+      "mozzarella_cheese",
+      "basil",
+      "olive_oil",
+      "lemon_juice",
+      "black_pepper",
+      "salt"
+    ]
+  },
+  {
+    "ingredients": [
+      "onion",
+      "tomatoes",
+      "mozzarella_cheese",
+      "olive_oil",
+      "vinegar",
+      "basil",
+      "pepper",
+      "garlic"
+    ],
+    "url": "http://www.food.com/recipe/vidalia-onion-tomato-and-basil-salad-431",
+    "partition": "val",
+    "title": "Vidalia Onion , Tomato and Basil Salad",
+    "id": "b6b28ba6af",
+    "instructions": [
+      "Mix all ingredients together and let marinate 20 minutes at room temperature ."
+    ],
+    "images": [
+      {
+        "id": "072567f9ea.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/picaKIovr.jpg"
+      },
+      {
+        "id": "58ff3f7b55.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/picocp17y.jpg"
+      },
+      {
+        "id": "8662607d63.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/pickpoYCT.jpg"
+      },
+      {
+        "id": "a510cbbbff.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/43/1/pic8HbW7m.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "onion",
+      "tomatoes",
+      "mozzarella_cheese",
+      "olive_oil",
+      "vinegar",
+      "basil",
+      "pepper",
+      "garlic"
+    ]
+  },
+  {
+    "ingredients": [
+      "mozzarella_cheese",
+      "tomatoes",
+      "cucumbers",
+      "olives",
+      "Italian_dressing",
+      "basil"
+    ],
+    "url": "http://www.food.com/recipe/mozzarella-salad-30103",
+    "partition": "val",
+    "title": "Mozzarella Salad",
+    "id": "bb03a35fdc",
+    "instructions": [
+      "Mix all ingredients and toss well .",
+      "Refrigerate until serving .",
+      "Can of black beans is optional and will extend the salad ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "new_ingrs": [
+      "mozzarella_cheese",
+      "tomatoes",
+      "cucumbers",
+      "olives",
+      "Italian_dressing",
+      "basil"
+    ]
+  },
+  {
+    "ingredients": [
+      "mozzarella_cheese",
+      "red_onions"
+    ],
+    "url": "http://www.kraftrecipes.com/recipes/-5365.aspx",
+    "partition": "val",
+    "title": "Quick Antipasto Pasta Salad",
+    "id": "bde6487c13",
+    "instructions": [
+      "Prepare Pasta Salad as directed on pkg .",
+      "Add remaining ingredients ; mix lightly .",
+      "Cover .",
+      "Refrigerate at least 1 hour before serving ."
+    ],
+    "valid": [
+      false,
+      true,
+      false,
+      true
+    ],
+    "new_ingrs": [
+      "mozzarella_cheese",
+      "red_onions"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "olive_oil",
+      "balsamic_vinegar",
+      "basil",
+      "mozzarella_cheese",
+      "salt_and_pepper"
+    ],
+    "url": "http://allrecipes.com/recipe/smiling-caprese-salad/",
+    "partition": "val",
+    "title": "Smiling Caprese Salad",
+    "id": "e9b25da490",
+    "instructions": [
+      "Stir tomatoes , olive_oil , balsamic_vinegar , and basil together in a large salad bowl ; gently fold in mozzarella_cheese ; season with salt and black pepper .",
+      "Chill before serving ."
+    ],
+    "images": [
+      {
+        "id": "1a131c632d.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/1392743.jpg"
+      },
+      {
+        "id": "32b3ba3ffc.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/870547.jpg"
+      },
+      {
+        "id": "3506f2988d.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/923749.jpg"
+      },
+      {
+        "id": "50c6445a5f.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/1130973.jpg"
+      },
+      {
+        "id": "50fbd8cb03.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/871939.jpg"
+      },
+      {
+        "id": "64a6c9718e.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/871940.jpg"
+      },
+      {
+        "id": "65e9222a84.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/865018.jpg"
+      },
+      {
+        "id": "74e5b31ba3.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/871938.jpg"
+      },
+      {
+        "id": "8c2f26042d.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/1412753.jpg"
+      },
+      {
+        "id": "b4810969e3.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/868477.jpg"
+      },
+      {
+        "id": "b8183b15df.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/871005.jpg"
+      },
+      {
+        "id": "c6076b1038.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/1394253.jpg"
+      },
+      {
+        "id": "da771f0da8.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/256x256/923751.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "olive_oil",
+      "balsamic_vinegar",
+      "basil",
+      "mozzarella_cheese",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "mozzarella_cheese",
+      "basil",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt_and_pepper"
+    ],
+    "url": "http://tastykitchen.com/recipes/salads/caprese-salad-4/",
+    "partition": "val",
+    "title": "Caprese Salad",
+    "id": "ebd58af996",
+    "instructions": [
+      "Slice the tomato into thick slices , about 1/4 inch thick .",
+      "Slice the mozzarella_cheese roughly the same thickness .",
+      "Layer the slices on a plate or platter , alternating the tomato and mozzarella .",
+      "Garnish with julienned basil .",
+      "Drizzle on the olive_oil and vinegar .",
+      "Salt and pepper to taste and serve it up !"
+    ],
+    "images": [
+      {
+        "id": "ab9af01784.jpg",
+        "url": "http://tastykitchen.com/recipes/wp-content/uploads/sites/2/2013/06/Caprese-salad-4-410x307.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "mozzarella_cheese",
+      "basil",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "mozzarella_cheese",
+      "garlic",
+      "basil",
+      "salt",
+      "olive_oil"
+    ],
+    "url": "http://online-cookbook.com/goto/cook/rpage/000789",
+    "partition": "val",
+    "title": "Mozzarella and Tomato Salad",
+    "id": "f30eff6812",
+    "instructions": [
+      "In a mixing bowl toss together the garlic , basil , salt and olive_oil .",
+      "Cover and refrigerate until serving time .",
+      "Alternate sliced tomatoes and slices of FRESH mozzerella on small salad plate .",
+      "Drizzle with dressing ."
+    ],
+    "valid": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "mozzarella_cheese",
+      "garlic",
+      "basil",
+      "salt",
+      "olive_oil"
+    ]
+  },
+  {
+    "ingredients": [
+      "rotini_pasta",
+      "salt",
+      "mozzarella_cheese",
+      "tomatoes",
+      "basil",
+      "spring_onions",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt",
+      "black_pepper"
+    ],
+    "url": "http://www.food.com/recipe/tomato-basil-and-mozzarella-pasta-salad-385581",
+    "partition": "val",
+    "title": "Tomato , Basil and Mozzarella Pasta Salad",
+    "id": "fbe5dbd00b",
+    "instructions": [
+      "In a large pot of boiling salted water , cook the pasta until it is done , but still a little firm to the bite .",
+      "Drain and rinse with cold water until the pasta is completely cool .",
+      "Let it drain for a few minutes and transfer to a large bowl .",
+      "Add the mozzarella , tomatoes , basil , spring_onions , olive_oil and balsamic_vinegar .",
+      "Add salt and pepper to taste , adding more vinegar if desired .",
+      "Serve immediately , or cover and refrigerate until ready to serve .",
+      "* NOTE : To peel tomatoes :",
+      "Bring a small pot of water to a boil .",
+      "Have ready a bowl of ice water .",
+      "Cut an \" X \" in the bottom of the tomato and remove the stem .",
+      "Place in the boiling water for 10 or 15 seconds -- no longer .",
+      "Use a slotted spoon to quickly transfer to the ice water .",
+      "The skin should simply slip off ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "rotini_pasta",
+      "salt",
+      "mozzarella_cheese",
+      "tomatoes",
+      "basil",
+      "spring_onions",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt",
+      "black_pepper"
+    ]
+  }
+]

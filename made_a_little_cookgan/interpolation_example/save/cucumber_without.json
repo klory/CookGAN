@@ -1,0 +1,1110 @@
+[
+  {
+    "ingredients": [
+      "tomatoes",
+      "feta",
+      "black_olives",
+      "olive_oil",
+      "oregano"
+    ],
+    "url": "http://www.food.com/recipe/cretan-dakos-tomato-cheese-rusk-salad-241575",
+    "partition": "val",
+    "title": "Cretan Dakos - Tomato , Cheese Rusk Salad",
+    "id": "81c5b41129",
+    "instructions": [
+      "Put the rusks just for a second under running water .",
+      "Place them at the bottom of a bowl .",
+      "( I like mine crushed in big pieces ) .",
+      "Cut the tomatoes in cubes and reserve their juice .",
+      "Add the tomato cubes and the juice over the rusks .",
+      "Add the feta , the olives , the olive_oil and the oregano .",
+      "Let it stand for 10-15 minutes and serve ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "feta",
+      "black_olives",
+      "olive_oil",
+      "oregano"
+    ]
+  },
+  {
+    "ingredients": [
+      "sugar",
+      "vinegar",
+      "salt"
+    ],
+    "url": "http://cookeatshare.com/recipes/salad-or-cole-slaw-dressing-11652",
+    "partition": "val",
+    "title": "Salad Or Cole Slaw Dressing Recipe",
+    "id": "61795758de",
+    "instructions": [
+      "Place all ingredients in saucepan and boil hard for 30 seconds , turn down heat and let simmer 3 to 4 min .",
+      "Excellent basic dressing can be stored in refrigerator .",
+      "Can add in chili sauce or possibly catsup .",
+      "Makes a good French dressing ."
+    ],
+    "valid": [
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "sugar",
+      "vinegar",
+      "salt"
+    ]
+  },
+  {
+    "ingredients": [
+      "chickpeas",
+      "red_onions",
+      "garlic",
+      "tomatoes",
+      "parsley",
+      "olive_oil",
+      "lemon_juice",
+      "salt_and_pepper"
+    ],
+    "url": "http://www.food.com/recipe/chickpea-salad-with-red-onion-and-tomato-396318",
+    "partition": "val",
+    "title": "Chickpea Salad With Red Onion and Tomato",
+    "id": "852e0f86f8",
+    "instructions": [
+      "In a large bowl , combine the chickpeas , red onion , garlic , tomato , parsley , olive_oil , lemon_juice and salt_and_pepper to taste .",
+      "Chill for 2 hours before serving .",
+      "Taste and adjust seasoning .",
+      "Serve ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "chickpeas",
+      "red_onions",
+      "garlic",
+      "tomatoes",
+      "parsley",
+      "olive_oil",
+      "lemon_juice",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "lettuce",
+      "cherry_tomatoes",
+      "parmigiano",
+      "caesar_salad_dressing"
+    ],
+    "url": "http://www.food.com/recipe/caesar-style-salad-228398",
+    "partition": "val",
+    "title": "Caesar-Style Salad",
+    "id": "71d4420f84",
+    "instructions": [
+      "Place the lettuce and tomatoes in a large salad bowl .",
+      "Toss with the dressing .",
+      "Transfer to a serving bowl .",
+      "Top with the croutons and dust with the cheese ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "lettuce",
+      "cherry_tomatoes",
+      "parmigiano",
+      "caesar_salad_dressing"
+    ]
+  },
+  {
+    "ingredients": [
+      "salt",
+      "sugar",
+      "soy_sauce",
+      "rice_vinegar",
+      "sesame_oil",
+      "sesame"
+    ],
+    "url": "http://www.food.com/recipe/cucumber-salad-93246",
+    "partition": "val",
+    "title": "Cucumber Salad",
+    "id": "4dddd47030",
+    "instructions": [
+      "Peel cucumbers , cut lengthwise , seed and slice into thin half moons .",
+      "In large bowl , combine cucumbers and salt and mix well .",
+      "Add sugar , soy_sauce , rice_vinegar and sesame_oil and mix well .",
+      "Sprinkle with sesame and mix .",
+      "Let marinate for 20-minutes before serving .",
+      "Adjust seasonings before serving ."
+    ],
+    "images": [
+      {
+        "id": "0cc3f69b53.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/93/24/6/picaO6LNv.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "salt",
+      "sugar",
+      "soy_sauce",
+      "rice_vinegar",
+      "sesame_oil",
+      "sesame"
+    ]
+  },
+  {
+    "ingredients": [
+      "rice_vinegar",
+      "soy_sauce",
+      "sugar",
+      "salt",
+      "sesame"
+    ],
+    "url": "http://www.food.com/recipe/japanese-cucumber-salad-453102",
+    "partition": "val",
+    "title": "Japanese Cucumber Salad",
+    "id": "8490a554ce",
+    "instructions": [
+      "Slice cucumbers very thin .",
+      "Soak a few minutes in salt water , drain and squeeze .",
+      "Mix the remaining ingredients together and marinate cucumbers in the sauce for at least 15 minutes .",
+      "Serve sprinkled with sesame seeds to taste ."
+    ],
+    "images": [
+      {
+        "id": "0a61d4d703.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/45/31/02/picQDqrlE.jpg"
+      },
+      {
+        "id": "8b5b70e26a.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/45/31/02/xyuyVa7WQpW2dH4v8VMM_Japanese%20Cucumber%20Salad_4883.jpg"
+      },
+      {
+        "id": "984ac02ae4.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/45/31/02/picSzLDaZ.jpg"
+      },
+      {
+        "id": "9eb4752c65.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/45/31/02/8mYKtSN9Rdyel7EQJ8LX_japcucum.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "rice_vinegar",
+      "soy_sauce",
+      "sugar",
+      "salt",
+      "sesame"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "red_onions",
+      "salt",
+      "black_pepper",
+      "vinegar",
+      "olive_oil",
+      "basil"
+    ],
+    "url": "http://cooking.nytimes.com/recipes/3217",
+    "partition": "val",
+    "title": "Tomato Salad With Red Onion and Basil",
+    "id": "136e0632ac",
+    "instructions": [
+      "Cut the tomatoes horizontally into 1/4-inch slices .",
+      "( Remember that a sharp blade is required to slice very ripe tomatoes . )",
+      "Arrange the slices , overlapping them slightly , on a large oval or round gratin dish .",
+      "Cut the peeled onion into 1/8-inch thick slices .",
+      "Separate the slices into rings and arrange over the tomatoes .",
+      "Sprinkle with the salt , pepper , vinegar and oil , coating the whole surface as evenly as possible .",
+      "Sprinkle the shredded basil on top and serve at room temperature .",
+      "This goes well with a crunchy , crusty French bread ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "red_onions",
+      "salt",
+      "black_pepper",
+      "vinegar",
+      "olive_oil",
+      "basil"
+    ]
+  },
+  {
+    "ingredients": [
+      "French_beans",
+      "garlic",
+      "vinegar",
+      "oil",
+      "salt",
+      "pepper",
+      "water"
+    ],
+    "url": "http://www.food.com/recipe/croatian-simple-french-beans-salad-380026",
+    "partition": "val",
+    "title": "Croatian Simple French Beans Salad",
+    "id": "cff3e21bb1",
+    "instructions": [
+      "Clean French_beans , cut into 5 cm pieces and cook in hot water ( throw it into hot water to preserve nice green color ) .",
+      "Cook 10 minutes and than change water and cook until soft .",
+      "Remove French_beans from water and put into a salad bowl .",
+      "While hot , pour over oil and finely minced garlic .",
+      "You can also season it completely with vinegar ( use water to dissolve vinegar if it is too strong ) salt and pepper but cool it and eat cold ."
+    ],
+    "images": [
+      {
+        "id": "30bcfafbb4.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/38/00/26/picFaImpc.jpg"
+      },
+      {
+        "id": "84c68b3a3d.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/38/00/26/picWK1XiI.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "French_beans",
+      "garlic",
+      "vinegar",
+      "oil",
+      "salt",
+      "pepper",
+      "water"
+    ]
+  },
+  {
+    "ingredients": [
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt",
+      "sugar",
+      "pepper",
+      "tomatoes",
+      "onion",
+      "basil"
+    ],
+    "url": "http://www.food.com/recipe/tomato-onion-salad-144336",
+    "partition": "val",
+    "title": "Tomato & Onion Salad",
+    "id": "dd6be79d3c",
+    "instructions": [
+      "Whisk together the first 5 ingredients in a large bowl .",
+      "Arrange tomato and onion slices in rows on a serving dish .",
+      "Sprinkle with chopped basil .",
+      "Drizzle evenly with marinade .",
+      "Cover and let stand at room temperature for at least 2 hours .",
+      "Serve with a slotted spoon ."
+    ],
+    "images": [
+      {
+        "id": "724e17a3ff.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/14/43/36/picKQVz5w.jpg"
+      },
+      {
+        "id": "9b62df3706.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/14/43/36/picnjqk9n.jpg"
+      },
+      {
+        "id": "cf8c4ea2e8.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_512,h_512,c_fit,fl_progressive,q_95/v1/img/recipes/14/43/36/picTWtWR0.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt",
+      "sugar",
+      "pepper",
+      "tomatoes",
+      "onion",
+      "basil"
+    ]
+  },
+  {
+    "ingredients": [
+      "chicken"
+    ],
+    "url": "https://recipeland.com/recipe/v/lemon-yogurt-blueberry-chicken--53619",
+    "partition": "val",
+    "title": "Lemon Yogurt Blueberry Chicken Salad",
+    "id": "a259f0e906",
+    "instructions": [
+      "Simply mix all ingredients together in a large mixing bowl until blended .",
+      "Enjoy right away or chill for an hour or two to let the flavors blend ."
+    ],
+    "valid": [
+      true
+    ],
+    "new_ingrs": [
+      "chicken"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "onion",
+      "basil",
+      "salt",
+      "black_pepper",
+      "balsamic_vinegar",
+      "olive_oil"
+    ],
+    "url": "http://tastykitchen.com/recipes/salads/fresh-tomato-salad/",
+    "partition": "val",
+    "title": "Fresh Tomato Salad",
+    "id": "e119612dc2",
+    "instructions": [
+      "* All amounts are estimates , depending on what you have on hand , and if this is used as a lunch ( 2 servings ) or side dish for dinner ( 4 servings ) and size of the fruits .",
+      "Wash , dry , and cut up tomatoes as desired ( fork-able cuts are best ) .",
+      "Cut the onion in half and slice .",
+      "Tear up the basil leaves or chop them roughly .",
+      "Toss it all gently in an appropriately sized bowl and sprinkle with salt & pepper .",
+      "Drizzle a little vinegar & oil just before serving ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "onion",
+      "basil",
+      "salt",
+      "black_pepper",
+      "balsamic_vinegar",
+      "olive_oil"
+    ]
+  },
+  {
+    "ingredients": [
+      "rotini_pasta",
+      "salt",
+      "mozzarella_cheese",
+      "tomatoes",
+      "basil",
+      "spring_onions",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt",
+      "black_pepper"
+    ],
+    "url": "http://www.food.com/recipe/tomato-basil-and-mozzarella-pasta-salad-385581",
+    "partition": "val",
+    "title": "Tomato , Basil and Mozzarella Pasta Salad",
+    "id": "fbe5dbd00b",
+    "instructions": [
+      "In a large pot of boiling salted water , cook the pasta until it is done , but still a little firm to the bite .",
+      "Drain and rinse with cold water until the pasta is completely cool .",
+      "Let it drain for a few minutes and transfer to a large bowl .",
+      "Add the mozzarella , tomatoes , basil , spring_onions , olive_oil and balsamic_vinegar .",
+      "Add salt and pepper to taste , adding more vinegar if desired .",
+      "Serve immediately , or cover and refrigerate until ready to serve .",
+      "* NOTE : To peel tomatoes :",
+      "Bring a small pot of water to a boil .",
+      "Have ready a bowl of ice water .",
+      "Cut an \" X \" in the bottom of the tomato and remove the stem .",
+      "Place in the boiling water for 10 or 15 seconds -- no longer .",
+      "Use a slotted spoon to quickly transfer to the ice water .",
+      "The skin should simply slip off ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "rotini_pasta",
+      "salt",
+      "mozzarella_cheese",
+      "tomatoes",
+      "basil",
+      "spring_onions",
+      "olive_oil",
+      "balsamic_vinegar",
+      "salt",
+      "black_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "green_peppers",
+      "carrots",
+      "onion",
+      "sugar",
+      "vinegar",
+      "mayonnaise",
+      "salt",
+      "pepper"
+    ],
+    "url": "http://cookeatshare.com/recipes/macaroni-salad-50353",
+    "partition": "val",
+    "title": "Macaroni Salad Recipe",
+    "id": "a68f006278",
+    "instructions": [
+      "Cook 1 lb .",
+      "of macaroni - let cold .",
+      "Then add in :"
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "green_peppers",
+      "carrots",
+      "onion",
+      "sugar",
+      "vinegar",
+      "mayonnaise",
+      "salt",
+      "pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "eggs",
+      "mayonnaise",
+      "salt_and_pepper"
+    ],
+    "url": "https://cookpad.com/us/recipes/148317-egg-salad-for-sandwiches-in-just-one-minute",
+    "partition": "val",
+    "title": "Egg Salad for Sandwiches in Just One Minute",
+    "id": "a94a659db7",
+    "instructions": [
+      "Break the eggs into a mug , and prick the yolk in several places with a fork .",
+      "It's a good idea to make lots of holes , until the eggs yolk nearly falls apart .",
+      "Cover the mug lightly with plastic wrap ( I use a cover ) , and microwave for one minute ( at 500 W ) .",
+      "I recommend microwaving it for 50 seconds first , and then microwaving it for an additional 10 seconds , rather than microwaving it for a full minute at once , so that it is less likely to explode .",
+      "Mash the eggs in the mug with a fork .",
+      "Season with the mayonnaise , salt & pepper .",
+      "Done !",
+      "You can use it for tartar sauce as well as eggs sandwiches .",
+      "Large eggss may take longer to cook .",
+      "Microwave these for an additional 10 seconds at a time , checking for doneness ."
+    ],
+    "images": [
+      {
+        "id": "6d044ec509.jpg",
+        "url": "https://img-global.cpcdn.com/001_recipes/6453103193751552/0x0/photo.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "eggs",
+      "mayonnaise",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "spring_onions",
+      "tomatoes",
+      "flour",
+      "mint",
+      "lemons",
+      "olive_oil",
+      "garlic",
+      "salt_and_pepper"
+    ],
+    "url": "https://cookpad.com/us/recipes/146860-tabbouleh-parsley-salad",
+    "partition": "val",
+    "title": "Tabbouleh Parsley Salad",
+    "id": "70582526e1",
+    "instructions": [
+      "Saute the grated garlic and olive_oil until fragrant , then let cool .",
+      "Rehydrate the Bulgar flour .",
+      "Soak the flour in a little more salted water than flour .",
+      "It should be a little firm .",
+      "Finely chop the parsley .",
+      "Thinly slice the spring_onionss .",
+      "Finely chop the mint leaves as well .",
+      "Put Steps 2 - 4 in a bowl with the chopped tomatoes and sprinkle with lemon juice .",
+      "Add the garlic olive_oil from Step 1 and mix well , being careful not to crush the tomatoes .",
+      "Season with salt_and_pepper to finish ."
+    ],
+    "images": [
+      {
+        "id": "418c500731.jpg",
+        "url": "https://img-global.cpcdn.com/001_recipes/6617288787623936/0x0/photo.jpg"
+      }
+    ],
+    "valid": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "spring_onions",
+      "tomatoes",
+      "flour",
+      "mint",
+      "lemons",
+      "olive_oil",
+      "garlic",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "sugar",
+      "water",
+      "vinegar",
+      "salt",
+      "vegetable_oil",
+      "pepper",
+      "onion",
+      "carrots"
+    ],
+    "url": "http://tastykitchen.com/recipes/salads/vegetable-salad/",
+    "partition": "val",
+    "title": "Vegetable Salad",
+    "id": "7481026daf",
+    "instructions": [
+      "Place first five ingredients in saucepan .",
+      "Bring to boil , stir to dissolve sugar .",
+      "Cool .",
+      "I have also made this without sugar but used four packets of Equal , and it turns out just fine .",
+      "Combine vegetables and mix in cooled liquid .",
+      "Cover and refrigerate at least three hours to develop flavors , or longer .",
+      "Stir occasionally .",
+      "This easily keeps at least four days if tightly covered ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "sugar",
+      "water",
+      "vinegar",
+      "salt",
+      "vegetable_oil",
+      "pepper",
+      "onion",
+      "carrots"
+    ]
+  },
+  {
+    "ingredients": [
+      "spaghetti",
+      "Italian_dressing",
+      "onion",
+      "green_peppers",
+      "tomatoes"
+    ],
+    "url": "http://www.food.com/recipe/spaghetti-salad-87655",
+    "partition": "val",
+    "title": "Spaghetti Salad",
+    "id": "3d5867dae1",
+    "instructions": [
+      "Cook pasta .",
+      "Rinse well in cool water .",
+      "Toss with itailian dressing and Salad Supreme seasoning .",
+      "Refrigerate overnight .",
+      "Before serving toss in veggies ."
+    ],
+    "valid": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "spaghetti",
+      "Italian_dressing",
+      "onion",
+      "green_peppers",
+      "tomatoes"
+    ]
+  },
+  {
+    "ingredients": [
+      "spaghetti",
+      "green_peppers",
+      "tomatoes",
+      "onion",
+      "Italian_dressing"
+    ],
+    "url": "http://cookeatshare.com/recipes/spaghetti-salad-49734",
+    "partition": "val",
+    "title": "Spaghetti Salad Recipe",
+    "id": "7b71a411ef",
+    "instructions": [
+      "Cook spaghetti ; drain well and rinse with cool water .",
+      "Mix spaghetti and vegetables .",
+      "Add in olives and salad dressing ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "new_ingrs": [
+      "spaghetti",
+      "green_peppers",
+      "tomatoes",
+      "onion",
+      "Italian_dressing"
+    ]
+  },
+  {
+    "ingredients": [
+      "eggplants",
+      "olive_oil",
+      "garlic",
+      "oregano",
+      "vinegar",
+      "red_onions",
+      "feta",
+      "salt_and_pepper"
+    ],
+    "url": "http://www.foodandwine.com/recipes/grilled-eggplant-and-feta-cheese-salad",
+    "partition": "val",
+    "title": "Grilled Eggplant & Feta Cheese Salad",
+    "id": "69e8d78f20",
+    "instructions": [
+      "Preheat grill .",
+      "Brush eggplants with oil and grill about 4 minutes on each side , or until soft with visible marks .",
+      "Meanwhile , in a bowl , whisk together the olive_oil , garlic , chile powder , oregano and vinegar until emulsified .",
+      "Remove eggplants from grill and cut into 1/2 inch dice .",
+      "In a bowl , combine eggplants with onion and toss with dressing .",
+      "Crumble feta over salad ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "eggplants",
+      "olive_oil",
+      "garlic",
+      "oregano",
+      "vinegar",
+      "red_onions",
+      "feta",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "onion",
+      "onion",
+      "vinegar",
+      "honey",
+      "olive_oil",
+      "salt_and_pepper"
+    ],
+    "url": "https://cookpad.com/us/recipes/170503-refreshing-cold-tomato-salad",
+    "partition": "val",
+    "title": "Refreshing Cold Tomato Salad",
+    "id": "4f1ba46061",
+    "instructions": [
+      "Grate one onion and finely chop the other .",
+      "Mix all the seasonings well and mix with the onion .",
+      "Boil water in a pot and put the tomatoes in .",
+      "Take them out , rinse in cold water , and peel once the skin starts to peel away as shown .",
+      "Peel the skin quickly after soaking in cold water .",
+      "It should be easy .",
+      "Cut the tomato into bite-sized pieces and remove the seeds .",
+      "Mix with Step 1 , then marinate and cool in the fridge ."
+    ],
+    "images": [
+      {
+        "id": "d475215fae.jpg",
+        "url": "https://img-global.cpcdn.com/001_recipes/5335405980286976/0x0/photo.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "onion",
+      "onion",
+      "vinegar",
+      "honey",
+      "olive_oil",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "lemon_juice",
+      "garlic",
+      "salt",
+      "olive_oil",
+      "oregano",
+      "black_pepper",
+      "lettuce",
+      "black_olives",
+      "feta",
+      "cherry_tomatoes",
+      "red_onions",
+      "green_peppers"
+    ],
+    "url": "http://www.foodnetwork.com/recipes/food-network-kitchens/greek-salad-recipe.html",
+    "partition": "val",
+    "title": "Greek Salad",
+    "id": "e3d33362e5",
+    "instructions": [
+      "In a small bowl , whisk together the lemon_juice , garlic , salt , and oil .",
+      "Stir in the oregano and pepper to taste .",
+      "Set aside .",
+      "When ready to serve : In a large bowl lightly toss the lettuce with some of the dressing .",
+      "Divide the lettuce among 4 salad bowls .",
+      "Scatter the olives , cheese , cucumber , tomatoes , onion , and peppers over the top of the greens .",
+      "Serve and pass the remaining dressing at the table ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "new_ingrs": [
+      "lemon_juice",
+      "garlic",
+      "salt",
+      "olive_oil",
+      "oregano",
+      "black_pepper",
+      "lettuce",
+      "black_olives",
+      "feta",
+      "cherry_tomatoes",
+      "red_onions",
+      "green_peppers"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "basil",
+      "mozzarella_cheese",
+      "Italian_dressing"
+    ],
+    "url": "http://www.kraftrecipes.com/recipes/tomato-basil-salad-60587.aspx",
+    "partition": "val",
+    "title": "Tomato-Basil Salad",
+    "id": "460c04c9ac",
+    "instructions": [
+      "Arrange tomatoes , onions and basil on platter ; sprinkle with cheese .",
+      "Drizzle with dressing .",
+      "Serve immediately ."
+    ],
+    "images": [
+      {
+        "id": "0d568f4e29.jpg",
+        "url": "http://assets.kraftfoods.com/recipe_images/Tomato_Basil_Salad.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "basil",
+      "mozzarella_cheese",
+      "Italian_dressing"
+    ]
+  },
+  {
+    "ingredients": [
+      "lettuce",
+      "feta",
+      "black_olives",
+      "green_peppers",
+      "red_onions",
+      "parsley",
+      "tomatoes",
+      "vinegar",
+      "olive_oil",
+      "salt_and_pepper"
+    ],
+    "url": "http://www.foodnetwork.com/recipes/greek-salad-recipe1.html",
+    "partition": "val",
+    "title": "Greek Salad",
+    "id": "110d1e190e",
+    "instructions": [
+      "Remove the outer leaves of the romaine , reserve for the salad mix .",
+      "Save the hearts to put the completed salad in .",
+      "Shred the outer leaves of the lettuce , and add to a mixing bowl with 1/2 the cheese and all of the remaining ingredients .",
+      "Season with salt_and_pepper .",
+      "Arrange the lettuce hearts on a serving platter .",
+      "Fill the leaves with some of the salad , and put the rest of the salad in the center of the serving tray ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "lettuce",
+      "feta",
+      "black_olives",
+      "green_peppers",
+      "red_onions",
+      "parsley",
+      "tomatoes",
+      "vinegar",
+      "olive_oil",
+      "salt_and_pepper"
+    ]
+  },
+  {
+    "ingredients": [
+      "parsley",
+      "salt",
+      "black_pepper",
+      "lemon_juice",
+      "olive_oil",
+      "red_onions",
+      "tomatoes"
+    ],
+    "url": "http://cooking.nytimes.com/recipes/5080",
+    "partition": "val",
+    "title": "Parsley Salad",
+    "id": "d54843e246",
+    "instructions": [
+      "Rinse , spin-dry and refrigerate the parsley .",
+      "Place the salt and pepper in a salad bowl .",
+      "Add the lemon_juice .",
+      "Slowly whisk in the olive_oil .",
+      "When the vinaigrette is thick and stable , add the onion and the tomato and toss .",
+      "Add the parsley , toss gently and serve .",
+      "To be eaten alone , or on top of breaded and pan-fried veal , chicken or oily fish like tuna ."
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "parsley",
+      "salt",
+      "black_pepper",
+      "lemon_juice",
+      "olive_oil",
+      "red_onions",
+      "tomatoes"
+    ]
+  },
+  {
+    "ingredients": [
+      "mayonnaise",
+      "sugar",
+      "vinegar"
+    ],
+    "url": "http://cookeatshare.com/recipes/broccoli-cheese-salad-49912",
+    "partition": "val",
+    "title": "Broccoli Cheese Salad Recipe",
+    "id": "c39d7eeeb9",
+    "instructions": [
+      "Mix dressing , let set in refrigerator 3 to 4 hrs .",
+      "Add in dressing to salad .",
+      "Mix gently and chill ."
+    ],
+    "valid": [
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "mayonnaise",
+      "sugar",
+      "vinegar"
+    ]
+  },
+  {
+    "ingredients": [
+      "tomatoes",
+      "red_onions",
+      "cilantro",
+      "lemon_juice",
+      "olive_oil",
+      "salt",
+      "black_pepper"
+    ],
+    "url": "https://recipeland.com/recipe/v/easy-tomato-red-onion-salad-50383",
+    "partition": "val",
+    "title": "Easy Tomato and Red Onion Salad",
+    "id": "38ddcc1719",
+    "instructions": [
+      "Combine tomato , red_onions and cilantro leaves in a medium bowl .",
+      "Stir in lemon_juice , olive_oil and cilantro leaves .",
+      "Season with salt and pepper if desired ."
+    ],
+    "images": [
+      {
+        "id": "8ad5962794.jpg",
+        "url": "https://recipeland.com/images/r/1349/4c26fc9267710472750c_550.jpg"
+      }
+    ],
+    "valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "new_ingrs": [
+      "tomatoes",
+      "red_onions",
+      "cilantro",
+      "lemon_juice",
+      "olive_oil",
+      "salt",
+      "black_pepper"
+    ]
+  }
+]
