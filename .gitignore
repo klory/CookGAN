@@ -5,8 +5,3 @@ __pycache__/
 
 explore_data.ipynb
 data/
-
-#추가
-unused/
-metrics/
-cookgan/
