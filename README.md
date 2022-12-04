@@ -28,12 +28,15 @@ We tackled the challenge of including contextual information when generating rea
 ## Train Image Encoder
 - Download UPMC-Food-101 dataset from [HERE](https://drive.google.com/drive/folders/1cpb5g0I5DJAffqEaJ3gLKiySJ8KGopPN) and place it inside CS470_HnC/retrieval_model/pretrain_upmc/. <br/>
 - **CS470_HnC/retrieval_model/pretrain_upmc/train_upmc.py:** Train Image Encoder on UPMC-Food-101 dataset.
+- The training process can be viewed [HERE](https://wandb.ai/hnc/cookgan_pretrain_upmc?workspace=user-yeonsuuuu28)
 
 ## Train FoodSpace
 - **CS470_HnC/retrieval_model/run_retrieval_nobak.sh:** Train Attention-based Retrieval Model.
+- The training process can be viewed [HERE](https://wandb.ai/hnc/cookgan_retrieval_model?workspace=user-yeonsuuuu28)
 
 ## Train CookGAN
 - **CS470_HnC/cookgan/run.sh:** Train CookGAN on salad.
+- The training process can be viewed[HERE](https://wandb.ai/hnc/cookgan?workspace=user-yeonsuuuu28)
 
 ## Conduct Interpolation In Latent Space
 - **CS470_HnC/made_a_little_cookgan/run_interpolation.ipynb:** Generate Meal Image with Ingredient List & Conduct Appropriate Interpolation
