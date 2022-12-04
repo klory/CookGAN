@@ -26,7 +26,7 @@ We tackled the challenge of including contextual information when generating rea
 - **CS470_HnC/retrieval_model/train_word2vec.py:** Train Word2Vec to Generate `models/word2vec_recipes.bin`.
 
 ## Train Image Encoder
-- Download UPMC-Food-101 dataset from [HERE] and place it inside CS470_HnC/retrieval_model/pretrain_upmc/. <br/>
+- Download UPMC-Food-101 dataset from [HERE](https://drive.google.com/drive/folders/1cpb5g0I5DJAffqEaJ3gLKiySJ8KGopPN) and place it inside CS470_HnC/retrieval_model/pretrain_upmc/. <br/>
 - **CS470_HnC/retrieval_model/pretrain_upmc/train_upmc.py:** Train Image Encoder on UPMC-Food-101 dataset.
 
 ## Train FoodSpace
