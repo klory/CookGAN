@@ -77,7 +77,7 @@ class Dataset(data.Dataset):
         w2i = {w: i+2 for i, w in enumerate(wv.index2word)}
         w2i['<other>'] = 1
         self.w2i = w2i
-        print('vocab size =', len(self.w2i))
+        #print('vocab size =', len(self.w2i))
 
         self.img_dir = img_dir
         self.transform = transform
@@ -121,14 +121,14 @@ if __name__ == '__main__':
                 words.append(i2w[i])
             return words
 
-        print('[title] = {}'.format(' '.join(get_words(txt[0], txt[1], i2w))))
-        print('[ingredients] = {}'.format(get_words(txt[2], txt[3], i2w)))
-        print('[instructions]')
+        #print('[title] = {}'.format(' '.join(get_words(txt[0], txt[1], i2w))))
+        #print('[ingredients] = {}'.format(get_words(txt[2], txt[3], i2w)))
+        #print('[instructions]')
         instructions, n_insts, n_words_each_inst = txt[4], txt[5], txt[6]
         for i in range(n_insts):
             inst = instructions[i]
             inst_length = n_words_each_inst[i]
-            print('[{:>2d}] {}'.format(i+1, ' '.join(get_words(inst, inst_length, i2w))))
+            #print('[{:>2d}] {}'.format(i+1, ' '.join(get_words(inst, inst_length, i2w))))
 
         from matplotlib import pyplot as plt
         def show(img):
@@ -138,4 +138,4 @@ if __name__ == '__main__':
             plt.show()
 
         show(img)
-        print()
+        #print()

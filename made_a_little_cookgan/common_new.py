@@ -19,10 +19,6 @@ import sys
 import models_retrieval_nobak
 import models_cookgan_for_retrieval
 
-# import importlib
-# importlib.reload(models_retrieval_nobak)
-
-
 root = '/data/CS470_HnC'
 
 def clean_state_dict(state_dict):
@@ -219,7 +215,7 @@ def load_dict(file_path):
     return w2i
 
 def load_model(ckpt_path, device='cuda'):
-    print('load retrieval model from:', ckpt_path)
+    #print('load retrieval model from:', ckpt_path)
     ckpt = torch.load(ckpt_path)
     ckpt_args = ckpt['args']
     batch_idx = ckpt['batch_idx']
@@ -239,7 +235,7 @@ def compute_txt_feature(recipes, TxtEnc, word2i, ingr2i):
     pass_count = 0
     txt_feat = torch.empty(1,1024)
     for recipe in recipes:
-        print(i)
+        #print(i)
         if len(recipe['ingredients']) >= 20:
             pass_count+=1
             continue
@@ -282,17 +278,13 @@ def generate_images(ingredients, batch) :
     data_dir='/data/CS470_HnC/made_a_little_cookgan/', text_info='010', hid_dim=300,
     emb_dim=300, z_dim=1024, with_attention=2,
     ingr_enc_type='rnn').eval()
-    # model = torch.load('/data/CS470_HnC/retrieval_model/wandb/run-20221115_141017-qn8zgvm8/files/00390000.ckpt')['text_encoder']
-    # text_encoder.load_state_dict(model, strict = False)
     text_encoder.load_state_dict(torch.load('/data/CS470_HnC/made_a_little_cookgan/text_encoder.model'))
 
     netG = models_cookgan_for_retrieval.G_NET(levels=3).eval().requires_grad_(False)
-    # netG.load_state_dict(torch.load('/data/CS470_HnC/cookgan/wandb/run-20221120_171820-1jnhbhwl/files/180000.ckpt')['netG'])
     netG.load_state_dict(torch.load('/data/CS470_HnC/made_a_little_cookgan/gen_salad_cycleTxt1.0_e300.model'))
 
 
     title = 'dummy title'
-    # print('[DEBUG]', ingredients)
     instructions = 'dummy instructions'
 
     recipe = {
@@ -301,7 +293,6 @@ def generate_images(ingredients, batch) :
         'instructions': instructions
     }
     title_vec, ingrs_vec, insts_vec = vectorize(recipe, word2i, ingr2i)
-    # print(ingrs_vec)
     title_vec = title_vec.repeat(batch, 1)
     ingrs_vec = ingrs_vec.repeat(batch, 1)
     insts_vec = insts_vec.repeat(batch, 1, 1)
@@ -346,7 +337,7 @@ def compute_ingredient_retrival_score(imgs, txts, tops):
         # sort indices in descending order
         sorting = np.argsort(sim)[::-1].tolist()
         topk_idxs = sorting[:tops]
-        print(topk_idxs)
+        #print(topk_idxs)
         success = 0.0
         for rcp_idx in topk_idxs:
             rcp = recipes[rcp_idx]

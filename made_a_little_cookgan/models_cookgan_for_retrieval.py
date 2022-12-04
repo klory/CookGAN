@@ -23,7 +23,7 @@ class INCEPTION_V3(nn.Module):
         self.model.load_state_dict(state_dict)
         for param in self.model.parameters():
             param.requires_grad = False
-        print('Load pretrained inception_v3 model from', url)
+        # print('Load pretrained inception_v3 model from', url)
         # print(next(self.model.parameters()).data)
         # print(self.model)
 
@@ -525,12 +525,12 @@ if __name__ == '__main__':
     noise = torch.randn(bs, args.z_dim).to(device)
     txt_feat = torch.randn(bs, args.input_dim).to(device)
     fake_imgs, mu, logvar = G(noise, txt_feat)
-    print(len(fake_imgs))
-    print(fake_imgs[2].shape)
-    print(mu.shape, logvar.shape)
+    #print(len(fake_imgs))
+    #print(fake_imgs[2].shape)
+    #print(mu.shape, logvar.shape)
     
     for level in range(3):
         D = Ds[level]
         img = imgs[level]
         real_logits = D(img, mu.detach())
-        print(real_logits[0].shape, real_logits[1].shape)
+        #print(real_logits[0].shape, real_logits[1].shape)
