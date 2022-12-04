@@ -36,7 +36,6 @@ We tackled the challenge of including contextual information when generating rea
 - **CS470_HnC/cookgan/run.sh:** Train CookGAN on salad.
 
 ## Conduct Interpolation In Latent Space
-- **CS470_HnC/made_a_little_cookgan/:** Contain Our Code Files for Interpolation
 - **CS470_HnC/made_a_little_cookgan/run_interpolation.ipynb:** Generate Meal Image with Ingredient List & Conduct Appropriate Interpolation
 - **CS470_HnC/made_a_little_cookgan/interpolation_example/:** Example Interpolation Results
-- The output can be previewed from the `run_interpolation.ipynb` jupyter notebook. 
+- The output can be previewed from the `run_interpolation.ipynb` jupyter notebook. The step-by-step instruction is given in the file itself.
